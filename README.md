@@ -44,7 +44,9 @@
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pixel-to-plate.git
+python3 -m venv .venv
+. .venv/bin/activate
+git clone https://github.com/IESHAAN2002/pixel-to-plate.git
 cd pixel-to-plate
 ```
 
