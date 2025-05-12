@@ -100,12 +100,36 @@ streamlit run Pixel_to_plate.py
 ---
 
 ## 📄 Input File Format
-
-Create a simple text file (`ingredients.txt`) with your available ingredients, one per line:
-> tomatoes
-> onions
-> olive oil
+Visual where user will add personal details, ![User Input](visuals/User Inputs.png)
+Create a simple text file (`ingredients.txt`) with your available ingredients, one line:
+> tomatoes,
+> onions,
+> olive oil,
 > chicken breast
+
+---
+## 🖼️ Output
+
+### 🧾 Recipe Instruction Generated in English
+![Recipe in English](visuals/English_generation.png)
+
+### 🧾 Recipe Instruction Generated in Hindi
+![Recipe in Hindi](visuals/Hindi_result.png)
+
+### 🧠 Prompt Tuning (Chain of Thought)
+![Chain of Thought](visuals/Thought_process.png)
+
+### 🍽️ Personalized Dietary Guidance
+
+#### Part 1
+![Dietary Guidance 1](visuals/Dietary_Part_1.png)
+
+#### Part 2
+![Dietary Guidance 2](visuals/Dietary_Part_2.png)
+
+#### Part 3
+![Dietary Guidance 3](visuals/Dietary_Part_3.png)
+
 
 ---
 
