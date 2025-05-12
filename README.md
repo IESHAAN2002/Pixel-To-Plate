@@ -26,12 +26,12 @@
 - **Facebook/m2m100-418M**: Fully multilingual model trained on 100 languages
 - **Helsinki-NLP/opus-mt-en-hi (MarianMT)**: Lightweight architecture, tailored for the English–Hindi language
 
-**🔍 Note:**  
+**Note:**  
 > We explored the use of advanced vision-based and multilingual models as part of the project.  
 > However, due to limitations in Streamlit's support for certain heavy-weight or multi-modal models, we were unable to integrate them directly into the Streamlit application.
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8+  
 - Together API account for DeepSeek model access  
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository:
 ```bash
@@ -62,7 +62,7 @@ export TOGETHER_API_KEY="your_together_api_key"
 
 ---
 
-## 🏃‍♂️ Running the Application
+## Running the Application
 Start the Streamlit app
 ```bash
 streamlit run Pixel_to_plate.py
@@ -70,7 +70,7 @@ streamlit run Pixel_to_plate.py
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 - **Upload Ingredients**: Provide a text file with your available ingredients  
 - **Input Personal Details**: Enter your age, weight, height, and other metrics  
@@ -82,10 +82,10 @@ streamlit run Pixel_to_plate.py
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 - User inputs are collected through the Streamlit interface  
-- DeepSeek AI generates a recipe with a step-by-step thinking process  
+- DeepSeek AI generates a recipe with Chain of Thought(step-by-step thinking) 
 - The recipe is presented with detailed instructions and nutritional information  
 - Gemini AI provides additional dietary guidance based on the user's health profile  
 - Optional translation converts the recipe to Hindi  
@@ -101,8 +101,10 @@ streamlit run Pixel_to_plate.py
 ---
 
 ## 📄 Input File Format
-Visual where user will add personal details:
+### Visual where user will add personal details:
+
 ![User Input](visuals/User_Inputs.png)
+
 Create a simple text file (`ingredients.txt`) with your available ingredients, one line:
 > tomatoes,
 > onions,
