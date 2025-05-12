@@ -1,4 +1,4 @@
-# Pixel-To-Plate 🍽️
+# Pixel-To-Plate 
 
 **Pixel to Plate** is a personalized recipe generator powered by agentic AI that creates custom recipes based on your available ingredients, personal health metrics, and dietary preferences.
 
@@ -92,7 +92,7 @@ streamlit run Pixel_to_plate.py
 
 ---
 
-## 🛠️ Customization
+## Customization
 
 - **Custom Preferences**: Add specific requirements like "no garlic" or "quick prep time"  
 - **Dietary Restrictions**: Select from options like Keto, Vegetarian, Low Carb, or Balanced  
@@ -100,7 +100,7 @@ streamlit run Pixel_to_plate.py
 
 ---
 
-## 📄 Input File Format
+## Input File Format
 ### Visual where user will add personal details:
 
 ![User Input](visuals/User_Inputs.png)
