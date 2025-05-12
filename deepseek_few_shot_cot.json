@@ -1,0 +1,609 @@
+[
+    {
+        "recipe_name": "Mozzarella Chicken(Over Sauce)  ",
+        "ingredients": [
+            "2 1/2 to 3 lb. chicken",
+            "2 eggs, beaten",
+            "1/2 c. dry bread crumbs",
+            "1/4 c. butter",
+            "1 (8 oz.) can tomato sauce",
+            "1/2 tsp. dried basil",
+            "cooked egg noodles",
+            "Mozzarella Sauce",
+            "1/2 c. shredded cheese (Mozzarella)",
+            "1/4 tsp. paprika"
+        ],
+        "instructions": [
+            "Cut chicken into serving size pieces.",
+            "Dip into eggs; coat with crumbs.",
+            "Heat butter in skillet.",
+            "Cook chicken over medium heat until brown.",
+            "Stir in tomato sauce and basil.",
+            "Reduce heat; cover and cook over low heat for about 30 minutes, turning chicken every 10 minutes.",
+            "Prepare sauce.",
+            "Put noodles in a 9 x 13-inch pan.",
+            "Arrange chicken on top.",
+            "Spoon sauce over chicken.",
+            "Sprinkle cheese and paprika.",
+            "Broil 6 to 7 inches from broiler until cheese is melted and bubbly."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for a chicken dish, but the instructions were cut off. \n\nFirst, I need to understand the user's intent. They seem to be looking for a clear, organized recipe that they can follow easily. The example they gave is quite detailed, so they probably appreciate thorough instructions. \n\nLooking at the ingredients for the chicken recipe, I notice it's for a baked chicken dish with elements like tomato sauce, basil, and mozzarella. It seems like a classic baked chicken with some Italian influences. \n\nI should start by outlining the steps in a logical order. Preheating the oven is usually the first step. Then, preparing the chicken by rinsing and seasoning makes sense. Next, the breading process with eggs and breadcrumbs is standard for baked chicken to make it crispy. \n\nAfter that, cooking the chicken in a skillet to brown it before baking will add flavor. Then, setting up the baking dish with tomato sauce and spices creates the base. Placing the chicken on top and adding cheese and breadcrumbs should come next. \n\nBaking until the chicken is cooked through is crucial, and letting it rest ensures juiciness. Serving with egg noodles and additional sauce on the side completes the meal. \n\nI should make sure each step is clear and concise, using bullet points for readability. Including notes about internal temperature and optional steps like serving with noodles adds value. \n\nI also need to ensure that the measurements and instructions are accurate, so the user can follow without confusion. Keeping the language simple and direct will help the user execute the recipe smoothly.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n---\n\n### **Baked Chicken with Tomato Sauce and Mozzarella**\n\n#### **Ingredients:**\n- 2 1/2 to 3 lb. chicken (cut into pieces or whole chicken)\n- 2 eggs, beaten\n- 1/2 c. dry bread crumbs\n- 1/4 c. butter\n- 1 (8 oz.) can tomato sauce\n- 1/2 tsp. dried basil\n- Cooked egg noodles (for serving)\n- Mozzarella Sauce (for serving)\n- 1/2 c. shredded cheese (Mozzarella)\n- 1/4 tsp. paprika\n\n---\n\n#### **Instructions:**\n\n1. **Preheat the oven:**  \n   Preheat your oven to 375\u00b0F (190\u00b0C).\n\n2. **Prepare the chicken:**  \n   Rinse the chicken pieces under cold water and pat them dry with paper towels. Season lightly with salt and pepper if desired.\n\n3. **Dredge the chicken in breadcrumbs:**  \n   In a shallow dish, mix the bread crumbs with a pinch of salt and pepper. Dip each piece of chicken into the beaten eggs, coating it completely, then roll it in the bread crumb mixture to coat evenly. Place the breaded chicken pieces on a plate or tray.\n\n4. **Cook the chicken in a skillet:**  \n   Melt the butter in a large skillet over medium heat. Add the breaded chicken pieces and cook until golden brown on all sides, about 5-7 minutes per side. Remove the chicken from the skillet and set aside.\n\n5. **Prepare the baking dish:**  \n   In a greased 9x13-inch baking dish, spread a thin layer of tomato sauce on the bottom. Sprinkle a pinch of dried basil over the sauce.\n\n6. **Assemble the dish:**  \n   Arrange the browned chicken pieces in the baking dish, placing them on top of the tomato sauce. Sprinkle the shredded Mozzarella cheese and a pinch of paprika over the chicken.\n\n7. **Bake the chicken:**  \n   Cover the dish with aluminum foil and bake for 25-30 minutes. Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly, and the chicken is fully cooked. The internal temperature of the chicken should reach 165\u00b0F (74\u00b0C).\n\n8. **Serve:**  \n   Serve the baked chicken hot over cooked egg noodles. Drizzle with additional tomato sauce or Mozzarella Sauce if desired. Garnish with chopped parsley or basil for extra flavor and presentation.\n\n---\n\nEnjoy your delicious baked chicken with tomato sauce and mozzarella!",
+        "evaluation": {
+            "BLEU": 0.009490256474753938,
+            "ROUGE-1": 0.16886543535620052,
+            "ROUGE-2": 0.04497354497354497,
+            "ROUGE-L": 0.10817941952506595
+        }
+    },
+    {
+        "recipe_name": "Moussaka",
+        "ingredients": [
+            "2 medium eggplants",
+            "vegetable oil",
+            "1 lb. lean ground beef",
+            "2 medium onions, peeled and chopped",
+            "2 cloves garlic, peeled and crushed",
+            "1 (8 oz.) can tomato sauce",
+            "1 tsp. dried leaf oregano",
+            "1 tsp. salt, divided",
+            "1/4 tsp. black pepper, divided",
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. all-purpose flour",
+            "1 c. low-fat milk",
+            "1 egg",
+            "1/3 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Peel eggplants; slice 1/4-inch thick. Brush rimmed cookie sheet with oil. Coat each slice of eggplant on both sides with oil; place on cookie sheet.",
+            "Broil close to broiler until brown. Turn; brush with oil, if necessary.",
+            "Brown the other side. Repeat with all the eggplant slices."
+        ],
+        "response": "<think>\nOkay, so the user provided a query where they want me to act as an expert chef, giving structured, step-by-step recipes. They included an example with ingredients and instructions for a potato dish, and then another set of ingredients for an eggplant recipe without the instructions. \n\nFirst, I need to understand the pattern from the first example. The user listed ingredients and then provided a detailed, step-by-step method. They want me to follow that structure for the second set of ingredients. \n\nLooking at the eggplant ingredients, I see it's for a dish that likely involves layering, maybe like a casserole or moussaka. The presence of ground beef, tomato sauce, and cheese suggests a baked dish. \n\nI should start by preparing the eggplant. Typically, eggplant is sliced, salted, and drained to remove bitterness. Then it's often fried or baked. Since the example used microwaving for potatoes, maybe I can suggest baking the eggplant slices to make it healthier.\n\nNext, the ground beef needs to be browned with onions and garlic. Then tomato sauce and spices are added. That forms the meat sauce layer. \n\nThe white sauce ingredients include butter, flour, milk, egg, and Parmesan. That sounds like a b\u00e9chamel sauce, which is common in dishes like lasagna. I'll need to make that separately, ensuring it's smooth and well-seasoned.\n\nAssembly would involve layering the eggplant, meat sauce, and white sauce, repeating until all ingredients are used, finishing with white sauce on top. Then, adding cheese and baking until golden and bubbly.\n\nI should make sure each step is clear and concise, mirroring the structure of the first example. Also, I'll need to list the ingredients again at the top for clarity, even though they were provided, to keep the format consistent.\n\nI should also consider any potential steps that might need extra detail, like making the b\u00e9chamel or properly draining the eggplant. Maybe mention letting it rest before serving, as that helps the dish set.\n\nFinally, I'll present the recipe in a numbered list, ensuring each step logically follows the previous one, just like the example. I'll make sure to include all the ingredients and their quantities as specified.\n</think>\n\n### Eggplant Casserole Recipe\n\n#### Ingredients:\n- 2 medium eggplants\n- Vegetable oil (for greasing)\n- 1 lb. lean ground beef\n- 2 medium onions, peeled and chopped\n- 2 cloves garlic, peeled and crushed\n- 1 (8 oz.) can tomato sauce\n- 1 tsp. dried leaf oregano\n- 1 tsp. salt, divided\n- 1/4 tsp. black pepper, divided\n- 2 Tbsp. butter or margarine\n- 2 Tbsp. all-purpose flour\n- 1 c. low-fat milk\n- 1 egg\n- 1/3 c. grated Parmesan cheese\n\n---\n\n#### Instructions:\n\n1. **Prepare the Eggplant:**\n   - Wash the eggplants and slice them into 1/4-inch thick rounds.\n   - Sprinkle both sides of the eggplant slices with salt. Let them sit for 10-15 minutes to draw out moisture and bitterness. Rinse the slices under cold water, then pat them dry with paper towels.\n   - Preheat the oven to 375\u00b0F (190\u00b0C). Lightly brush both sides of the eggplant slices with vegetable oil. Place them on a baking sheet lined with parchment paper.\n   - Bake the eggplant slices in the preheated oven for 20-25 minutes, or until tender and lightly browned. Set aside.\n\n2. **Cook the Ground Beef:**\n   - In a large skillet, brown the ground beef over medium-high heat until fully cooked. Drain excess fat.\n   - Add the chopped onions and crushed garlic to the skillet. Saut\u00e9 until the onions are translucent.\n   - Stir in the tomato sauce, dried oregano, 1/2 tsp. of the salt, and 1/8 tsp. of the black pepper. Bring the mixture to a simmer and let it cook for 5-7 minutes. Set aside.\n\n3. **Make the White Sauce:**\n   - In a medium saucepan, melt the butter over medium heat.\n   - Add the flour and stir to form a smooth paste. Cook for 1-2 minutes, stirring constantly.\n   - Gradually pour in the milk, whisking continuously to avoid lumps. Bring the mixture to a simmer and cook until it thickens, about 3-5 minutes.\n   - Remove the saucepan from the heat. Stir in the egg and 1/3 cup of grated Parmesan cheese until well combined. Season with the remaining 1/2 tsp. salt and 1/8 tsp. black pepper. Set aside.\n\n4. **Assemble the Casserole:**\n   - In a greased 9x13-inch baking dish, spread a thin layer of the meat sauce at the bottom.\n   - Arrange a layer of baked eggplant slices over the meat sauce.\n   - Spread half of the remaining meat sauce over the eggplant, followed by half of the white sauce.\n   - Repeat the layers: another layer of eggplant, the remaining meat sauce, and finally the remaining white sauce.\n   - Sprinkle the top of the casserole with additional grated Parmesan cheese if desired.\n\n5. **Bake the Casserole:**\n   - Cover the dish with aluminum foil and bake at 375\u00b0F (190\u00b0C) for 25 minutes.\n   - Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown and the casserole is bubbly.\n\n6. **Serve:**\n   - Let the casserole rest for 10 minutes before slicing and serving. Enjoy!",
+        "evaluation": {
+            "BLEU": 1.487317247965011e-155,
+            "ROUGE-1": 0.07973421926910298,
+            "ROUGE-2": 0.0244173140954495,
+            "ROUGE-L": 0.05315614617940199
+        }
+    },
+    {
+        "recipe_name": "Blueberry Muffins With Lemon",
+        "ingredients": [
+            "2 c. sifted flour",
+            "1/3 c. sugar",
+            "3 tsp. baking powder",
+            "1 tsp. salt",
+            "1 egg, beaten",
+            "1 c. milk",
+            "1/4 c. melted butter, cooled",
+            "1 c. fresh or thawed blueberries",
+            "1 Tbsp. sugar and grated lemon rind, mixed"
+        ],
+        "instructions": [
+            "Sift together flour, sugar, baking powder and salt.",
+            "Mix with fork the beaten egg, milk and butter."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included two examples, one for a potato dish and another for blueberry muffins. The user then pasted the second set of ingredients but didn't finish the instructions, so I need to figure out how to respond.\n\nFirst, I should recognize that the user is looking for a consistent format. They provided the first recipe in detail, so I should follow that structure for the second one. The ingredients for the blueberry muffins are listed, so I need to create a step-by-step guide that's clear and easy to follow.\n\nI'll start by identifying the key components: preheating the oven, preparing the muffin tin, mixing dry ingredients, combining wet ingredients, gently folding in the blueberries, and baking. It's important to be detailed but concise, ensuring each step is understandable for someone who might be baking these muffins for the first time.\n\nI should also make sure to include any important tips, like not overmixing the batter to keep the muffins tender, and the optional step of adding a lemon sugar topping for extra flavor. This adds value and helps the user achieve the best result possible.\n\nFinally, I'll structure the response with clear numbering and concise instructions, mirroring the format of the first example they provided. This consistency will make it easier for the user to follow along and replicate the recipe successfully.\n</think>\n\n1. Preheat your oven to 375\u00b0F (190\u00b0C). Line a 12-cup muffin tin with paper liners.\n\n2. In a large bowl, whisk together the sifted flour, sugar, baking powder, and salt.\n\n3. In a separate bowl, whisk the beaten egg, milk, and melted butter until well combined.\n\n4. Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.\n\n5. Gently fold in the blueberries.\n\n6. Divide the batter evenly among the muffin cups.\n\n7. Sprinkle the tops with the mixed blueberry sugar and lemon rind if desired.\n\n8. Bake for 18-20 minutes, or until the muffins are golden brown and a toothpick inserted into the center comes out clean.\n\n9. Allow the muffins to cool in the tin for 5 minutes, then transfer them to a wire rack to cool completely.",
+        "evaluation": {
+            "BLEU": 4.613878875427696e-79,
+            "ROUGE-1": 0.07804878048780488,
+            "ROUGE-2": 0.04411764705882353,
+            "ROUGE-L": 0.06341463414634146
+        }
+    },
+    {
+        "recipe_name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "1 head cabbage",
+            "1 lb. ground beef",
+            "1/2 c. rice",
+            "1 small onion, chopped",
+            "2 eggs",
+            "salt and pepper to taste",
+            "1 large onion, sliced",
+            "2 (8 oz.) cans tomato sauce",
+            "2 (29 oz.) cans tomatoes",
+            "juice of 2 lemons",
+            "1/2 c. packed brown sugar"
+        ],
+        "instructions": [
+            "Pour boiling water over cabbage in bowl.",
+            "Let stand for several minutes to loosen leaves; drain.",
+            "Combine ground beef, rice, chopped onion, eggs, salt and pepper in bowl."
+        ],
+        "response": "<think>\nOkay, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for a cabbage recipe, but didn't finish the instructions. \n\nFirst, I need to understand the user's intent. They seem to be looking for a consistent way to present recipes, probably for a cooking audience. The example they gave is quite detailed, so they likely want something similar for the cabbage recipe.\n\nLooking at the ingredients for the cabbage dish, I notice it's a classic stuffed cabbage rolls recipe. The ingredients include ground beef, rice, cabbage, tomatoes, etc., which are typical for this dish. So, I should structure the recipe in a clear, step-by-step manner, similar to the example they provided.\n\nI should start by outlining the preparation steps, like boiling the cabbage to soften the leaves. Then, making the filling with ground beef, rice, eggs, and spices. Assembling the rolls, cooking them, and making the sauce. Finally, combining everything and letting it simmer.\n\nI also need to make sure the instructions are easy to follow, with each step clearly explained. Including tips, like using leftover rice or the size of the onion slices, adds value. I should also mention the option to adjust seasoning to taste, which makes the recipe more flexible for different preferences.\n\nI should avoid any markdown and keep the language natural, as per the user's request. Making sure each step flows logically into the next will help the user follow along without confusion.\n\nSo, putting it all together, I'll structure the recipe with numbered steps, starting from preparing the cabbage, making the filling, assembling the rolls, cooking, and finishing with the sauce. I'll also add a note about serving and possible variations to enhance the recipe's usefulness.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n---\n\n### **Stuffed Cabbage Rolls with Tomato-Based Sauce**\n\n#### **Ingredients**:\n- 1 head cabbage\n- 1 lb. ground beef\n- 1/2 c. rice\n- 1 small onion, chopped\n- 2 eggs\n- Salt and pepper to taste\n- 1 large onion, sliced\n- 2 (8 oz.) cans tomato sauce\n- 2 (29 oz.) cans tomatoes\n- Juice of 2 lemons\n- 1/2 c. packed brown sugar\n\n---\n\n#### **Instructions**:\n\n1. **Prepare the Cabbage**:\n   - Bring a large pot of water to a boil.\n   - Carefully place the head of cabbage into the boiling water, core side down.\n   - Blanch the cabbage for about 5-7 minutes, or until the leaves soften and begin to separate.\n   - Remove the cabbage from the water and let it cool slightly.\n   - Peel off the leaves one by one, starting from the outside. You\u2019ll need about 12-15 large leaves for the rolls.\n\n2. **Prepare the Filling**:\n   - In a large mixing bowl, combine the ground beef, rice, chopped onion, eggs, salt, and pepper. Mix well with your hands or a wooden spoon until all ingredients are fully incorporated.\n\n3. **Assemble the Cabbage Rolls**:\n   - Lay a cabbage leaf flat on a work surface.\n   - Place about 1/4 cup of the meat mixture in the center of the leaf.\n   - Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package. Repeat with the remaining leaves and filling.\n\n4. **Cook the Cabbage Rolls**:\n   - In a large Dutch oven or heavy pot, arrange a layer of sliced onions at the bottom.\n   - Place the cabbage rolls seam-side down on top of the onions. Do not overcrowd the pot; you may need to cook them in batches.\n\n5. **Prepare the Sauce**:\n   - In a separate bowl, combine the tomato sauce, canned tomatoes, lemon juice, brown sugar, salt, and pepper. Stir well to combine.\n\n6. **Simmer the Cabbage Rolls**:\n   - Pour the tomato sauce mixture evenly over the cabbage rolls.\n   - Bring the mixture to a simmer over medium heat.\n   - Reduce the heat to low, cover the pot, and let the cabbage rolls cook for about 25-30 minutes, or until the cabbage is tender and the filling is fully cooked.\n\n7. **Serve**:\n   - Serve the cabbage rolls hot, topped with the flavorful tomato sauce.\n   - Garnish with fresh parsley or a dollop of sour cream if desired.\n\n---\n\nEnjoy your hearty and flavorful stuffed cabbage rolls!",
+        "evaluation": {
+            "BLEU": 0.008186683919747627,
+            "ROUGE-1": 0.06469002695417789,
+            "ROUGE-2": 0.024324324324324326,
+            "ROUGE-L": 0.05121293800539083
+        }
+    },
+    {
+        "recipe_name": "Oriental Salad",
+        "ingredients": [
+            "1 can LeSueur small peas",
+            "1 can Shoe Peg white corn",
+            "1 can French-cut green beans",
+            "1 (16 oz.) can bean sprouts",
+            "1 (4 oz.) jar pimientos",
+            "1 large onion, shredded fine",
+            "1 (6 oz.) jar sliced mushrooms",
+            "1 (10 oz.) can water chestnuts",
+            "1 large green pepper, chopped",
+            "1 c. celery, chopped",
+            "1 c. salad oil",
+            "1/2 c. vinegar",
+            "1 c. water",
+            "3/4 c. sugar",
+            "salt and pepper to taste"
+        ],
+        "instructions": [
+            "Drain vegetables well.",
+            "Put in blender and mix salad oil, vinegar, water, sugar, salt and pepper to taste.",
+            "Pour over vegetables and mix together.",
+            "Place in refrigerator overnight before serving.",
+            "Keeps well for 2 weeks."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included two examples, one for a potato dish and another for a vegetable medley. The first example had detailed steps, but the second one only listed the ingredients without the instructions.\n\nHmm, I need to figure out what the user is looking for. They might be testing if I can take a list of ingredients and generate a proper recipe with instructions. The first example they gave had a clear structure, so they probably expect something similar for the second set of ingredients.\n\nLooking at the second set, it's a mix of canned vegetables, some fresh ones, and dressing ingredients. It seems like it's for a vegetable medley or a salad. The user might be planning a meal and wants a recipe that uses these specific items. They might not know how to combine them, so they're seeking guidance.\n\nI should start by identifying the type of dish. The presence of oil, vinegar, sugar, and water suggests a dressing, so it's likely a salad. The variety of vegetables indicates it's a medley, maybe something like a seven-layer salad or a simple mixed vegetable salad.\n\nNext, I'll outline the steps. First, preparing each vegetable: draining and rinsing canned goods, shredding, chopping, etc. Then, mixing all the vegetables together. After that, making the dressing by combining oil, vinegar, sugar, water, salt, and pepper. Finally, tossing the vegetables with the dressing and refrigerating to allow the flavors to meld.\n\nI should make sure each step is clear and concise, similar to the first example. Also, I'll note the number of servings and any additional tips, like refrigeration time, to enhance the recipe's usability.\n\nI think the user wants a comprehensive yet easy-to-follow recipe. They might be someone who's not very experienced in the kitchen, so clarity is key. They might also appreciate knowing how long it takes to prepare and any serving suggestions.\n\nPutting it all together, I'll structure the response with a title, serving size, ingredients, and step-by-step instructions. I'll ensure that each step logically follows the previous one, making it easy for the user to follow without confusion.\n\nI should also check if all the ingredients are used in the instructions. For example, the salad oil, vinegar, sugar, and water are for the dressing, so I'll make sure to include them in the steps. Also, the salt and pepper are mentioned, so I'll incorporate those into the seasoning part.\n\nFinally, I'll review the response to make sure it's formatted correctly and free of errors. The user seems to value structured recipes, so maintaining that format is essential for their satisfaction.\n</think>\n\n### Seven-Layer Vegetable Medley Salad  \n\n**Servings:** 8-10  \n\n**Ingredients:**  \n- 1 can LeSueur small peas  \n- 1 can Shoe Peg white corn  \n- 1 can French-cut green beans  \n- 1 (16 oz.) can bean sprouts  \n- 1 (4 oz.) jar pimientos  \n- 1 large onion, shredded fine  \n- 1 (6 oz.) jar sliced mushrooms  \n- 1 (10 oz.) can water chestnuts  \n- 1 large green pepper, chopped  \n- 1 c. celery, chopped  \n- 1 c. salad oil  \n- 1/2 c. vinegar  \n- 1 c. water  \n- 3/4 c. sugar  \n- Salt and pepper to taste  \n\n---\n\n**Instructions:**  \n\n1. **Prepare the Vegetables:**  \n   - Drain and rinse the peas, corn, green beans, bean sprouts, pimientos, mushrooms, and water chestnuts.  \n   - Shred the onion finely.  \n   - Chop the green pepper and celery into small pieces.  \n\n2. **Combine Vegetables:**  \n   - In a large bowl, layer or mix together the peas, corn, green beans, bean sprouts, pimientos, mushrooms, water chestnuts, shredded onion, chopped green pepper, and chopped celery.  \n\n3. **Make the Dressing:**  \n   - In a small saucepan, combine the salad oil, vinegar, water, sugar, salt, and pepper.  \n   - Bring the mixture to a boil over medium heat, stirring occasionally.  \n   - Reduce the heat to low and simmer for 5 minutes, allowing the flavors to meld.  \n\n4. **Dress the Salad:**  \n   - Pour the warm dressing over the vegetable mixture and toss gently to coat evenly.  \n\n5. **Chill and Serve:**  \n   - Cover the bowl with plastic wrap and refrigerate for at least 2 hours to allow the flavors to combine.  \n   - Serve cold as a side dish or light lunch.  \n\nEnjoy your delicious and colorful Seven-Layer Vegetable Medley Salad!",
+        "evaluation": {
+            "BLEU": 0.008791702966402774,
+            "ROUGE-1": 0.07114624505928854,
+            "ROUGE-2": 0.026420079260237782,
+            "ROUGE-L": 0.060606060606060615
+        }
+    },
+    {
+        "recipe_name": "Pecan Pie Bars",
+        "ingredients": [
+            "2 1/2 c. flour",
+            "1 c. (2 sticks) cold butter or margarine",
+            "1/2 c. sugar",
+            "1/2 tsp. salt",
+            "4 eggs",
+            "1 1/2 c. Karo light or dark corn syrup",
+            "1 1/2 c. sugar",
+            "3 Tbsp. butter or margarine, melted",
+            "1 1/2 tsp. vanilla",
+            "2 1/2 c. pecan halves or coarsely chopped pecans"
+        ],
+        "instructions": [
+            "Cookie Crust:",
+            "Spray a 15 x 10 x 1-inch pan with cooking spray.",
+            "In a large bowl with mixer at medium speed, beat the flour, butter or margarine (cut in pieces), sugar and salt until mixture resembles fine crumbs.",
+            "Press firmly into prepared pan. Bake 20 to 23 minutes or until golden brown.",
+            "Top with filling and complete baking."
+        ],
+        "response": "<think>\nOkay, so the user provided a query where they want me to act as an expert chef, giving structured, step-by-step recipes. They included an example with ingredients and instructions for a potato dish, and then another set of ingredients for what seems to be a pecan pie. \n\nFirst, I need to recognize that the user is looking for a similar structured response for the second set of ingredients. They probably want me to outline the recipe in the same detailed, step-by-step manner as the first example. \n\nLooking at the ingredients, I see flour, butter, sugar, salt, eggs, corn syrup, more sugar, melted butter, vanilla, and pecans. That definitely points towards a pecan pie. So, I should structure the instructions accordingly.\n\nI should start with preheating the oven, as that's standard. Then, making the crust with flour, butter, sugar, and salt. I remember that for pie crusts, it's important to handle the dough just enough to combine, so I'll mention that. \n\nNext, pressing the dough into the pie pan and baking it until lightly browned. Then, preparing the filling by mixing eggs, corn syrup, sugar, melted butter, vanilla, and pecans. It's crucial to mention not to overbake and to let the pie cool properly to set. \n\nI should also note that the pie is rich, so smaller servings are good. Maybe add a tip about serving with whipped cream or vanilla ice cream for extra flavor. \n\nI need to make sure each step is clear and concise, using bullet points for ingredients and numbered steps for instructions. Keeping the language simple and direct, just like the first example. \n\nI should also check if all ingredients are accounted for in the instructions. For example, the 4 eggs are used in the filling, and the pecans are folded in. Everything seems covered. \n\nFinally, I'll present the response in a friendly and helpful tone, making sure it's easy to follow for someone cooking this pie.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n---\n\n### **Pecan Pie**\n\n#### **Ingredients:**\n- 2 1/2 cups flour\n- 1 cup (2 sticks) cold butter or margarine\n- 1/2 cup sugar\n- 1/2 teaspoon salt\n- 4 eggs\n- 1 1/2 cups Karo light or dark corn syrup\n- 1 1/2 cups sugar\n- 3 tablespoons butter or margarine, melted\n- 1 1/2 teaspoons vanilla\n- 2 1/2 cups pecan halves or coarsely chopped pecans\n\n---\n\n#### **Instructions:**\n\n1. **Preheat the Oven:**\n   - Preheat your oven to 350\u00b0F (175\u00b0C).\n\n2. **Prepare the Crust:**\n   - In a large bowl, combine the flour, cold butter or margarine, sugar, and salt.\n   - Use a pastry blender or your fingers to work the butter into the flour mixture until it resembles coarse crumbs.\n   - Press the mixture evenly into a 9-inch pie dish.\n   - Bake the crust in the preheated oven for 10-12 minutes, or until lightly browned. Let it cool slightly.\n\n3. **Prepare the Filling:**\n   - In a large bowl, whisk together the eggs, corn syrup, sugar, melted butter, and vanilla until well combined.\n   - Stir in the pecans until they are evenly coated with the filling mixture.\n\n4. **Assemble and Bake:**\n   - Pour the pecan filling into the prepared pie crust.\n   - Bake for 45-50 minutes, or until the filling is set and the edges are golden brown. Avoid overbaking, as the filling will continue to set as it cools.\n\n5. **Cool and Serve:**\n   - Let the pie cool to room temperature on a wire rack.\n   - Once cooled, refrigerate for at least 2 hours to allow the filling to fully set.\n   - Slice and serve. Enjoy as is, or top with whipped cream or vanilla ice cream if desired.\n\n---\n\nThis pecan pie is a classic Southern dessert, rich and nutty with a smooth, caramel-like filling. Perfect for holidays or special occasions!",
+        "evaluation": {
+            "BLEU": 4.5098055976604543e-79,
+            "ROUGE-1": 0.12103746397694524,
+            "ROUGE-2": 0.043352601156069356,
+            "ROUGE-L": 0.0893371757925072
+        }
+    },
+    {
+        "recipe_name": "Catskinner Cake",
+        "ingredients": [
+            "2 c. flour",
+            "2 tsp. baking soda",
+            "1/2 tsp. salt",
+            "2 c. sugar",
+            "1 c. flaked coconut",
+            "3/4 c. buttermilk",
+            "3/4 c. oil",
+            "3 large eggs",
+            "2 tsp. vanilla",
+            "1 (8 oz.) crushed pineapple, drained",
+            "1 c. chopped nuts",
+            "1 c. sugar",
+            "1/2 c. butter",
+            "1/2 c. buttermilk",
+            "3 Tbsp. light corn syrup",
+            "1/2 tsp. vanilla"
+        ],
+        "instructions": [
+            "Combine first 9 ingredients in a large mixing bowl; beat at medium speed 5 minutes. Stir in pineapple and nuts. Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350\u00b0 for 40 to 45 minutes. Set pan on wire rack."
+        ],
+        "response": "<think>\nOkay, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for what seems like a dessert, possibly a cake or something with frosting. \n\nFirst, I need to understand the user's intent. They want me to take the ingredients they provide and turn them into a clear, organized recipe. The example they gave includes both the ingredients and the instructions, so they're expecting a similar format in the response.\n\nLooking at the second set of ingredients, I notice it's split into two parts: one for the cake and another for the frosting. The cake has flour, sugar, coconut, buttermilk, oil, eggs, vanilla, pineapple, and nuts. The frosting includes sugar, butter, buttermilk, corn syrup, and vanilla. So, it's likely a coconut pineapple cake with a cream cheese-like frosting, even though cream cheese isn't listed. Maybe it's a buttermilk-based frosting instead.\n\nI should start by identifying the type of recipe. The presence of flour, sugar, eggs, and pineapple suggests a cake, probably a sheet cake given the quantities. The use of buttermilk and oil indicates it's a moist cake. The frosting ingredients point towards a sweet, creamy topping.\n\nNext, I'll outline the steps. Preparing the cake first: preheating the oven, mixing dry ingredients, then wet, combining them, adding extras like coconut and pineapple, baking, and cooling. Then, making the frosting by creaming butter and sugar, adding buttermilk and corn syrup for smoothness, and flavoring with vanilla. Finally, assembling by spreading the frosting over the cooled cake.\n\nI should make sure each step is clear and concise, using standard cooking terms. Also, including notes about cooling the cake before frosting is important to prevent melting. I'll structure it with sections for cake and frosting, each with their own ingredients and steps.\n\nI need to ensure that measurements are correctly noted and that the instructions are easy to follow. Since the user provided an example, I'll mirror that structure to maintain consistency. I'll also check for any potential errors, like missing ingredients or unclear steps, but since the user provided all the necessary components, I can proceed confidently.\n\nFinally, I'll present the recipe in a friendly, approachable tone, making sure it's helpful and matches the user's expectations based on their example. I'll avoid any markdown and keep it in plain text as per their instructions.\n</think>\n\nIt looks like you've provided the ingredients for a dessert recipe, possibly a cake or sweet treat. Here's a structured, step-by-step recipe based on the ingredients you've listed:\n\n---\n\n### **Coconut Pineapple Cake with Creamy Frosting**\n\n#### **Ingredients:**\n- 2 cups flour  \n- 2 teaspoons baking soda  \n- 1/2 teaspoon salt  \n- 2 cups sugar  \n- 1 cup flaked coconut  \n- 3/4 cup buttermilk  \n- 3/4 cup oil  \n- 3 large eggs  \n- 2 teaspoons vanilla  \n- 1 (8 oz.) crushed pineapple, drained  \n- 1 cup chopped nuts  \n\n#### **Frosting Ingredients:**\n- 1 cup sugar  \n- 1/2 cup butter  \n- 1/2 cup buttermilk  \n- 3 tablespoons light corn syrup  \n- 1/2 teaspoon vanilla  \n\n---\n\n#### **Instructions:**\n\n1. **Preheat the Oven:**  \n   Preheat your oven to 350\u00b0F (175\u00b0C). Grease a 9x13-inch baking dish and set it aside.\n\n2. **Prepare the Cake:**  \n   - In a large mixing bowl, whisk together the flour, baking soda, and salt.  \n   - Add the sugar to the dry ingredients and mix well.  \n   - Stir in the flaked coconut.  \n\n3. **Add Wet Ingredients:**  \n   - Make a well in the center of the dry ingredients and add the buttermilk, oil, eggs, and vanilla. Mix until smooth.  \n   - Fold in the crushed pineapple and chopped nuts until evenly distributed.  \n\n4. **Bake the Cake:**  \n   - Pour the batter into the prepared 9x13-inch baking dish.  \n   - Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.  \n   - Remove from the oven and let cool completely in the pan.\n\n5. **Prepare the Frosting:**  \n   - In a medium bowl, cream together the sugar and butter until smooth.  \n   - Gradually stir in the buttermilk, corn syrup, and vanilla until well combined.  \n   - Adjust the frosting consistency if needed by adding more sugar or buttermilk.  \n\n6. **Assemble the Dessert:**  \n   - Once the cake has cooled, spread the frosting evenly over the top.  \n   - If desired, sprinkle with additional flaked coconut or chopped nuts for garnish.  \n\n7. **Serve:**  \n   - Cut into squares and serve. Enjoy!\n\n---\n\nLet me know if you'd like any variations or substitutions!",
+        "evaluation": {
+            "BLEU": 3.1101996664681145e-79,
+            "ROUGE-1": 0.08312342569269522,
+            "ROUGE-2": 0.022727272727272728,
+            "ROUGE-L": 0.05289672544080605
+        }
+    },
+    {
+        "recipe_name": "Chocolate Delight",
+        "ingredients": [
+            "1 stick butter",
+            "1 c. plain flour",
+            "1/2 c. nuts",
+            "8 oz. cream cheese",
+            "1 c. powdered sugar",
+            "2 (9 oz.) Cool Whip",
+            "2 pkg. chocolate instant pudding",
+            "3 c. milk"
+        ],
+        "instructions": [
+            "Mix butter, flour and nuts.",
+            "Grease pan with butter and bake 10 to 15 minutes at 300\u00b0.",
+            "Cool."
+        ],
+        "response": "<think>\nOkay, so the user provided a conversation history where they asked me to act as an expert chef giving structured recipes. They then shared an example with specific ingredients and detailed steps. Now, they've given another set of ingredients and want me to continue with the instructions.\n\nFirst, I need to recognize the pattern from the previous example. The user wants a step-by-step recipe based on the ingredients listed. The first recipe was for a savory dish, and now the new ingredients look like they're for a dessert, probably a pudding or a layered dessert.\n\nLooking at the ingredients: butter, flour, nuts, cream cheese, powdered sugar, Cool Whip, chocolate pudding, and milk. This seems like a chocolate layered dessert, maybe a pudding pie or a trifle. The presence of cream cheese and powdered sugar suggests a cheesecake-like layer, while the pudding and Cool Whip point towards a light, airy topping.\n\nI should start by organizing the steps. Typically, such desserts have a crust, a cheesecake layer, a pudding layer, and a topping. So, I'll break it down into making the crust first, then the cheesecake mixture, followed by the pudding, and finally assembling everything.\n\nFor the crust, melting butter and mixing with flour and nuts makes sense. Pressing it into a pan and baking until golden is standard. Next, the cream cheese mixture with powdered sugar will be the second layer. I'll need to beat the cream cheese until smooth, add powdered sugar, and maybe some vanilla for flavor. Spreading this over the cooled crust is logical.\n\nThen, the pudding layer. Mixing pudding packets with milk is typical, and folding in Cool Whip adds volume and lightness. Pouring this over the cheesecake layer and refrigerating to set makes sense. Finally, topping with more Cool Whip and nuts for garnish would complete the dessert.\n\nI should make sure each step is clear and concise, using bullet points for ingredients and numbered steps for instructions. Also, mentioning chilling time is important so the user knows when it's ready to serve.\n\nI think that's a solid approach. Now, I'll structure the response accordingly, ensuring it's easy to follow and covers all the ingredients provided.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n---\n\n### **Chocolate Pudding Dessert**\n\n#### **Ingredients:**\n- 1 stick butter\n- 1 cup plain flour\n- 1/2 cup nuts (chopped, such as walnuts or pecans)\n- 8 oz. cream cheese\n- 1 cup powdered sugar\n- 2 (9 oz.) Cool Whip\n- 2 packages chocolate instant pudding\n- 3 cups milk\n\n---\n\n#### **Instructions:**\n\n1. **Prepare the Crust:**\n   - Melt the butter in a medium saucepan over low heat.\n   - Add the flour and stir until well combined.\n   - Stir in the chopped nuts and cook for 2-3 minutes until lightly toasted.\n   - Press the mixture into the bottom of a 9x13-inch pan.\n   - Bake in a preheated oven at 350\u00b0F (175\u00b0C) for 10-12 minutes, or until lightly golden.\n   - Allow the crust to cool completely.\n\n2. **Prepare the Cream Cheese Layer:**\n   - In a large mixing bowl, beat the cream cheese with an electric mixer until smooth.\n   - Gradually add the powdered sugar, beating until well combined and creamy.\n   - Spread the cream cheese mixture evenly over the cooled crust.\n\n3. **Prepare the Pudding Layer:**\n   - In a separate large bowl, combine the chocolate instant pudding mixes and milk.\n   - Whisk until smooth and well combined.\n   - Fold in one of the 9 oz. containers of Cool Whip until no white streaks remain.\n   - Pour the pudding mixture over the cream cheese layer.\n   - Refrigerate for 10-15 minutes to allow the pudding to set slightly.\n\n4. **Top with Remaining Cool Whip:**\n   - Spread the second 9 oz. container of Cool Whip evenly over the top of the pudding layer.\n   - Sprinkle with additional chopped nuts if desired for garnish.\n\n5. **Chill and Serve:**\n   - Cover and refrigerate for at least 2 hours, or until fully chilled and set.\n   - Cut into squares and serve cold.\n\n---\n\nEnjoy your delicious chocolate pudding dessert!",
+        "evaluation": {
+            "BLEU": 1.2137160567193887e-155,
+            "ROUGE-1": 0.04685212298682284,
+            "ROUGE-2": 0.01762114537444934,
+            "ROUGE-L": 0.04099560761346999
+        }
+    },
+    {
+        "recipe_name": "Beef Pastichio(Greek)  ",
+        "ingredients": [
+            "1 1/2 lb. ground beef",
+            "1 (7 oz.) pkg. elbow macaroni",
+            "2 Tbsp. butter or margarine",
+            "1/4 c. flour",
+            "3 c. milk",
+            "1 large onion, finely chopped",
+            "1 tsp. salt",
+            "1/4 tsp. pepper",
+            "1/2 tsp. cinnamon",
+            "1/8 tsp. oregano leaves",
+            "1 (10 3/4 oz.) can tomato puree",
+            "3 eggs",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Prepare macaroni per package directions; drain.",
+            "Rinse with cold water; drain.",
+            "Stir flour into melted butter or margarine in heavy saucepan.",
+            "Gradually stir in milk and cook until thick, stirring occasionally.",
+            "Cover and cool.",
+            "Brown onion and ground beef in large frying pan.",
+            "Pour off drippings.",
+            "Sprinkle salt, pepper, cinnamon and oregano over beef.",
+            "Stir in tomato puree; cook slowly for 10 minutes."
+        ],
+        "response": "<think>\nOkay, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for a different dish, ending with \"Instructions:\". \n\nLooking at the history, the user mentioned they're an expert chef who provides structured recipes. So, they probably want me to continue the example by creating a recipe using the second set of ingredients they listed. \n\nThe ingredients given are for a ground beef and macaroni dish. I notice it includes elbow macaroni, ground beef, butter, flour, milk, onion, various spices, tomato puree, eggs, and Parmesan cheese. This sounds like a creamy, baked pasta dish, maybe something like a macaroni casserole or a Greek-inspired dish because of the cinnamon and oregano.\n\nI should start by outlining the steps. First, cooking the macaroni according to package instructions. Then browning the ground beef with onions and spices. Next, making a white sauce with butter, flour, and milk. Combining the meat mixture with the white sauce and tomato puree. Mixing in the cooked macaroni, then adding eggs and Parmesan cheese. Finally, baking it in the oven until set.\n\nI need to make sure each step is clear and follows a logical order. Also, including tips like not overcooking the macaroni and letting it rest after baking would be helpful. I should present it in a structured format with sections for ingredients and instructions, using bullet points for clarity.\n\nI should also check if all ingredients are used in the steps. The eggs and Parmesan are mixed in towards the end, which makes sense for a custard-like topping. The spices like cinnamon and oregano give it a unique flavor, so I should note that. \n\nOverall, the goal is to create a comprehensive, easy-to-follow recipe that the user can replicate. I'll structure it with clear headings and numbered steps to maintain the format they provided in their example.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n---\n\n### **Creamy Ground Beef and Macaroni Casserole**\n\n#### **Ingredients:**\n- 1 1/2 lb. ground beef  \n- 1 (7 oz.) pkg. elbow macaroni  \n- 2 Tbsp. butter or margarine  \n- 1/4 c. flour  \n- 3 c. milk  \n- 1 large onion, finely chopped  \n- 1 tsp. salt  \n- 1/4 tsp. pepper  \n- 1/2 tsp. cinnamon  \n- 1/8 tsp. oregano leaves  \n- 1 (10 3/4 oz.) can tomato puree  \n- 3 eggs  \n- 1/2 c. grated Parmesan cheese  \n\n---\n\n#### **Instructions:**\n\n1. **Cook the Macaroni:**  \n   - Bring a large pot of salted water to a boil.  \n   - Add the elbow macaroni and cook according to package instructions until al dente.  \n   - Drain and set aside.  \n\n2. **Brown the Ground Beef:**  \n   - In a large skillet, heat a small amount of oil over medium-high heat.  \n   - Add the chopped onion and saut\u00e9 until translucent.  \n   - Add the ground beef, breaking it apart with a spoon. Cook until fully browned.  \n   - Stir in the salt, pepper, cinnamon, and oregano leaves. Mix well.  \n\n3. **Prepare the White Sauce:**  \n   - In a medium saucepan, melt the butter over medium heat.  \n   - Add the flour and whisk continuously to form a smooth paste (roux). Cook for 1-2 minutes.  \n   - Gradually pour in the milk, whisking constantly to avoid lumps.  \n   - Bring the mixture to a simmer and cook until it thickens, stirring occasionally.  \n\n4. **Combine Meat and Sauce:**  \n   - Add the cooked ground beef mixture to the white sauce. Stir well to combine.  \n   - Stir in the tomato puree and bring the mixture to a gentle simmer. Let it cook for 5-7 minutes, stirring occasionally, until heated through.  \n\n5. **Assemble the Casserole:**  \n   - In a large mixing bowl, combine the cooked macaroni, the meat and sauce mixture, and half of the grated Parmesan cheese. Mix well.  \n   - In a small bowl, beat the eggs and mix them into the macaroni mixture until fully incorporated.  \n\n6. **Bake the Casserole:**  \n   - Preheat the oven to 350\u00b0F (180\u00b0C).  \n   - Transfer the macaroni mixture to a greased 9x13-inch baking dish.  \n   - Sprinkle the remaining Parmesan cheese evenly over the top.  \n   - Bake for 25-30 minutes, or until the top is golden brown and the casserole is set.  \n\n7. **Serve:**  \n   - Let the casserole rest for 5-10 minutes before serving.  \n   - Serve warm and enjoy!  \n\n---\n\nThis recipe combines the comforting flavors of macaroni, ground beef, and a creamy sauce, topped with a golden, cheesy crust. Perfect for a hearty family meal!",
+        "evaluation": {
+            "BLEU": 5.2088352726263414e-79,
+            "ROUGE-1": 0.12311557788944724,
+            "ROUGE-2": 0.042821158690176324,
+            "ROUGE-L": 0.0829145728643216
+        }
+    },
+    {
+        "recipe_name": "Shrimp Pasta Salad",
+        "ingredients": [
+            "1 box twisted pasta (8 oz.), cooked, drained and cooled",
+            "2 to 3 tomatoes, chopped or salad tomatoes, halved",
+            "2 large cucumbers, sliced",
+            "1/2 yellow or red bell pepper",
+            "2 to 3 fresh green onions (optional)",
+            "1/2 bottle McCormick Salad Supreme seasoning",
+            "1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)",
+            "1 lb. shrimp, boiled and deveined (may cut in half, if preferred)",
+            "1/2 green bell pepper, cut in small strips",
+            "1 purple onion, cut in small strips"
+        ],
+        "instructions": [
+            "Prepare all ingredients and mix together.",
+            "Chill 1 to 2 hours before serving.",
+            "Better prepared the day before.",
+            "Makes 8 or more servings."
+        ],
+        "response": "<think>\nAlright, so the user provided a history where they asked for structured, step-by-step recipes based on ingredients. They included two examples, one for a potato dish and another for a pasta salad. Now, the user is giving me a new set of ingredients for a pasta salad and wants me to continue the pattern.\n\nFirst, I need to understand the structure they prefer. The previous examples started with listing ingredients, then moved to instructions in a numbered, step-by-step format. Each step was clear and concise, often involving preparation of individual components before combining them.\n\nLooking at the new ingredients, I see it's for a pasta salad with shrimp. The ingredients include twisted pasta, tomatoes, cucumbers, bell peppers, green onions, McCormick Salad Supreme seasoning, Italian dressing, shrimp, and additional bell pepper and onion. \n\nI should start by cooking the pasta according to the package instructions, drain, and set it aside to cool. Next, I'll prepare each vegetable: chopping the tomatoes, slicing cucumbers, and dicing the bell peppers and onions. \n\nThen, I need to cook the shrimp by boiling them until pink, then chill them. After that, I'll combine all the prepared ingredients in a large bowl, adding the Salad Supreme seasoning and Italian dressing. Tossing everything together ensures even distribution of flavors. \n\nFinally, I'll let it chill in the fridge to allow the flavors to meld together before serving. I should make sure to mention that the salad can be made ahead, which is convenient for the user.\n\nI should present each step clearly, using numbers, and keep the language simple and direct, just like the examples provided. This way, the user gets a consistent and easy-to-follow recipe.\n</think>\n\n1. **Cook the Pasta**: Bring a large pot of salted water to a boil. Add the twisted pasta and cook according to package instructions until al dente. Drain and rinse under cold water to cool. Set aside.\n\n2. **Prepare the Vegetables**:  \n   - Chop the tomatoes into bite-sized pieces.  \n   - Slice the cucumbers thinly.  \n   - Dice the yellow or red bell pepper into small pieces.  \n   - If using green onions, chop them finely.  \n\n3. **Cook the Shrimp**:  \n   - Boil the shrimp in salted water until they turn pink and are fully cooked.  \n   - Drain and rinse under cold water to cool.  \n   - Devein the shrimp and cut them in half if preferred.  \n\n4. **Assemble the Salad**:  \n   - In a large bowl, combine the cooled pasta, chopped tomatoes, sliced cucumbers, diced bell pepper, and chopped green onions.  \n   - Add the cooked shrimp and toss gently to combine.  \n\n5. **Add Dressing and Seasoning**:  \n   - Sprinkle the McCormick Salad Supreme seasoning over the salad and toss to coat evenly.  \n   - Pour in the Italian dressing (or your homemade version) and toss again until everything is well-coated.  \n\n6. **Chill and Serve**:  \n   - Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.  \n   - Just before serving, garnish with additional green onions or a sprinkle of Salad Supreme if desired.  \n\nEnjoy your refreshing shrimp pasta salad!",
+        "evaluation": {
+            "BLEU": 1.1468719346662995e-155,
+            "ROUGE-1": 0.06415094339622641,
+            "ROUGE-2": 0.007575757575757575,
+            "ROUGE-L": 0.0490566037735849
+        }
+    },
+    {
+        "recipe_name": "Apricot Delight",
+        "ingredients": [
+            "1 large box apricot or mixed fruit jello",
+            "2 c. boiling water",
+            "2 c. cold water",
+            "1 c. miniature marshmallows",
+            "1 can drained pineapple",
+            "2 large bananas",
+            "2 Tbsp. butter",
+            "2 Tbsp. flour",
+            "1 egg, well beaten",
+            "1/2 c. sugar",
+            "1/2 c. pineapple juice",
+            "8 oz. cream cheese",
+            "1 pkg. Dream Whip"
+        ],
+        "instructions": [
+            "Mix jello, water (hot and cold), marshmallows, pineapple and bananas together and let chill.",
+            "Cook together butter, flour, egg, sugar and pineapple juice.",
+            "Let cook, then spread on top of chilled jello.",
+            "Beat together cream cheese and Dream Whip as directed. Spread as topping."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for a dessert, specifically a Jell-O based salad. The user then stopped at the instructions part, so I need to figure out how to respond.\n\nFirst, I should recognize that the user is looking for a continuation of the recipe. They provided the ingredients, so the next logical step is to outline the instructions. The example they gave for the potato recipe was quite detailed, so I should follow a similar structure.\n\nLooking at the ingredients for the second recipe, it's a Jell-O salad with apricot or mixed fruit Jell-O, marshmallows, pineapple, bananas, and a cream cheese topping. This seems like a classic dessert salad that's often served at gatherings. The presence of Dream Whip suggests a whipped topping, which is common in such recipes.\n\nI need to break down the preparation into manageable steps. The first step would be preparing the Jell-O. Dissolving the Jell-O in boiling water is standard, then adding cold water. Next, adding marshmallows, pineapple, and bananas makes sense. But I should note that the bananas should be added just before serving to prevent browning.\n\nThen, the topping. The user has ingredients like butter, flour, egg, sugar, pineapple juice, cream cheese, and Dream Whip. This looks like a cream cheese mixture that's cooked into a custard. I should outline making the custard by melting butter and flour, then gradually adding pineapple juice and sugar, cooking until thickened. Tempering the egg is important to avoid scrambling it. Then, mixing in the cream cheese until smooth.\n\nFinally, combining the custard with Dream Whip and layering it over the Jell-O salad. Chilling before serving is essential to let everything set properly.\n\nI should make sure each step is clear and concise, similar to the example provided. Also, including tips like adding bananas last and tempering the egg will help the user achieve the best results. I need to present this in a friendly and helpful manner, ensuring the user feels confident in making the recipe.\n</think>\n\nHere\u2019s a step-by-step guide to preparing the dessert recipe based on the ingredients provided:\n\n### Apricot or Mixed Fruit Jell-O Salad with Cream Cheese Topping\n\n#### Step 1: Prepare the Jell-O\n1. In a large bowl, dissolve the **1 large box of apricot or mixed fruit Jell-O** in **2 cups of boiling water**. Stir until the Jell-O is completely dissolved.\n2. Add **2 cups of cold water** to the Jell-O mixture and stir well.\n3. Fold in **1 cup of miniature marshmallows** and let the mixture sit for a few minutes until the marshmallows start to swell.\n4. Stir in the **1 can of drained pineapple** (well-drained) and **2 large bananas** (sliced). Note: Add the bananas just before serving to prevent them from browning.\n\n#### Step 2: Prepare the Cream Cheese Topping\n1. In a small saucepan, melt the **2 tablespoons of butter** over medium heat.\n2. Add the **2 tablespoons of flour** to the melted butter and stir until smooth. Cook for 1-2 minutes to remove the raw flour taste.\n3. Gradually stir in **1/2 cup of sugar** and **1/2 cup of pineapple juice**. Cook over medium heat, stirring constantly, until the mixture thickens.\n4. Remove the saucepan from the heat and let it cool slightly.\n5. Stir in the **8 oz. cream cheese** until it\u2019s fully incorporated and the mixture is smooth.\n6. Temper the mixture by slowly adding the **1 well-beaten egg**, stirring constantly to prevent the egg from scrambling.\n7. Allow the mixture to cool to room temperature.\n\n#### Step 3: Combine and Chill\n1. Once the cream cheese mixture has cooled, fold in the **1 package of Dream Whip** (prepared according to package instructions).\n2. Pour the Jell-O mixture into a serving dish or individual serving cups.\n3. Spread the cream cheese topping evenly over the Jell-O layer.\n4. Chill the dessert in the refrigerator for at least 2 hours, or until set, before serving.\n\n#### Step 4: Serve\n1. Garnish with additional sliced bananas or a sprinkle of nutmeg if desired.\n2. Serve chilled and enjoy!\n\nThis dessert is perfect for potlucks, picnics, or family gatherings. Let me know if you'd like any variations or substitutions!",
+        "evaluation": {
+            "BLEU": 3.217365789243953e-79,
+            "ROUGE-1": 0.08333333333333334,
+            "ROUGE-2": 0.03291139240506329,
+            "ROUGE-L": 0.06565656565656566
+        }
+    },
+    {
+        "recipe_name": "Nut Goodie Bars",
+        "ingredients": [
+            "1 (12 oz.) pkg. chocolate chips",
+            "1 (12 oz.) pkg. butterscotch chips",
+            "2 c. peanut butter",
+            "1 c. butter",
+            "1/2 c. evaporated milk",
+            "1/2 c. vanilla pudding mix",
+            "1 tsp. maple flavoring",
+            "2 lb. powdered sugar",
+            "1 lb. Spanish peanuts"
+        ],
+        "instructions": [
+            "Mix ingredients together over hot water.",
+            "Spread half of mixture on a jelly roll pan, 17 x 11 1/2-inch.",
+            "Chill until firm. Melt butter.",
+            "Add milk and pudding mix.",
+            "Bring to boil and boil for 1 minute.",
+            "Remove from heat and add maple flavoring.",
+            "Add sugar and blend until smooth.",
+            "Spread this mixture on cooled first layer.",
+            "Cool.",
+            "Mix peanuts into remaining half of chocolate mixture and spread on top of cooled second layer.",
+            "Chill; cut into small squares as this bar is very rich."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included two examples, one for a savory dish and another for a sweet treat. The first recipe was fully detailed, but the second one only listed the ingredients without the instructions. \n\nHmm, I need to figure out what the user is looking for. They might be testing if I can generate a recipe from just the ingredients. The first example they gave was quite detailed, so they probably expect a similar level of structure for the second one. \n\nLooking at the ingredients for the second recipe: chocolate chips, butterscotch chips, peanut butter, butter, evaporated milk, vanilla pudding mix, maple flavoring, powdered sugar, and Spanish peanuts. These are typical for a no-bake dessert, maybe something like a candy or fudge. \n\nI should start by melting the chocolate and butterscotch chips. Using a double boiler makes sense since it's gentle and prevents burning. Once melted, I'll mix in the peanut butter until smooth. Then, adding the evaporated milk, vanilla pudding mix, and maple flavoring will give it a creamy and flavorful base. \n\nNext, I need to incorporate the powdered sugar. It's a large amount, so I'll add it gradually to avoid clumps. Mixing until smooth is crucial here. Finally, folding in the Spanish peanuts adds a nice crunch. Pressing the mixture into a pan, chilling it, and cutting into squares should give a neat presentation. \n\nI should make sure each step is clear and concise, just like the first example. Also, mentioning optional steps like cutting into squares or using parchment paper can be helpful. I think this approach covers all the ingredients and results in a tasty dessert.\n</think>\n\nMelt chocolate chips and butterscotch chips in a double boiler or in a microwave-safe bowl in 30-second increments, stirring between each interval, until smooth. Stir in peanut butter until well combined. Add butter, evaporated milk, vanilla pudding mix, and maple flavoring. Mix until smooth. Gradually add powdered sugar, mixing until fully incorporated. Fold in Spanish peanuts. Press mixture into a greased 9x13-inch pan. Chill until set. Cut into squares and serve. Optional: Cut into desired shapes using a cookie cutter for a fun touch.",
+        "evaluation": {
+            "BLEU": 2.4740393196808308e-155,
+            "ROUGE-1": 0.18683651804670912,
+            "ROUGE-2": 0.025586353944562896,
+            "ROUGE-L": 0.10191082802547771
+        }
+    },
+    {
+        "recipe_name": "Milk Chocolate Pie",
+        "ingredients": [
+            "3 slightly heaping Tbsp. cocoa",
+            "1 1/2 c. sugar",
+            "pinch of salt",
+            "3 Tbsp. cornstarch",
+            "3 eggs, separated",
+            "1/4 stick margarine",
+            "1 large can Pet or Carnation milk",
+            "regular milk",
+            "6 heaping tsp. sugar",
+            "1/4 tsp. cream of tartar",
+            "1 baked pie shell"
+        ],
+        "instructions": [
+            "Mix first four ingredients.",
+            "Add well beaten egg yolks and mix (reserve whites for meringue and set aside).",
+            "Add margarine and canned milk with enough regular milk to make 3 cups.",
+            "Place in heavy saucepan and cook thick.",
+            "A heavy pan is very important. Beat with electric mixer and pour into a baked pie shell.",
+            "Top with meringue."
+        ],
+        "response": "<think>\nOkay, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for a pie, but the instructions were cut off. \n\nFirst, I need to understand the user's intent. They seem to be looking for a clear, organized recipe format. The example they gave is quite detailed, so they probably want something similar for the second set of ingredients. \n\nLooking at the second set of ingredients, I notice it's for a chocolate pie. The ingredients include cocoa, sugar, salt, cornstarch, eggs, margarine, milk, and a pie shell. So, the recipe is likely a chocolate cream pie. \n\nI should break down the process into manageable steps. Starting with making the chocolate filling, since that's the main component. I'll need to mix the dry ingredients first, then add in the milk while heating it to create a smooth paste. Using a double boiler might be a good idea to prevent burning. \n\nNext, I remember that cream pies often involve tempering egg yolks to avoid scrambling them. So, I'll need to separate the eggs and use the yolks for the filling. After cooking the filling, it's important to let it cool a bit before pouring it into the pie shell. \n\nChill the pie in the fridge to set properly, probably a few hours. Then, top it with whipped cream just before serving. \n\nI should make sure each step is clear and concise, using bullet points for ingredients and numbered steps for instructions. Also, including tips like using a double boiler and tempering eggs will help the user achieve a smooth texture. \n\nI need to ensure that measurements are accurate and that each step logically follows the previous one. Since the user provided a detailed example, I should match that level of detail to maintain consistency. \n\nFinally, I'll present the recipe in a structured format, making it easy to follow. I'll also add a note about serving, suggesting whipped cream as a topping. \n\nI think that covers everything. Now, I'll put it all together in a clear, step-by-step manner.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n### Chocolate Cream Pie Recipe\n\n#### Ingredients:\n- 3 slightly heaping tablespoons of cocoa  \n- 1 \u00bd cups sugar  \n- A pinch of salt  \n- 3 tablespoons cornstarch  \n- 3 eggs, separated  \n- \u00bc stick of margarine  \n- 1 large can Pet or Carnation milk (or regular milk)  \n- 6 heaping teaspoons sugar  \n- \u00bc teaspoon cream of tartar  \n- 1 baked pie shell  \n\n---\n\n#### Instructions:\n\n1. **Prepare the Chocolate Filling:**\n   - In a medium saucepan, combine the cocoa, sugar, and salt.  \n   - Add the cornstarch and mix well.  \n   - Gradually stir in the milk to avoid lumps.  \n   - Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.  \n   - Remove from heat and stir in the margarine until melted and smooth.  \n\n2. **Temper the Egg Yolks:**\n   - In a small bowl, beat the egg yolks.  \n   - Gradually add a little of the warm chocolate mixture to the egg yolks, stirring constantly to prevent the eggs from scrambling.  \n   - Return the saucepan to low heat and slowly pour the egg yolk mixture into the chocolate filling, stirring continuously.  \n   - Cook for 2-3 minutes, until smooth and thickened.  \n\n3. **Prepare the Meringue (Optional):**\n   - In a clean bowl, beat the egg whites and cream of tartar until soft peaks form.  \n   - Gradually add the 6 heaping teaspoons of sugar, beating until stiff peaks form.  \n\n4. **Assemble the Pie:**\n   - Pour the chocolate filling into the baked pie shell.  \n   - If using meringue, spread it evenly over the top of the filling, making sure to seal the edges.  \n   - Bake in a preheated oven at 350\u00b0F (175\u00b0C) for 10-15 minutes, or until the meringue is golden brown.  \n\n5. **Chill and Serve:**\n   - Allow the pie to cool slightly, then refrigerate for at least 2 hours to set.  \n   - Serve chilled, optionally topped with whipped cream.  \n\nEnjoy your delicious homemade chocolate cream pie!",
+        "evaluation": {
+            "BLEU": 3.300905134240713e-79,
+            "ROUGE-1": 0.1232876712328767,
+            "ROUGE-2": 0.019230769230769232,
+            "ROUGE-L": 0.07945205479452055
+        }
+    },
+    {
+        "recipe_name": "Salmon Casserole Special",
+        "ingredients": [
+            "1 medium onion, minced",
+            "1 clove garlic, minced",
+            "1/4 c. olive oil",
+            "2 (1 lb.) cans tomatoes, chopped",
+            "1 (6 oz.) can tomato paste",
+            "1 tsp. salt",
+            "1/2 tsp. pepper",
+            "1 tsp. basil",
+            "1/2 tsp. oregano",
+            "1/4 c. chopped parsley",
+            "1 lb. broad green noodles",
+            "8 oz. Mozzarella, sliced",
+            "1 lb. Ricotta or creamed cottage cheese",
+            "1 (1 lb.) can salmon, drained and flaked",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Cook onion and garlic in hot olive oil until soft.",
+            "Add next 7 ingredients and simmer 30 minutes, stirring frequently."
+        ],
+        "response": "<think>\nOkay, so the user provided a query where they want me to act as an expert chef, giving structured, step-by-step recipes. They included an example with ingredients and instructions for a potato dish, and then another set of ingredients without instructions, asking for the recipe.\n\nFirst, I need to understand the pattern from the first example. The user listed ingredients and then detailed, numbered steps. My task is to replicate that structure for the second set of ingredients.\n\nLooking at the second set, the ingredients include items for a sauce and for a baked dish, likely a pasta bake. I notice there's onion, garlic, olive oil, tomatoes, tomato paste, herbs, noodles, cheeses, and salmon. So, it's probably a salmon pasta bake with a tomato-based sauce.\n\nI should start by making the sauce. Saut\u00e9ing the onion and garlic first makes sense. Then add the tomatoes, tomato paste, and herbs. Let it simmer to develop flavor.\n\nNext, cook the noodles according to package instructions. While that's cooking, prepare the salmon by draining and flaking it. Then, in a large bowl, combine the sauce, noodles, salmon, and some of the cheeses. Mix well.\n\nAssemble the dish in a baking dish, layering the noodle mixture, ricotta, mozzarella, and Parmesan. Repeat the layers and top with mozzarella and Parmesan.\n\nBake until golden and bubbly, then let it rest before serving. I should make sure each step is clear and follows a logical order, just like the first example.\n\nI also need to ensure the instructions are detailed but concise, using numbered steps for clarity. Including optional steps, like serving with parsley, adds a nice touch.\n\nFinally, I'll present the recipe in the same format as the example, making it easy for the user to follow. I should double-check that all ingredients are used and that the steps make sense for a baked pasta dish with salmon.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n---\n\n### **Creamy Salmon Pasta Bake**\n\n#### **Ingredients:**\n- 1 medium onion, minced  \n- 1 clove garlic, minced  \n- 1/4 c. olive oil  \n- 2 (1 lb.) cans tomatoes, chopped  \n- 1 (6 oz.) can tomato paste  \n- 1 tsp. salt  \n- 1/2 tsp. pepper  \n- 1 tsp. basil  \n- 1/2 tsp. oregano  \n- 1/4 c. chopped parsley  \n- 1 lb. broad green noodles  \n- 8 oz. Mozzarella, sliced  \n- 1 lb. Ricotta or creamed cottage cheese  \n- 1 (1 lb.) can salmon, drained and flaked  \n- 1/2 c. grated Parmesan cheese  \n\n---\n\n#### **Instructions:**\n\n1. **Prepare the Sauce:**  \n   - Heat the olive oil in a large saucepan over medium heat.  \n   - Add the minced onion and garlic, saut\u00e9ing until softened and fragrant (about 3-4 minutes).  \n   - Stir in the chopped tomatoes, tomato paste, salt, pepper, basil, oregano, and parsley. Mix well.  \n   - Bring the sauce to a simmer and let it cook for 15-20 minutes, stirring occasionally, until thickened.  \n\n2. **Cook the Noodles:**  \n   - Bring a large pot of salted water to a boil.  \n   - Add the broad green noodles and cook according to package instructions until al dente. Drain and set aside.  \n\n3. **Prepare the Salmon:**  \n   - Drain and flake the canned salmon into a bowl. Set aside.  \n\n4. **Assemble the Dish:**  \n   - In a large mixing bowl, combine the cooked noodles, salmon, and tomato sauce. Stir until the noodles and salmon are evenly coated with the sauce.  \n\n5. **Layer the Bake:**  \n   - Preheat the oven to 375\u00b0F (190\u00b0C).  \n   - In a greased 9x13-inch baking dish, spread a thin layer of the noodle and salmon mixture.  \n   - Top with a layer of Ricotta or cottage cheese, followed by a few slices of Mozzarella and a sprinkle of Parmesan cheese.  \n   - Repeat the layers until all ingredients are used, finishing with a layer of Mozzarella and Parmesan on top.  \n\n6. **Bake:**  \n   - Cover the dish with aluminum foil and bake for 25 minutes.  \n   - Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden and bubbly.  \n\n7. **Serve:**  \n   - Let the dish rest for 5-10 minutes before slicing and serving.  \n   - Garnish with additional parsley if desired.  \n\nEnjoy your creamy salmon pasta bake!",
+        "evaluation": {
+            "BLEU": 2.5703076149918827e-79,
+            "ROUGE-1": 0.04558404558404558,
+            "ROUGE-2": 0.014285714285714285,
+            "ROUGE-L": 0.03133903133903134
+        }
+    },
+    {
+        "recipe_name": "Crock-Pot Meatballs",
+        "ingredients": [
+            "2 lb. ground meat",
+            "2 onions, minced",
+            "3/4 c. milk",
+            "2 c. breadcrumbs",
+            "4 eggs",
+            "1/2 tsp. garlic powder",
+            "1 Tbsp. dill weed",
+            "2 Tbsp. dill weed",
+            "3 cans cream of mushroom soup"
+        ],
+        "instructions": [
+            "Mix first 7 ingredients together.",
+            "Make into balls and put on cookie sheets; close together.",
+            "Put in 350\u00b0 oven for 15 minutes. Bump the pan and bake for 5 more minutes.",
+            "Refrigerate until ready to heat in crock-pot.",
+            "Add cream sauce (3 cans of cream of mushroom soup and 2 tablespoons dill weed).",
+            "Heat until warmed.",
+            "Great for parties.",
+            "Makes a big batch."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for a different recipe. The user seems to be looking for a consistent format, probably to either cook themselves or to share with others.\n\nLooking at the history, I responded with a detailed recipe for the second set of ingredients, making sure to follow the same structure as the example they gave. I broke it down into sections: ingredients, instructions, and serving suggestions. I also made sure to number each step clearly and keep the language simple and direct.\n\nI think the user might be someone who's into cooking and wants to organize their recipes neatly. They might be compiling a cookbook or just want to follow recipes more easily. They value clarity and step-by-step guidance, so it's important to maintain that structure in any response.\n\nI should also consider if they might need variations or substitutions, but since they didn't ask for that, sticking to the given ingredients is best. Maybe in the future, they'll ask for more creative ideas, but for now, providing a clear, easy-to-follow recipe is key.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n---\n\n### **Meatloaf with Creamy Mushroom Sauce**\n\n#### **Ingredients:**\n- 2 lb. ground meat (beef, pork, or a combination)\n- 2 onions, minced\n- 3/4 c. milk\n- 2 c. breadcrumbs\n- 4 eggs\n- 1/2 tsp. garlic powder\n- 1 Tbsp. dill weed\n- 2 Tbsp. dill weed (optional, for garnish)\n- 3 cans cream of mushroom soup\n\n---\n\n#### **Instructions:**\n\n1. **Preheat the oven:**  \n   Preheat your oven to 350\u00b0F (175\u00b0C).\n\n2. **Prepare the meat mixture:**  \n   In a large mixing bowl, combine the ground meat, minced onions, milk, breadcrumbs, eggs, garlic powder, and 1 Tbsp. of dill weed. Mix everything together with your hands or a wooden spoon until just combined. Be careful not to overmix.\n\n3. **Shape the meatloaf:**  \n   Transfer the meat mixture to a greased loaf pan or shape it into a loaf shape on a baking sheet lined with parchment paper.\n\n4. **Bake the meatloaf:**  \n   Bake the meatloaf in the preheated oven for 45-50 minutes, or until it reaches an internal temperature of 160\u00b0F (71\u00b0C). Let it rest for 5-10 minutes before slicing.\n\n5. **Prepare the creamy mushroom sauce:**  \n   While the meatloaf is baking, heat the 3 cans of cream of mushroom soup in a saucepan over medium heat. Stir occasionally until the sauce is warm and bubbly. If desired, add a little water or milk to thin it out.\n\n6. **Serve:**  \n   Slice the meatloaf and serve with the creamy mushroom sauce spooned over the top. Garnish with additional dill weed if desired.\n\n---\n\nEnjoy your hearty meatloaf with a rich, creamy mushroom sauce!",
+        "evaluation": {
+            "BLEU": 0.01454698364363685,
+            "ROUGE-1": 0.1614678899082569,
+            "ROUGE-2": 0.03314917127071823,
+            "ROUGE-L": 0.09174311926605505
+        }
+    },
+    {
+        "recipe_name": "Wild Rice Casserole",
+        "ingredients": [
+            "1 lb. sausage",
+            "1 medium onion, chopped",
+            "1 medium green pepper, chopped",
+            "1/2 c. celery, chopped",
+            "1 (6 oz.) pkg. long grain and wild rice mix",
+            "1 can cream chicken soup",
+            "1 can cream mushroom soup",
+            "1 c. shredded Cheddar cheese",
+            "1 (4 oz.) can sliced mushrooms, drained"
+        ],
+        "instructions": [
+            "Brown sausage in skillet, reserving drippings. Saute onion, green pepper and celery in drippings. Combine sausage, sauted vegetables, long grain and wild rice mix (including seasoning packet), soups, cheese and mushrooms. Spoon into a shallow 2-quart casserole dish. Cover and bake at 325\u00b0 for 1 hour or until done."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for a sausage-based dish. The user then ended with \"Instructions:\" but didn't provide the actual steps, so I need to figure out what they're looking for.\n\nFirst, I notice that the user is likely someone who enjoys cooking or is looking to create a new recipe. They provided two sets of ingredients, so maybe they want me to come up with the instructions for the second one. The first example they gave had detailed steps, so they probably expect a similar level of detail for the second recipe.\n\nLooking at the second set of ingredients: sausage, onion, green pepper, celery, a rice mix, cream soups, cheese, and mushrooms. This seems like a casserole or a one-pot dish. The presence of rice and canned soups suggests it's a creamy, savory dish, possibly a main course.\n\nI should start by thinking about the typical steps involved in such a recipe. Usually, you start by browning the sausage, then saut\u00e9ing the vegetables, cooking the rice, mixing everything together, and baking if necessary. Since the first example used the microwave for potatoes, maybe this one is oven-based, but it's not clear. Alternatively, it could be a skillet meal.\n\nI need to make sure the instructions are clear and follow a logical flow. Brown the sausage first, drain the fat, then cook the veggies until soft. Then add the rice mix, cook according to package instructions, incorporate the soups and cheese for creaminess, and finish with the mushrooms. Since it's a rice dish, maybe it's cooked on the stovetop until the liquid is absorbed, similar to a pilaf.\n\nI should also consider any potential steps that might be tricky, like ensuring the rice is cooked properly or the cheese is well incorporated. Maybe suggest covering the skillet if using the stovetop method to help with even cooking.\n\nI should structure the response with numbered steps, each with a clear action. Make sure to mention draining the sausage to avoid excess fat, which is important for the dish's texture. Also, note the optional baking step in case the user prefers a crispy top.\n\nFinally, I'll present the instructions in a friendly and helpful manner, ensuring each step is concise and easy to follow. I'll also offer further assistance in case they need more details or have questions.\n</think>\n\nHere\u2019s a step-by-step recipe based on the ingredients provided:\n\n### Sausage, Rice, and Vegetable Casserole\n\n**Ingredients:**\n- 1 lb. sausage\n- 1 medium onion, chopped\n- 1 medium green pepper, chopped\n- 1/2 c. celery, chopped\n- 1 (6 oz.) pkg. long grain and wild rice mix\n- 1 can cream of chicken soup\n- 1 can cream of mushroom soup\n- 1 c. shredded Cheddar cheese\n- 1 (4 oz.) can sliced mushrooms, drained\n\n**Instructions:**\n\n1. **Cook the Sausage:**\n   - In a large skillet, brown the sausage over medium-high heat, breaking it apart with a spoon as it cooks, until fully cooked.\n   - Drain excess fat from the skillet and set the cooked sausage aside.\n\n2. **Saut\u00e9 the Vegetables:**\n   - In the same skillet, add the chopped onion, green pepper, and celery.\n   - Saut\u00e9 until the vegetables are tender, about 5-7 minutes.\n\n3. **Prepare the Rice:**\n   - Cook the long grain and wild rice mix according to the package instructions. Set aside.\n\n4. **Combine Ingredients:**\n   - In a large mixing bowl, combine the cooked sausage, saut\u00e9ed vegetables, cooked rice, cream of chicken soup, cream of mushroom soup, and shredded Cheddar cheese. Mix well until all ingredients are fully incorporated.\n\n5. **Add Mushrooms:**\n   - Stir in the drained sliced mushrooms and mix until evenly distributed.\n\n6. **Transfer to a Skillet or Casserole Dish:**\n   - Transfer the mixture to the same skillet used earlier (if it\u2019s large enough) or to a greased 9x13-inch casserole dish.\n\n7. **Cook on the Stovetop or Bake:**\n   - If cooking on the stovetop, cover the skillet and simmer over low heat for 10-15 minutes, stirring occasionally, until the cheese is melted and the mixture is heated through.\n   - If baking, preheat your oven to 350\u00b0F (175\u00b0C). Cover the dish with aluminum foil and bake for 20-25 minutes, then remove the foil and bake for an additional 5-10 minutes, or until the top is lightly browned.\n\n8. **Serve:**\n   - Remove from heat or oven and let it cool slightly before serving.\n\nEnjoy your hearty sausage, rice, and vegetable casserole! Let me know if you'd like further clarification or additional tips. \ud83d\ude0a",
+        "evaluation": {
+            "BLEU": 0.010149100877158297,
+            "ROUGE-1": 0.09397590361445785,
+            "ROUGE-2": 0.04106280193236715,
+            "ROUGE-L": 0.07228915662650603
+        }
+    },
+    {
+        "recipe_name": "Spiced Apple Muffins",
+        "ingredients": [
+            "3 c. flour",
+            "4 tsp. baking powder",
+            "2 tsp. salt",
+            "3 Tbsp. sugar",
+            "1/2 c. shortening",
+            "2 eggs, well beaten",
+            "1 1/4 c. milk",
+            "1 c. chopped apples",
+            "2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon"
+        ],
+        "instructions": [
+            "Combine dry ingredients and cut in shortening.",
+            "Mix eggs and milk and add to flour mixture.",
+            "Fold in apples.",
+            "Put batter in greased muffin tins and sprinkle with sugar and cinnamon mix. Bake at 425\u00b0 for 25 minutes."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for what seems like an apple dish, but they didn't finish the instructions. \n\nFirst, I need to recognize that the user is looking for a consistent format. They provided an example, so I should follow that structure. The first recipe was quite detailed, with specific steps and measurements, so I should maintain that level of detail.\n\nLooking at the second set of ingredients, it's for a baked good, probably apple fritters or a cake. The ingredients include flour, baking powder, salt, sugar, shortening, eggs, milk, chopped apples, and cinnamon. That makes me think of something like an apple fritter or perhaps a coffee cake.\n\nI should start by listing the ingredients clearly, then move on to the instructions. The example used a mix of preparation steps, cooking methods, and combining ingredients, so I'll follow that pattern. \n\nFirst, preheating the oven is a standard first step. Then, preparing the apples with sugar and cinnamon makes sense to enhance their flavor. Next, mixing the dry ingredients, then adding the wet ones, and gently folding in the apples. Pouring the batter into a pan and baking until golden brown seems right. \n\nI should also include optional steps, like the streusel topping, to add extra flavor. Finally, cooling the dish a bit before serving is a good touch. \n\nI need to make sure each step is clear and concise, using bold text for the instructions as in the example. Also, mentioning the optional topping gives the user flexibility, which is nice. \n\nI should double-check the measurements and steps to ensure everything makes sense and the recipe is complete. Making sure the instructions flow logically from one step to the next is important for clarity. \n\nOverall, the goal is to provide a helpful, easy-to-follow recipe that matches the structure the user provided. I think this approach covers all the necessary parts and should meet the user's expectations.\n</think>\n\n**Apple Fritter Coffee Cake**  \n*Ingredients:*  \n- 3 cups flour  \n- 4 tsp. baking powder  \n- 2 tsp. salt  \n- 3 Tbsp. sugar  \n- 1/2 cup shortening  \n- 2 eggs, well beaten  \n- 1 1/4 cups milk  \n- 1 cup chopped apples  \n- 2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon  \n\n**Instructions:**  \n1. Preheat the oven to 375\u00b0F (190\u00b0C). Grease a 9x13-inch baking dish and set aside.  \n2. In a small bowl, toss the chopped apples with the 2 Tbsp. sugar and 1/4 tsp. cinnamon until evenly coated. Set aside.  \n3. In a large mixing bowl, whisk together the flour, baking powder, salt, and 3 Tbsp. sugar.  \n4. Add the shortening to the dry ingredients and mix until the mixture resembles coarse crumbs.  \n5. In a separate bowl, whisk together the eggs and milk. Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.  \n6. Gently fold in the cinnamon-coated apples until evenly distributed throughout the batter.  \n7. Pour the batter into the prepared baking dish and smooth the top with a spatula.  \n8. If desired, prepare a streusel topping by mixing 1/2 cup flour, 1/2 cup sugar, and 1/2 cup cold butter until crumbly. Sprinkle the streusel evenly over the top of the batter.  \n9. Bake in the preheated oven for 35-40 minutes, or until a toothpick inserted into the center comes out clean and the top is golden brown.  \n10. Let cool for 10 minutes before serving. Enjoy!",
+        "evaluation": {
+            "BLEU": 0.007625987904839531,
+            "ROUGE-1": 0.09937888198757763,
+            "ROUGE-2": 0.024922118380062305,
+            "ROUGE-L": 0.07142857142857144
+        }
+    },
+    {
+        "recipe_name": "Burritos",
+        "ingredients": [
+            "1 lb. ground beef",
+            "1 large can refried beans",
+            "1 small can refried beans",
+            "8 oz. Mozzarella cheese, grated",
+            "8 oz. mild Cheddar cheese, grated",
+            "8 to 10 oz. picante sauce",
+            "1 large onion, chopped",
+            "sour cream",
+            "flour tortillas"
+        ],
+        "instructions": [
+            "Brown ground beef; drain off grease.",
+            "Add refried beans and picante sauce.",
+            "Heat thoroughly.",
+            "Add cheeses.",
+            "Cook until cheese melts."
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for what seems like a Mexican dish. \n\nFirst, I need to understand the pattern from the example. The example starts with listing the ingredients, then goes through each step in detail, making sure to mention quantities and specific actions. It's clear and methodical, which is helpful for someone following the recipe.\n\nLooking at the second set of ingredients, I see ground beef, refried beans, cheeses, picante sauce, onion, sour cream, and flour tortillas. This screams something like a taco casserole or maybe a layered dip. The user didn't provide the instructions, so I need to come up with a logical sequence.\n\nI should start by browning the ground beef, which is a common first step in many recipes. Then, adding the onion makes sense to saut\u00e9 along with the beef. Mixing in the picante sauce will add flavor. \n\nNext, combining the refried beans\u2014using both the large and small cans\u2014creates a base layer. This mixture will likely be the foundation of the dish, maybe spread at the bottom of a baking dish.\n\nThen, the cheeses need to be divided because some will go into the mixture and the rest on top. Mixing part of the cheese into the beef and bean mixture helps with flavor distribution. \n\nAssembling the dish by spreading the bean mixture, then layering the beef, followed by the remaining cheese, and baking until bubbly makes sense. Adding optional toppings like sour cream, more picante sauce, and maybe some extra cheese or onions at the end gives it a nice finish.\n\nI should make sure each step is clear, mentioning quantities and specific actions, just like in the example. Also, including optional steps, like serving with tortillas, adds flexibility for the user.\n\nI need to ensure the language is simple and direct, avoiding any complicated terms so that anyone can follow along. Keeping each step concise but informative is key. \n\nI also notice that in the example, they mentioned not letting it boil after adding certain ingredients, so I should be mindful of such details, but in this case, since it's a baked dish, that might not apply. However, mentioning to bake until bubbly is important.\n\nOverall, the goal is to create a recipe that's easy to follow, uses all the ingredients provided, and results in a tasty dish. I think structuring it in a layered, step-by-step manner will make it approachable for the user.\n</think>\n\nBrown the ground beef in a large skillet over medium-high heat until fully cooked. Drain excess fat. Add the chopped onion and cook until translucent. Stir in the picante sauce and bring to a simmer. Reduce heat to low and let it cook while preparing the rest of the dish.\n\nIn a large mixing bowl, combine the large can of refried beans and the small can of refried beans. Mix well to combine. Spread this mixture evenly in the bottom of a 9x13-inch baking dish.\n\nAdd 1/2 of the Mozzarella cheese and 1/2 of the Cheddar cheese to the ground beef mixture. Stir well to combine. Spoon this mixture over the refried beans in the baking dish.\n\nSprinkle the remaining Mozzarella and Cheddar cheese evenly over the top of the dish. Bake in a preheated oven at 350\u00b0F (175\u00b0C) for 20-25 minutes, or until the cheese is melted and bubbly.\n\nRemove from the oven and let it cool slightly. Top with a dollop of sour cream and a sprinkle of additional cheese, picante sauce, or chopped green onions if desired. Serve warm with flour tortillas on the side.",
+        "evaluation": {
+            "BLEU": 2.0812579192964073e-79,
+            "ROUGE-1": 0.05167173252279635,
+            "ROUGE-2": 0.015243902439024388,
+            "ROUGE-L": 0.04559270516717326
+        }
+    },
+    {
+        "recipe_name": "Toll House Pie",
+        "ingredients": [
+            "2 eggs",
+            "1/2 c. all-purpose flour",
+            "1/2 c. sugar",
+            "1/2 c. firmly packed brown sugar",
+            "1 c. butter, melted and cooled to room temperature",
+            "1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels",
+            "1 c. chopped walnuts",
+            "1 (9-inch) unbaked pie shell",
+            "whipped cream or ice cream (optional)"
+        ],
+        "instructions": [
+            "Preheat oven to 325\u00b0.",
+            "In large bowl, beat eggs until foamy; beat in flour, sugar and brown sugar until well blended.",
+            "Blend in melted butter.",
+            "Stir in chocolate morsels and walnuts.",
+            "Pour into pie shell.",
+            "Bake for 1 hour.",
+            "Remove from oven.",
+            "Serve warm with whipped cream or ice cream.",
+            "(This recipe may be doubled.",
+            "Bake 2 pies, freeze one for later use.)"
+        ],
+        "response": "<think>\nAlright, so the user provided a query where they're asking for a structured, step-by-step recipe based on given ingredients. They included an example with potatoes and ground beef, and then another set of ingredients for a dessert, probably a pie. The user then ended with \"Instructions:\" but didn't provide the actual steps, so I need to figure out what they want.\n\nLooking at the history, the user mentioned they're an expert chef who provides structured recipes. So, they likely want me to take the second set of ingredients and create a detailed, step-by-step recipe for it. The ingredients include eggs, flour, sugars, melted butter, chocolate morsels, walnuts, and a pie shell. That sounds like a chocolate walnut pie, maybe similar to a pecan pie but with chocolate.\n\nI should start by identifying the type of pie. The presence of chocolate morsels and walnuts suggests it's a dessert pie, probably baked. The user's example had a savory dish, so now they're moving to dessert. I need to outline the steps clearly, just like in the first example.\n\nFirst, preheating the oven is essential. Then, preparing the pie crust\u2014since it's unbaked, I should mention blind baking to prevent it from bubbling. Next, mixing the filling: eggs, sugars, melted butter, flour, then adding chocolate and nuts. Pouring the mixture into the crust and baking until set. Cooling is important to let it set properly. Finally, serving with whipped cream or ice cream as an option.\n\nI should make sure each step is clear and concise, using bold for actions and keeping the language simple. Also, mentioning the optional serving suggestion at the end ties it all together. I think that covers everything the user needs for the recipe.\n</think>\n\n**Chocolate Walnut Pie Recipe**\n\n**Ingredients:**\n- 2 eggs\n- 1/2 cup all-purpose flour\n- 1/2 cup sugar\n- 1/2 cup firmly packed brown sugar\n- 1 cup butter, melted and cooled to room temperature\n- 1 cup (6 oz.) Nestle Toll House semi-sweet chocolate morsels\n- 1 cup chopped walnuts\n- 1 (9-inch) unbaked pie shell\n- Whipped cream or ice cream (optional)\n\n**Instructions:**\n\n1. **Preheat the Oven:**  \n   Preheat your oven to 350\u00b0F (175\u00b0C).\n\n2. **Prepare the Pie Crust:**  \n   Place the unbaked pie shell on a baking sheet. If using a homemade crust, ensure it is chilled and properly fitted into the pie dish.\n\n3. **Blind Bake the Crust (Optional):**  \n   If desired, line the crust with parchment paper and fill with pie weights or dried beans. Bake for 8-10 minutes to prevent the crust from bubbling. Remove the parchment paper and weights or beans.\n\n4. **Prepare the Filling:**  \n   In a large bowl, whisk together the eggs, flour, sugar, and brown sugar until well combined.\n\n5. **Add the Melted Butter:**  \n   Stir in the melted butter until fully incorporated into the egg mixture.\n\n6. **Stir in Chocolate and Walnuts:**  \n   Fold in the chocolate morsels and chopped walnuts until evenly distributed.\n\n7. **Pour the Filling into the Pie Crust:**  \n   Carefully pour the filling mixture into the prepared pie crust.\n\n8. **Bake the Pie:**  \n   Bake for 45-50 minutes, or until the edges are set and the center is slightly jiggly but not runny. Avoid overbaking, as the filling will continue to set as it cools.\n\n9. **Cool the Pie:**  \n   Let the pie cool on a wire rack for at least 2 hours to allow it to set completely.\n\n10. **Serve:**  \n    Slice and serve warm or at room temperature. Top with whipped cream or a scoop of ice cream if desired.\n\nEnjoy your delicious homemade chocolate walnut pie!",
+        "evaluation": {
+            "BLEU": 0.01946536731474335,
+            "ROUGE-1": 0.15015015015015015,
+            "ROUGE-2": 0.06927710843373495,
+            "ROUGE-L": 0.11411411411411411
+        }
+    },
+    {
+        "recipe_name": "Creamy Potato-Onion Soup",
+        "ingredients": [
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. flour",
+            "1 c. finely chopped onion (use processor)",
+            "1 large clove garlic or garlic powder",
+            "2 (14 1/2 oz.) cans (defatted) chicken broth",
+            "4 c. peeled and cubed potatoes",
+            "1/2 c. finely sliced green onion tops",
+            "1/8 tsp. salt",
+            "1/4 tsp. pepper",
+            "1 qt. milk (whole)"
+        ],
+        "instructions": [
+            "Melt butter or margarine in Dutch oven over low heat.",
+            "Add flour to make a paste.",
+            "Cook 1 minute, stirring constantly.",
+            "Add onions and garlic.",
+            "Cook until onions are tender.",
+            "Add broth, milk and potatoes.",
+            "Add seasoning to suit taste.",
+            "Bring to boil; turn heat down low and cook until potatoes are tender.",
+            "Mash with potato masher or put potatoes in food processor until smooth. Serve with grated sharp cheese and green onion tops.",
+            "Good with corn muffins."
+        ],
+        "response": "<think>\nOkay, so the user provided a conversation history where they asked me to act as an expert chef giving structured recipes. They then shared an example recipe with ingredients and detailed steps. Now, in the current query, they've given another set of ingredients and started the instructions but didn't finish. They ended with \"Instructions:\" and that's it.\n\nHmm, I need to figure out what they're asking for. It looks like they want me to continue the recipe using the provided ingredients. The first example they gave was for a potato dish with ground beef, bacon, cheese, etc., and now the new ingredients are for a potato soup. The instructions in the first example were quite detailed, so they probably expect the same level of detail for the new recipe.\n\nLet me look at the ingredients again: butter, flour, onion, garlic, chicken broth, potatoes, green onion tops, salt, pepper, and milk. This seems like a potato soup recipe. The first step in the previous example involved microwaving potatoes, but here, since it's a soup, it's more about making a roux with butter and flour, then adding broth and potatoes.\n\nI should structure the steps similarly. Start by melting butter, then making the roux, saut\u00e9ing onions and garlic, adding broth, potatoes, seasoning, then milk to make it creamy. Finally, garnish with green onions. I'll need to make sure each step is clear and follows a logical flow, just like the first example.\n\nI should also mention optional steps, like using garlic powder instead of fresh garlic, and note that the soup shouldn't boil after adding the milk to prevent curdling. Ending with a tip about serving hot and possible variations would be helpful.\n\nAlright, I'll draft the instructions step by step, ensuring it's detailed and easy to follow, matching the structure of the first example they provided.\n</think>\n\n1. **Melt Butter and Prepare Roux**:  \n   In a large saucepan, melt the butter or margarine over medium heat. Add the flour and stir until smooth to create a roux, cooking for about 1 minute.  \n\n2. **Saut\u00e9 Onion and Garlic**:  \n   Add the finely chopped onion and garlic (or garlic powder) to the roux. Saut\u00e9 until the onion is translucent and fragrant, stirring occasionally.  \n\n3. **Add Broth and Potatoes**:  \n   Gradually pour in the defatted chicken broth, whisking constantly to avoid lumps. Bring the mixture to a simmer. Add the peeled and cubed potatoes, salt, and pepper. Stir well to combine.  \n\n4. **Cook Potatoes**:  \n   Reduce the heat to low and let the potatoes cook until they are tender, about 15-20 minutes. Stir occasionally to prevent sticking.  \n\n5. **Add Milk**:  \n   Once the potatoes are soft, slowly stir in the whole milk. Continue to heat the soup over low-medium heat, stirring constantly, until it thickens slightly. Be careful not to let it boil.  \n\n6. **Finish and Garnish**:  \n   Taste and adjust the seasoning if needed. Stir in the finely sliced green onion tops. Serve the soup hot, garnished with additional green onions if desired.  \n\nEnjoy your creamy potato soup!",
+        "evaluation": {
+            "BLEU": 6.55981013322436e-79,
+            "ROUGE-1": 0.20642978003384096,
+            "ROUGE-2": 0.07130730050933785,
+            "ROUGE-L": 0.13874788494077836
+        }
+    }
+]
