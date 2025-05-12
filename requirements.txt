@@ -1,10 +1,16 @@
 # Core App Requirements
 streamlit>=1.32.0
 numpy>=1.21.0,<1.24.0
+together
+google-api-python-client
 
 # Agno AI Core and Tools
 agno
 duckduckgo-search
+setuptools 
+# git+https://github.com/agnodice/agno.git
+
+
 
 # Multilingual Support
 langdetect                 # Detects the language of input text
@@ -12,7 +18,8 @@ googletrans==4.0.0-rc1     # Google Translate API wrapper (for translation)
 transformers>=4.25.0       # For multilingual transformer models (e.g., mBERT, XLM-R)
 sentencepiece              # Required for tokenization of some multilingual models
 torch>=1.13.0              # Backend for transformers (ensure it's compatible with your setup)
-
+tqdm
 # Optional NLP utilities
 nltk
 spacy
+
