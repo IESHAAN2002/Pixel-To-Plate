@@ -106,11 +106,12 @@ streamlit run Pixel_to_plate.py
 ![User Input](visuals/User_Inputs.png)
 
 Create a simple text file (`ingredients.txt`) with your available ingredients, one line:
-> tomatoes,
-> onions,
-> olive oil,
-> chicken breast
-
+```text
+tomatoes,
+onions,
+olive oil,
+chicken breast
+```
 ---
 ## Output
 
