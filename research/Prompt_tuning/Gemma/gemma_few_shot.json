@@ -1,0 +1,1216 @@
+[
+    {
+        "recipe_name": "Mozzarella Chicken(Over Sauce)  ",
+        "ingredients": [
+            "2 1/2 to 3 lb. chicken",
+            "2 eggs, beaten",
+            "1/2 c. dry bread crumbs",
+            "1/4 c. butter",
+            "1 (8 oz.) can tomato sauce",
+            "1/2 tsp. dried basil",
+            "cooked egg noodles",
+            "Mozzarella Sauce",
+            "1/2 c. shredded cheese (Mozzarella)",
+            "1/4 tsp. paprika"
+        ],
+        "instructions": [
+            "Cut chicken into serving size pieces.",
+            "Dip into eggs; coat with crumbs.",
+            "Heat butter in skillet.",
+            "Cook chicken over medium heat until brown.",
+            "Stir in tomato sauce and basil.",
+            "Reduce heat; cover and cook over low heat for about 30 minutes, turning chicken every 10 minutes.",
+            "Prepare sauce.",
+            "Put noodles in a 9 x 13-inch pan.",
+            "Arrange chicken on top.",
+            "Spoon sauce over chicken.",
+            "Sprinkle cheese and paprika.",
+            "Broil 6 to 7 inches from broiler until cheese is melted and bubbly."
+        ],
+        "response": "**Chicken Parmesan with Tomato Sauce and Mozzarella**\n\n**Ingredients:**\n\n* 2 1/2 to 3 lb. chicken, cut into 1-inch pieces\n* 2 eggs, beaten\n* 1/2 c. dry bread crumbs\n* 1/4 c. butter\n* 1 (8 oz.) can tomato sauce\n* 1/2 tsp. dried basil\n* Cooked egg noodles\n* Mozzarella sauce\n* 1/2 c. shredded cheese (Mozzarella)\n* 1/4 tsp. paprika\n\n**Instructions:**\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. In a large skillet over medium heat, cook the chicken for 5-7 minutes per side, or until cooked through.\n3. Drain the chicken and set aside.\n4. In a large bowl, whisk together the eggs, bread crumbs, and butter.\n5. Add the chicken and egg mixture to the bowl and toss to coat.\n6. Spread the chicken mixture evenly on a baking sheet lined with parchment paper.\n7. Top with tomato sauce, basil, and mozzarella cheese.\n8. Bake for 15-20 minutes, or until the cheese is melted and bubbly.\n9. Serve with pasta noodles and additional mozzarella cheese.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality protein, such as chicken breast or turkey breast.\n* Serve with a side of garlic bread or pasta salad.\n* Top with fresh basil or oregano for a flavorful garnish.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 0.02723390791115521,
+            "ROUGE-1": 0.3505154639175258,
+            "ROUGE-2": 0.06228373702422144,
+            "ROUGE-L": 0.19243986254295536
+        }
+    },
+    {
+        "recipe_name": "Moussaka",
+        "ingredients": [
+            "2 medium eggplants",
+            "vegetable oil",
+            "1 lb. lean ground beef",
+            "2 medium onions, peeled and chopped",
+            "2 cloves garlic, peeled and crushed",
+            "1 (8 oz.) can tomato sauce",
+            "1 tsp. dried leaf oregano",
+            "1 tsp. salt, divided",
+            "1/4 tsp. black pepper, divided",
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. all-purpose flour",
+            "1 c. low-fat milk",
+            "1 egg",
+            "1/3 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Peel eggplants; slice 1/4-inch thick. Brush rimmed cookie sheet with oil. Coat each slice of eggplant on both sides with oil; place on cookie sheet.",
+            "Broil close to broiler until brown. Turn; brush with oil, if necessary.",
+            "Brown the other side. Repeat with all the eggplant slices."
+        ],
+        "response": "**Grilled Eggplant and Beef Skewers**\n\nIngredients:\n\n- 2 medium eggplants, sliced into 1/2-inch thick rounds\n- 1 lb. lean ground beef, cooked and shredded\n- 2 medium onions, diced\n- 2 cloves garlic, minced\n- 1 (8 oz.) can tomato sauce\n- 1 tsp. dried leaf oregano\n- 1 tsp. salt\n- 1/4 tsp. black pepper\n- 2 Tbsp. butter or margarine\n- 2 Tbsp. all-purpose flour\n- 1 c. low-fat milk\n- 1 egg\n- 1/3 c. grated Parmesan cheese\n\nInstructions:\n\n1. Preheat a grill to medium-high heat.\n2. Brush the eggplants with olive oil and season with salt and pepper.\n3. Thread the eggplants, beef, onions, and garlic onto skewers, alternating the ingredients.\n4. Grill for 10-15 minutes, or until the eggplants are tender and the beef is cooked to medium-rare.\n5. Serve immediately with your favorite dipping sauce.\n\n**Tips:**\n\n- For a smoky flavor, add a few wood chips to the grill.\n- Serve with a side of grilled vegetables or a salad.\n- Serve with a dipping sauce, such as pesto or balsamic vinaigrette.\n\n**Nutritional Information:**\n\nOne serving of these skewers contains approximately:\n\n- Calories: 450\n- Fat: 30 grams\n- Protein: 40 grams\n- Carbohydrates: 50 grams\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 8.58290516843769e-232,
+            "ROUGE-1": 0.17427385892116182,
+            "ROUGE-2": 0.03347280334728033,
+            "ROUGE-L": 0.11618257261410787
+        }
+    },
+    {
+        "recipe_name": "Blueberry Muffins With Lemon",
+        "ingredients": [
+            "2 c. sifted flour",
+            "1/3 c. sugar",
+            "3 tsp. baking powder",
+            "1 tsp. salt",
+            "1 egg, beaten",
+            "1 c. milk",
+            "1/4 c. melted butter, cooled",
+            "1 c. fresh or thawed blueberries",
+            "1 Tbsp. sugar and grated lemon rind, mixed"
+        ],
+        "instructions": [
+            "Sift together flour, sugar, baking powder and salt.",
+            "Mix with fork the beaten egg, milk and butter."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\nIngredients:\n- 6 baking potatoes, washed and pierced with a fork\n- 1 lb. of extra lean ground beef\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onion, chopped and divided\n- 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Microwave potatoes with a wet paper towel covering them on high for 6-8 minutes.\n2. Let potatoes cool enough to handle.\n3. Brown ground beef until done. Drain any grease from the meat.\n4. Add flour, salt, and pepper to a large kettle over low heat. Cook 1 minute, stirring constantly.\n5. Gradually add milk; cook over medium heat, stirring constantly, until thickened and bubbly.\n6. Stir in potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon.\n7. Cook until heated (do not boil).\n8. Stir in sour cream if desired; cook until heated (do not boil).\n9. Sprinkle with remaining cheese, bacon and green onions.\n\n**Enjoy!**\n</|im_end|>",
+        "evaluation": {
+            "BLEU": 8.199212976591536e-232,
+            "ROUGE-1": 0.09569377990430622,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.06698564593301436
+        }
+    },
+    {
+        "recipe_name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "1 head cabbage",
+            "1 lb. ground beef",
+            "1/2 c. rice",
+            "1 small onion, chopped",
+            "2 eggs",
+            "salt and pepper to taste",
+            "1 large onion, sliced",
+            "2 (8 oz.) cans tomato sauce",
+            "2 (29 oz.) cans tomatoes",
+            "juice of 2 lemons",
+            "1/2 c. packed brown sugar"
+        ],
+        "instructions": [
+            "Pour boiling water over cabbage in bowl.",
+            "Let stand for several minutes to loosen leaves; drain.",
+            "Combine ground beef, rice, chopped onion, eggs, salt and pepper in bowl."
+        ],
+        "response": "**Cabbage and Beef Soup**\n\nIngredients:\n\n* 1 head cabbage, chopped\n* 1 lb. ground beef\n* 1/2 c. rice\n* 1 small onion, chopped\n* 2 eggs\n* Salt and pepper to taste\n* 1 large onion, sliced\n* 2 (8 oz.) cans tomato sauce\n* 2 (29 oz.) cans tomatoes, juice of 2 lemons\n* 1/2 c. packed brown sugar\n\nInstructions:\n\n1. In a large pot, brown the ground beef over medium heat. Drain any excess fat.\n2. Add the onion and cook until softened, about 5 minutes.\n3. Add the rice and cook according to the package instructions.\n4. Add the cabbage, tomato sauce, tomatoes, and lemon juice to the pot.\n5. Bring to a boil, then reduce heat to low.\n6. Simmer for 15 minutes, or until the rice is cooked and the cabbage is tender.\n7. Season with salt and pepper to taste.\n8. Serve hot.\n\n**Tips:**\n\n* For a thicker soup, use less water when cooking the rice.\n* You can also add other vegetables to the soup, such as carrots or celery.\n* Serve with a side of crusty bread for dipping.\n\n**Additional Notes:**\n\n* The soup can be served hot or cold.\n* It is a great meal for a cold day.\n* The soup can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 4.684491489885528e-79,
+            "ROUGE-1": 0.15966386554621848,
+            "ROUGE-2": 0.03389830508474576,
+            "ROUGE-L": 0.08403361344537814
+        }
+    },
+    {
+        "recipe_name": "Oriental Salad",
+        "ingredients": [
+            "1 can LeSueur small peas",
+            "1 can Shoe Peg white corn",
+            "1 can French-cut green beans",
+            "1 (16 oz.) can bean sprouts",
+            "1 (4 oz.) jar pimientos",
+            "1 large onion, shredded fine",
+            "1 (6 oz.) jar sliced mushrooms",
+            "1 (10 oz.) can water chestnuts",
+            "1 large green pepper, chopped",
+            "1 c. celery, chopped",
+            "1 c. salad oil",
+            "1/2 c. vinegar",
+            "1 c. water",
+            "3/4 c. sugar",
+            "salt and pepper to taste"
+        ],
+        "instructions": [
+            "Drain vegetables well.",
+            "Put in blender and mix salad oil, vinegar, water, sugar, salt and pepper to taste.",
+            "Pour over vegetables and mix together.",
+            "Place in refrigerator overnight before serving.",
+            "Keeps well for 2 weeks."
+        ],
+        "response": "**LeSueur Peas and White Corn**\n\nIngredients:\n- 1 can LeSueur small peas\n- 1 can Shoe Peg white corn\n\nInstructions:\n1. Rinse and cook the peas and corn according to the package instructions.\n2. Drain and set aside.\n3. In a large skillet over medium heat, melt 1 tablespoon of oil.\n4. Add the peas and corn and cook until heated through.\n5. Season with salt and pepper to taste.\n\n**French-Cut Green Beans**\n\nIngredients:\n- 1 can French-cut green beans\n\nInstructions:\n1. Rinse and cook the green beans according to the package instructions.\n2. Drain and set aside.\n3. In a large skillet over medium heat, melt 1 tablespoon of oil.\n4. Add the green beans and cook until heated through.\n5. Season with salt and pepper to taste.\n\n**Bean Sprouts**\n\nIngredients:\n- 1 can bean sprouts\n\nInstructions:\n1. Rinse and cook the bean sprouts according to the package instructions.\n2. Drain and set aside.\n3. In a large skillet over medium heat, melt 1 tablespoon of oil.\n4. Add the bean sprouts and cook until heated through.\n5. Season with salt and pepper to taste.\n\n**Pimientos**\n\nIngredients:\n- 1 (4 oz.) jar pimientos\n\nInstructions:\n1. In a large skillet over medium heat, melt 1 tablespoon of oil.\n2. Add the pimientos and cook until heated through.\n3. Season with salt and pepper to taste.\n\n**Onion and Mushroom Mix**\n\nIngredients:\n- 1 large onion, shredded fine\n- 1 (6 oz.) jar sliced mushrooms\n\nInstructions:\n1. In a large skillet over medium heat, melt 1 tablespoon of oil.\n2. Add the onion and mushrooms and cook until heated through.\n3. Season with salt and pepper to taste.\n\n**Water Chestnut Salad**\n\nIngredients:\n- 1 large green pepper, chopped\n- 1 c. celery, chopped\n- 1 c. salad oil\n- 1/2 c. vinegar\n- 1 c. water\n- 3/4 c. sugar\n- Salt and pepper to taste\n\nInstructions:\n1. In a large skillet over medium heat, melt 1 tablespoon of oil.\n2. Add the onion and celery and cook until heated through.\n3. Add the water, vinegar, and sugar to the skillet and bring to a boil.\n4. Reduce heat to low and simmer for 5 minutes.\n5. Season with salt and pepper to taste.",
+        "evaluation": {
+            "BLEU": 0.011343639431073945,
+            "ROUGE-1": 0.09571788413098237,
+            "ROUGE-2": 0.030379746835443037,
+            "ROUGE-L": 0.08564231738035265
+        }
+    },
+    {
+        "recipe_name": "Pecan Pie Bars",
+        "ingredients": [
+            "2 1/2 c. flour",
+            "1 c. (2 sticks) cold butter or margarine",
+            "1/2 c. sugar",
+            "1/2 tsp. salt",
+            "4 eggs",
+            "1 1/2 c. Karo light or dark corn syrup",
+            "1 1/2 c. sugar",
+            "3 Tbsp. butter or margarine, melted",
+            "1 1/2 tsp. vanilla",
+            "2 1/2 c. pecan halves or coarsely chopped pecans"
+        ],
+        "instructions": [
+            "Cookie Crust:",
+            "Spray a 15 x 10 x 1-inch pan with cooking spray.",
+            "In a large bowl with mixer at medium speed, beat the flour, butter or margarine (cut in pieces), sugar and salt until mixture resembles fine crumbs.",
+            "Press firmly into prepared pan. Bake 20 to 23 minutes or until golden brown.",
+            "Top with filling and complete baking."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\nIngredients:\n- 6 baking potatoes, washed and cut into 1/2-inch thick slices\n- 1 lb. of extra lean ground beef, browned\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onions, chopped\n- 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. In a large skillet over medium heat, melt the butter or margarine.\n3. Add the flour and cook for 1 minute, stirring constantly.\n4. Gradually add the milk, stirring constantly, until the mixture is thickened and bubbly.\n5. Add the potatoes, ground beef, salt, pepper, cheese, bacon, and green onions to the skillet.\n6. Cook until heated through.\n7. Stir in the sour cream (if using) and serve immediately.\n\n**Tips:**\n\n- For a crispy crust, bake the potatoes in a baking dish lined with parchment paper.\n- Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n\n**Additional Notes:**\n\n- If you don't have sour cream, you can omit it from the recipe.\n- You can also add other toppings to the potatoes, such as diced tomatoes, onions, or mushrooms.\n- Serve with a side of crusty bread to soak up the delicious sauce.",
+        "evaluation": {
+            "BLEU": 7.411657537698033e-79,
+            "ROUGE-1": 0.22916666666666669,
+            "ROUGE-2": 0.03496503496503497,
+            "ROUGE-L": 0.125
+        }
+    },
+    {
+        "recipe_name": "Catskinner Cake",
+        "ingredients": [
+            "2 c. flour",
+            "2 tsp. baking soda",
+            "1/2 tsp. salt",
+            "2 c. sugar",
+            "1 c. flaked coconut",
+            "3/4 c. buttermilk",
+            "3/4 c. oil",
+            "3 large eggs",
+            "2 tsp. vanilla",
+            "1 (8 oz.) crushed pineapple, drained",
+            "1 c. chopped nuts",
+            "1 c. sugar",
+            "1/2 c. butter",
+            "1/2 c. buttermilk",
+            "3 Tbsp. light corn syrup",
+            "1/2 tsp. vanilla"
+        ],
+        "instructions": [
+            "Combine first 9 ingredients in a large mixing bowl; beat at medium speed 5 minutes. Stir in pineapple and nuts. Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350\u00b0 for 40 to 45 minutes. Set pan on wire rack."
+        ],
+        "response": "**Flour Batter for Cupcakes**\n\nIngredients:\n\n* 2 cups of all-purpose flour\n* 2 teaspoons of baking soda\n* 1/2 teaspoon of salt\n* 2 cups of sugar\n* 1 cup of flaked coconut\n* 3/4 cup of buttermilk\n* 3/4 cup of oil\n* 3 large eggs\n* 2 teaspoons of vanilla extract\n* 1 (8-ounce) can of crushed pineapple, drained\n\nInstructions:\n\n1. Preheat oven to 375 degrees F (190 degrees C).\n2. In a large bowl, whisk together the flour, baking soda, and salt.\n3. In a separate bowl, whisk together the sugar, coconut, and buttermilk.\n4. Add the wet ingredients to the dry ingredients and whisk until just combined. Do not overmix.\n5. Fold in the eggs and vanilla extract.\n6. Divide the batter evenly among 12 cupcake liners.\n7. Bake for 15-20 minutes, or until a toothpick inserted into the center comes out clean.\n8. Let cool in the liners for 5 minutes before frosting and serving.\n\n**Note:** For a richer cake, add 1/2 cup of cocoa powder to the batter.\n\n**Additional Tips:**\n\n* To make sure the cupcakes are evenly baked, use a cupcake liner that is slightly larger than the diameter of your cupcake pan.\n* If the cupcakes are too dry, add a tablespoon of milk at a time until they reach the desired consistency.\n* Serve with your favorite toppings, such as whipped cream, chocolate frosting, or fruit.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.9440491695806074e-155,
+            "ROUGE-1": 0.16000000000000003,
+            "ROUGE-2": 0.021978021978021976,
+            "ROUGE-L": 0.10181818181818184
+        }
+    },
+    {
+        "recipe_name": "Chocolate Delight",
+        "ingredients": [
+            "1 stick butter",
+            "1 c. plain flour",
+            "1/2 c. nuts",
+            "8 oz. cream cheese",
+            "1 c. powdered sugar",
+            "2 (9 oz.) Cool Whip",
+            "2 pkg. chocolate instant pudding",
+            "3 c. milk"
+        ],
+        "instructions": [
+            "Mix butter, flour and nuts.",
+            "Grease pan with butter and bake 10 to 15 minutes at 300\u00b0.",
+            "Cool."
+        ],
+        "response": "**Chocolate Pudding**\n\nIngredients:\n\n- 1 stick (8 tablespoons) unsalted butter, at room temperature\n- 1 cup all-purpose flour\n- 1/2 cup nuts (such as almonds or walnuts)\n- 8 ounces heavy whipping cream\n- 1 cup powdered sugar\n- 2 (9-ounce) packages chocolate instant pudding\n\nInstructions:\n\n1. Preheat oven to 350 degrees F (175 degrees C).\n2. In a medium bowl, whisk together the butter, flour, and nuts.\n3. In a large bowl, beat the heavy cream until stiff peaks form.\n4. Fold the whipped cream into the flour mixture until just combined. Do not overmix.\n5. Fold in the chocolate pudding mix until combined.\n6. Pour the pudding into a greased 9x13-inch baking dish.\n7. Bake for 20-25 minutes, or until set.\n8. Let cool for 5 minutes before serving.\n\n**Additional Notes:**\n\n- For a richer pudding, use high-quality chocolate instant pudding.\n- If you don't have heavy whipping cream, you can make your own by whipping together 1 cup of heavy cream and 1 tablespoon of powdered sugar until stiff peaks form.\n- Serve with a drizzle of chocolate sauce or whipped cream.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.8969752948248647e-155,
+            "ROUGE-1": 0.13861386138613863,
+            "ROUGE-2": 0.030000000000000002,
+            "ROUGE-L": 0.07920792079207921
+        }
+    },
+    {
+        "recipe_name": "Beef Pastichio(Greek)  ",
+        "ingredients": [
+            "1 1/2 lb. ground beef",
+            "1 (7 oz.) pkg. elbow macaroni",
+            "2 Tbsp. butter or margarine",
+            "1/4 c. flour",
+            "3 c. milk",
+            "1 large onion, finely chopped",
+            "1 tsp. salt",
+            "1/4 tsp. pepper",
+            "1/2 tsp. cinnamon",
+            "1/8 tsp. oregano leaves",
+            "1 (10 3/4 oz.) can tomato puree",
+            "3 eggs",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Prepare macaroni per package directions; drain.",
+            "Rinse with cold water; drain.",
+            "Stir flour into melted butter or margarine in heavy saucepan.",
+            "Gradually stir in milk and cook until thick, stirring occasionally.",
+            "Cover and cool.",
+            "Brown onion and ground beef in large frying pan.",
+            "Pour off drippings.",
+            "Sprinkle salt, pepper, cinnamon and oregano over beef.",
+            "Stir in tomato puree; cook slowly for 10 minutes."
+        ],
+        "response": "**Beef and Macaroni Casserole**\n\n**Ingredients:**\n\n* 1 1/2 lb. ground beef\n* 1 (7 oz.) pkg. elbow macaroni\n* 2 Tbsp. butter or margarine\n* 1/4 c. flour\n* 3 c. milk\n* 1 large onion, finely chopped\n* 1 tsp. salt\n* 1/4 tsp. pepper\n* 1/2 tsp. cinnamon\n* 1/8 tsp. oregano leaves\n* 1 (10 3/4 oz.) can tomato puree\n* 3 eggs\n* 1/2 c. grated Parmesan cheese\n\n**Instructions:**\n\n1. Brown the ground beef in a large skillet over medium heat. Drain any excess grease.\n2. Add the flour to the skillet and cook for 1 minute, stirring constantly.\n3. Add the milk and cook over medium heat, stirring constantly, until thickened and bubbly.\n4. Add the onion, salt, pepper, cinnamon, and oregano to the skillet. Cook for 5 minutes, stirring constantly.\n5. Add the tomato puree, eggs, and Parmesan cheese to the skillet. Simmer for 10 minutes, or until the pasta is cooked through and the sauce is heated through.\n6. Serve over a bed of cooked elbow macaroni.\n\n**Tips:**\n\n* For a richer casserole, use high-quality ground beef.\n* Serve with a side of crusty bread or a salad.\n\n**Enjoy!**\n</|im_end|>",
+        "evaluation": {
+            "BLEU": 1.2333527916044182e-78,
+            "ROUGE-1": 0.2755905511811023,
+            "ROUGE-2": 0.10317460317460317,
+            "ROUGE-L": 0.18110236220472442
+        }
+    },
+    {
+        "recipe_name": "Shrimp Pasta Salad",
+        "ingredients": [
+            "1 box twisted pasta (8 oz.), cooked, drained and cooled",
+            "2 to 3 tomatoes, chopped or salad tomatoes, halved",
+            "2 large cucumbers, sliced",
+            "1/2 yellow or red bell pepper",
+            "2 to 3 fresh green onions (optional)",
+            "1/2 bottle McCormick Salad Supreme seasoning",
+            "1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)",
+            "1 lb. shrimp, boiled and deveined (may cut in half, if preferred)",
+            "1/2 green bell pepper, cut in small strips",
+            "1 purple onion, cut in small strips"
+        ],
+        "instructions": [
+            "Prepare all ingredients and mix together.",
+            "Chill 1 to 2 hours before serving.",
+            "Better prepared the day before.",
+            "Makes 8 or more servings."
+        ],
+        "response": "**Pasta Primavera**\n\nIngredients:\n- 1 box twisted pasta (8 oz.)\n- 2 to 3 tomatoes, chopped or salad tomatoes, halved\n- 2 large cucumbers, sliced\n- 1/2 yellow or red bell pepper, 2 to 3 fresh green onions (optional)\n- 1/2 bottle McCormick Salad Supreme seasoning\n- 1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)\n- 1 lb. shrimp, boiled and deveined (may cut in half, if preferred)\n- 1/2 green bell pepper, cut in small strips\n- 1 purple onion, cut in small strips\n\nInstructions:\n\n1. Cook pasta according to package instructions.\n2. While pasta is cooking, heat olive oil in a large skillet or Dutch oven over medium heat.\n3. Add chopped tomatoes and cook until softened, about 5 minutes.\n4. Add sliced cucumbers and green onions (if using) and cook until tender, about 5 minutes.\n5. Add cooked pasta, McCormick Salad Supreme seasoning, and Italian dressing to the skillet.\n6. Stir to combine.\n7. Serve immediately.\n\n**Tips:**\n\n- For a richer dish, add 1/2 cup of grated mozzarella cheese or Parmesan cheese.\n- Serve with crusty bread for dipping.\n\n**Enjoy!**\n</|im_end|>",
+        "evaluation": {
+            "BLEU": 7.649918510054851e-232,
+            "ROUGE-1": 0.10476190476190476,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.07619047619047618
+        }
+    },
+    {
+        "recipe_name": "Apricot Delight",
+        "ingredients": [
+            "1 large box apricot or mixed fruit jello",
+            "2 c. boiling water",
+            "2 c. cold water",
+            "1 c. miniature marshmallows",
+            "1 can drained pineapple",
+            "2 large bananas",
+            "2 Tbsp. butter",
+            "2 Tbsp. flour",
+            "1 egg, well beaten",
+            "1/2 c. sugar",
+            "1/2 c. pineapple juice",
+            "8 oz. cream cheese",
+            "1 pkg. Dream Whip"
+        ],
+        "instructions": [
+            "Mix jello, water (hot and cold), marshmallows, pineapple and bananas together and let chill.",
+            "Cook together butter, flour, egg, sugar and pineapple juice.",
+            "Let cook, then spread on top of chilled jello.",
+            "Beat together cream cheese and Dream Whip as directed. Spread as topping."
+        ],
+        "response": "**Apricot Jello**\n\nIngredients:\n\n- 1 large box apricot or mixed fruit jello\n- 2 c. boiling water\n- 2 c. cold water\n- 1 c. miniature marshmallows\n- 1 can drained pineapple\n- 2 large bananas\n- 2 Tbsp. butter\n- 2 Tbsp. flour\n- 1 egg\n- 1/2 c. sugar\n- 1/2 c. pineapple juice\n- 8 oz. cream cheese\n\nInstructions:\n\n1. In a medium saucepan, combine the boiling water and the cold water.\n2. Add the jello to the saucepan and stir until dissolved.\n3. Remove from heat and let sit for 5 minutes.\n4. Stir in the marshmallows, pineapple, bananas, and butter.\n5. Let cool for 10 minutes before serving.\n\n**Dream Whip**\n\nIngredients:\n\n- 1 pkg. Dream Whip\n\nInstructions:\n\n1. Follow the instructions on the Dream Whip package.",
+        "evaluation": {
+            "BLEU": 3.489483087260963e-155,
+            "ROUGE-1": 0.3048780487804878,
+            "ROUGE-2": 0.061728395061728406,
+            "ROUGE-L": 0.21951219512195122
+        }
+    },
+    {
+        "recipe_name": "Nut Goodie Bars",
+        "ingredients": [
+            "1 (12 oz.) pkg. chocolate chips",
+            "1 (12 oz.) pkg. butterscotch chips",
+            "2 c. peanut butter",
+            "1 c. butter",
+            "1/2 c. evaporated milk",
+            "1/2 c. vanilla pudding mix",
+            "1 tsp. maple flavoring",
+            "2 lb. powdered sugar",
+            "1 lb. Spanish peanuts"
+        ],
+        "instructions": [
+            "Mix ingredients together over hot water.",
+            "Spread half of mixture on a jelly roll pan, 17 x 11 1/2-inch.",
+            "Chill until firm. Melt butter.",
+            "Add milk and pudding mix.",
+            "Bring to boil and boil for 1 minute.",
+            "Remove from heat and add maple flavoring.",
+            "Add sugar and blend until smooth.",
+            "Spread this mixture on cooled first layer.",
+            "Cool.",
+            "Mix peanuts into remaining half of chocolate mixture and spread on top of cooled second layer.",
+            "Chill; cut into small squares as this bar is very rich."
+        ],
+        "response": "I am unable to provide recipes based on the given ingredients, as I am unable to access external sources or generate recipes from text descriptions.",
+        "evaluation": {
+            "BLEU": 1.0452774049629845e-232,
+            "ROUGE-1": 0.08928571428571429,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05357142857142857
+        }
+    },
+    {
+        "recipe_name": "Milk Chocolate Pie",
+        "ingredients": [
+            "3 slightly heaping Tbsp. cocoa",
+            "1 1/2 c. sugar",
+            "pinch of salt",
+            "3 Tbsp. cornstarch",
+            "3 eggs, separated",
+            "1/4 stick margarine",
+            "1 large can Pet or Carnation milk",
+            "regular milk",
+            "6 heaping tsp. sugar",
+            "1/4 tsp. cream of tartar",
+            "1 baked pie shell"
+        ],
+        "instructions": [
+            "Mix first four ingredients.",
+            "Add well beaten egg yolks and mix (reserve whites for meringue and set aside).",
+            "Add margarine and canned milk with enough regular milk to make 3 cups.",
+            "Place in heavy saucepan and cook thick.",
+            "A heavy pan is very important. Beat with electric mixer and pour into a baked pie shell.",
+            "Top with meringue."
+        ],
+        "response": "**Chocolate Mousse**\n\nIngredients:\n\n- 3 slightly heaping Tbsp. cocoa\n- 1 1/2 c. sugar\n- Pinch of salt\n- 3 Tbsp. cornstarch\n- 3 eggs\n- 1/4 stick margarine\n- 1 large can Pet or Carnation milk, regular milk\n- 6 heaping tsp. sugar\n- 1/4 tsp. cream of tartar\n\nInstructions:\n\n1. In a medium bowl, whisk together the cocoa, sugar, and salt.\n2. In a large bowl, whisk together the eggs, cornstarch, and margarine.\n3. Add the wet ingredients to the dry ingredients and whisk until just combined. Do not overmix.\n4. Fold in the milk and cream of tartar.\n5. Divide the mousse evenly among 6 ramekins or individual molds.\n6. Bake in a preheated oven at 350 degrees F (175 degrees C) for 10-12 minutes, or until set.\n7. Let cool for 5 minutes before serving.\n\n**Tips:**\n\n- For a richer mousse, use high-quality cocoa powder.\n- If you don't have ramekins, you can use individual molds or cups.\n- Serve with a drizzle of chocolate sauce or whipped cream.\n\n**Additional Notes:**\n\n- The cooking time may vary depending on the size of your ramekins.\n- If the mousse is too thick, add a little more milk.\n- If the mousse is too thin, add a little more cornstarch.",
+        "evaluation": {
+            "BLEU": 2.0827151060012737e-155,
+            "ROUGE-1": 0.19923371647509577,
+            "ROUGE-2": 0.007722007722007721,
+            "ROUGE-L": 0.1149425287356322
+        }
+    },
+    {
+        "recipe_name": "Salmon Casserole Special",
+        "ingredients": [
+            "1 medium onion, minced",
+            "1 clove garlic, minced",
+            "1/4 c. olive oil",
+            "2 (1 lb.) cans tomatoes, chopped",
+            "1 (6 oz.) can tomato paste",
+            "1 tsp. salt",
+            "1/2 tsp. pepper",
+            "1 tsp. basil",
+            "1/2 tsp. oregano",
+            "1/4 c. chopped parsley",
+            "1 lb. broad green noodles",
+            "8 oz. Mozzarella, sliced",
+            "1 lb. Ricotta or creamed cottage cheese",
+            "1 (1 lb.) can salmon, drained and flaked",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Cook onion and garlic in hot olive oil until soft.",
+            "Add next 7 ingredients and simmer 30 minutes, stirring frequently."
+        ],
+        "response": "**Grilled Salmon with Lemon-Dill Sauce**\n\n**Ingredients:**\n\n* 1 lb. of salmon fillets, flaked\n* 1 tbsp. olive oil\n* 1 tbsp. lemon juice\n* 1 tbsp. chopped fresh dill\n* 1 tbsp. chopped fresh parsley\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Pat salmon dry and season with salt and pepper.\n3. Brush salmon with olive oil and lemon juice.\n4. Grill salmon for 10-12 minutes per side, or until cooked through.\n5. Serve with lemon-dill sauce.\n\n**Creamy Tomato Pasta**\n\n**Ingredients:**\n\n* 1 tbsp. olive oil\n* 1 onion, diced\n* 2 cloves garlic, minced\n* 1 (15 oz.) can crushed tomatoes\n* 1/2 tsp. dried oregano\n* 1/4 tsp. dried basil\n* 1/4 tsp. salt\n* 1/4 tsp. black pepper\n* 1/2 cup heavy cream\n* 1/4 cup grated mozzarella cheese\n\n**Instructions:**\n\n1. Heat olive oil in a large pot or Dutch oven over medium heat.\n2. Add onion and garlic and cook until softened, about 5 minutes.\n3. Add crushed tomatoes, oregano, basil, salt, and pepper.\n4. Bring to a boil, then reduce heat to low.\n5. Simmer for 15 minutes, or until the pasta is cooked through.\n6. Stir in heavy cream and mozzarella cheese.\n7. Serve immediately.\n\n**Spicy Chili**\n\n**Ingredients:**\n\n* 1 tbsp. olive oil\n* 1 onion, diced\n* 2 cloves garlic, minced\n* 1 (15 oz.) can diced tomatoes\n* 1 (15 oz.) can tomato paste\n* 1 tsp. chili powder\n* 1/2 tsp. ground cumin\n* 1/4 tsp. black pepper\n* 1/2 tsp. oregano\n* 1/4 tsp. salt\n\n**Instructions:**\n\n1. Heat olive oil in a large pot or Dutch oven over medium heat.\n2. Add onion and garlic and cook until softened, about 5 minutes.\n3. Add diced tomatoes, tomato paste, chili powder, cumin, black pepper, oregano, and salt.\n4. Bring to a boil, then reduce heat to low.\n5. Simmer for 30 minutes, or until the chili is heated through.\n6. Serve with shredded cheese.",
+        "evaluation": {
+            "BLEU": 4.1285583399482836e-79,
+            "ROUGE-1": 0.0960960960960961,
+            "ROUGE-2": 0.02416918429003021,
+            "ROUGE-L": 0.07807807807807808
+        }
+    },
+    {
+        "recipe_name": "Crock-Pot Meatballs",
+        "ingredients": [
+            "2 lb. ground meat",
+            "2 onions, minced",
+            "3/4 c. milk",
+            "2 c. breadcrumbs",
+            "4 eggs",
+            "1/2 tsp. garlic powder",
+            "1 Tbsp. dill weed",
+            "2 Tbsp. dill weed",
+            "3 cans cream of mushroom soup"
+        ],
+        "instructions": [
+            "Mix first 7 ingredients together.",
+            "Make into balls and put on cookie sheets; close together.",
+            "Put in 350\u00b0 oven for 15 minutes. Bump the pan and bake for 5 more minutes.",
+            "Refrigerate until ready to heat in crock-pot.",
+            "Add cream sauce (3 cans of cream of mushroom soup and 2 tablespoons dill weed).",
+            "Heat until warmed.",
+            "Great for parties.",
+            "Makes a big batch."
+        ],
+        "response": "**Beef and Potato Hash**\n\nIngredients:\n\n* 6 baking potatoes, washed and cut into 1/2-inch cubes\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Heat the butter or margarine in a large skillet or Dutch oven over medium heat.\n2. Brown the ground beef until done. Drain any grease from the meat.\n3. Add the potatoes to the skillet and cook until soft, about 6-8 minutes.\n4. Add the milk and cook until thickened and bubbly.\n5. Add the browned ground beef, salt, and pepper. Cook until heated through.\n6. Stir in the cheese, bacon, and green onions.\n7. Serve immediately with sour cream, if desired.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of crusty bread or a salad.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Additional Notes:**\n\n* If you don't have cream of mushroom soup, you can substitute with chicken or vegetable broth.\n* Serve with a side of crusty bread or a salad.\n* Leftovers can be stored in the refrigerator for up to 3 days.",
+        "evaluation": {
+            "BLEU": 5.291579259077969e-79,
+            "ROUGE-1": 0.22758620689655173,
+            "ROUGE-2": 0.020833333333333332,
+            "ROUGE-L": 0.1310344827586207
+        }
+    },
+    {
+        "recipe_name": "Wild Rice Casserole",
+        "ingredients": [
+            "1 lb. sausage",
+            "1 medium onion, chopped",
+            "1 medium green pepper, chopped",
+            "1/2 c. celery, chopped",
+            "1 (6 oz.) pkg. long grain and wild rice mix",
+            "1 can cream chicken soup",
+            "1 can cream mushroom soup",
+            "1 c. shredded Cheddar cheese",
+            "1 (4 oz.) can sliced mushrooms, drained"
+        ],
+        "instructions": [
+            "Brown sausage in skillet, reserving drippings. Saute onion, green pepper and celery in drippings. Combine sausage, sauted vegetables, long grain and wild rice mix (including seasoning packet), soups, cheese and mushrooms. Spoon into a shallow 2-quart casserole dish. Cover and bake at 325\u00b0 for 1 hour or until done."
+        ],
+        "response": "**Sausage and Rice Casserole**\n\n**Ingredients:**\n\n* 1 lb. sausage, browned\n* 1 medium onion, chopped\n* 1 medium green pepper, chopped\n* 1/2 c. celery, chopped\n* 1 (6 oz.) pkg. long grain and wild rice mix\n* 1 can cream chicken soup\n* 1 can cream mushroom soup\n* 1 c. shredded Cheddar cheese\n* 1 (4 oz.) can sliced mushrooms, drained\n\n**Instructions:**\n\n1. In a large skillet over medium heat, brown the sausage.\n2. Add the onion, green pepper, and celery to the skillet and cook until tender.\n3. Add the rice, cream chicken soup, and cream mushroom soup to the skillet and cook until heated through.\n4. Stir in the cheese and mushrooms.\n5. Serve immediately.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality sausage.\n* Serve with a side of green beans or a salad.\n\n**Additional Notes:**\n\n* You can adjust the amount of cheese and mushrooms to your liking.\n* If you don't have cream chicken or mushroom soup, you can substitute with chicken or mushroom broth.\n* Serve with a side of crusty bread to soak up the delicious sauce.",
+        "evaluation": {
+            "BLEU": 0.038860189626272024,
+            "ROUGE-1": 0.26548672566371684,
+            "ROUGE-2": 0.09821428571428573,
+            "ROUGE-L": 0.16814159292035397
+        }
+    },
+    {
+        "recipe_name": "Spiced Apple Muffins",
+        "ingredients": [
+            "3 c. flour",
+            "4 tsp. baking powder",
+            "2 tsp. salt",
+            "3 Tbsp. sugar",
+            "1/2 c. shortening",
+            "2 eggs, well beaten",
+            "1 1/4 c. milk",
+            "1 c. chopped apples",
+            "2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon"
+        ],
+        "instructions": [
+            "Combine dry ingredients and cut in shortening.",
+            "Mix eggs and milk and add to flour mixture.",
+            "Fold in apples.",
+            "Put batter in greased muffin tins and sprinkle with sugar and cinnamon mix. Bake at 425\u00b0 for 25 minutes."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\nIngredients:\n- 6 baking potatoes, washed and pierced with a fork\n- 1 lb. of extra lean ground beef\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onion, chopped and divided\n- 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Microwave potatoes with a wet paper towel covering them on high for 6-8 minutes.\n2. Let potatoes cool slightly, then cut in half lengthwise and scoop out the pulp. Discard the shells.\n3. Brown ground beef in a large skillet over low heat. Drain any grease from the meat.\n4. Add flour, salt, and pepper to a large bowl. Add the browned ground beef, milk, and cheese to the bowl and stir to combine.\n5. Add the potato, green onion, and bacon to the bowl and stir to combine.\n6. Cook until heated through.\n7. Stir in sour cream (if desired) and sprinkle with remaining cheese, bacon, and green onions.\n\n**Tips:**\n\n- For a crispy crust, bake the potatoes in a baking dish lined with parchment paper.\n- Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n\n**Enjoy!**\n</|im_end|>",
+        "evaluation": {
+            "BLEU": 5.518833019734939e-79,
+            "ROUGE-1": 0.16535433070866143,
+            "ROUGE-2": 0.031746031746031744,
+            "ROUGE-L": 0.11811023622047245
+        }
+    },
+    {
+        "recipe_name": "Burritos",
+        "ingredients": [
+            "1 lb. ground beef",
+            "1 large can refried beans",
+            "1 small can refried beans",
+            "8 oz. Mozzarella cheese, grated",
+            "8 oz. mild Cheddar cheese, grated",
+            "8 to 10 oz. picante sauce",
+            "1 large onion, chopped",
+            "sour cream",
+            "flour tortillas"
+        ],
+        "instructions": [
+            "Brown ground beef; drain off grease.",
+            "Add refried beans and picante sauce.",
+            "Heat thoroughly.",
+            "Add cheeses.",
+            "Cook until cheese melts."
+        ],
+        "response": "**Beef and Cheese Burritos**\n\nIngredients:\n\n- 1 lb. ground beef\n- 1 large can refried beans\n- 1 small can refried beans\n- 8 oz. Mozzarella cheese, grated\n- 8 oz. mild Cheddar cheese, grated\n- 8 to 10 oz. picante sauce\n- 1 large onion, chopped\n- Sour cream\n\nInstructions:\n\n1. Brown the ground beef in a large skillet over medium heat. Drain any excess grease.\n2. Add the refried beans, mozzarella and cheddar cheese to the skillet and cook until heated through.\n3. Add the onion and cook until softened.\n4. Add the picante sauce and cook until heated through.\n5. Serve in warm tortillas with sour cream.\n\n**Tips:**\n\n- For a more flavorful burrito, use a high-quality ground beef.\n- If you don't have refried beans, you can make your own by combining equal parts of cooked and drained beans.\n- Serve with a side of guacamole, salsa, or sour cream.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 2.185532566356656e-155,
+            "ROUGE-1": 0.20481927710843373,
+            "ROUGE-2": 0.04878048780487805,
+            "ROUGE-L": 0.15662650602409636
+        }
+    },
+    {
+        "recipe_name": "Toll House Pie",
+        "ingredients": [
+            "2 eggs",
+            "1/2 c. all-purpose flour",
+            "1/2 c. sugar",
+            "1/2 c. firmly packed brown sugar",
+            "1 c. butter, melted and cooled to room temperature",
+            "1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels",
+            "1 c. chopped walnuts",
+            "1 (9-inch) unbaked pie shell",
+            "whipped cream or ice cream (optional)"
+        ],
+        "instructions": [
+            "Preheat oven to 325\u00b0.",
+            "In large bowl, beat eggs until foamy; beat in flour, sugar and brown sugar until well blended.",
+            "Blend in melted butter.",
+            "Stir in chocolate morsels and walnuts.",
+            "Pour into pie shell.",
+            "Bake for 1 hour.",
+            "Remove from oven.",
+            "Serve warm with whipped cream or ice cream.",
+            "(This recipe may be doubled.",
+            "Bake 2 pies, freeze one for later use.)"
+        ],
+        "response": "**Eggs with Flour and Brown Sugar**\n\nIngredients:\n\n* 2 eggs\n* 1/2 cup of all-purpose flour\n* 1/2 cup of sugar\n* 1/2 cup of firmly packed brown sugar\n* 1 cup of melted and cooled butter\n\nInstructions:\n\n1. Whisk together the eggs, flour, and brown sugar in a bowl.\n2. Add the butter and whisk until smooth.\n3. Pour the mixture into a greased baking dish.\n4. Bake for 10-12 minutes, or until set.\n\n**Chocolate Mousse**\n\nIngredients:\n\n* 2 eggs\n* 1/2 cup of all-purpose flour\n* 1/2 cup of sugar\n* 1/2 cup of firmly packed brown sugar\n* 1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels\n* 1 c. chopped walnuts\n\nInstructions:\n\n1. Preheat oven to 375 degrees F (190 degrees C).\n2. In a medium bowl, whisk together the eggs, flour, brown sugar, and chocolate morsels.\n3. Pour the mixture into a greased 9-inch pie shell.\n4. Bake for 10-12 minutes, or until set.\n5. Serve with whipped cream or ice cream.\n\n**Note:**\n\n* For the chocolate mousse, you can substitute semisweet chocolate chips for the chocolate morsels.\n* You can also add other toppings to the mousse, such as chopped nuts, fruit, or whipped cream.",
+        "evaluation": {
+            "BLEU": 0.046507481731035506,
+            "ROUGE-1": 0.2803030303030303,
+            "ROUGE-2": 0.09923664122137406,
+            "ROUGE-L": 0.18939393939393936
+        }
+    },
+    {
+        "recipe_name": "Creamy Potato-Onion Soup",
+        "ingredients": [
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. flour",
+            "1 c. finely chopped onion (use processor)",
+            "1 large clove garlic or garlic powder",
+            "2 (14 1/2 oz.) cans (defatted) chicken broth",
+            "4 c. peeled and cubed potatoes",
+            "1/2 c. finely sliced green onion tops",
+            "1/8 tsp. salt",
+            "1/4 tsp. pepper",
+            "1 qt. milk (whole)"
+        ],
+        "instructions": [
+            "Melt butter or margarine in Dutch oven over low heat.",
+            "Add flour to make a paste.",
+            "Cook 1 minute, stirring constantly.",
+            "Add onions and garlic.",
+            "Cook until onions are tender.",
+            "Add broth, milk and potatoes.",
+            "Add seasoning to suit taste.",
+            "Bring to boil; turn heat down low and cook until potatoes are tender.",
+            "Mash with potato masher or put potatoes in food processor until smooth. Serve with grated sharp cheese and green onion tops.",
+            "Good with corn muffins."
+        ],
+        "response": "**Grilled Chicken with Roasted Vegetables**\n\n**Ingredients:**\n\n* 2 Tbsp. butter or margarine\n* 2 Tbsp. flour\n* 1 c. finely chopped onion (use processor)\n* 1 large clove garlic or garlic powder\n* 2 (14 1/2 oz.) cans (defatted) chicken broth\n* 4 c. peeled and cubed potatoes\n* 1/2 c. finely sliced green onion tops\n* 1/8 tsp. salt\n* 1/4 tsp. pepper\n* 1 qt. milk (whole)\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. In a large skillet over medium heat, melt butter or margarine.\n3. Add flour and cook for 1 minute, stirring constantly.\n4. Add onion and garlic and cook until softened, about 5 minutes.\n5. Add chicken broth, potatoes, green onion tops, salt, and pepper.\n6. Bring to a boil, then reduce heat to low.\n7. Cover and simmer for 15 minutes, or until the potatoes are tender and the chicken is cooked through.\n8. Serve over rice or noodles.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality cut of chicken.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or honey mustard.\n\n**Additional Notes:**\n\n* If you don't have green onion tops, you can use other vegetables, such as broccoli or carrots.\n* Serve with a side of crusty bread to soak up the delicious sauce.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 0.029909589514215507,
+            "ROUGE-1": 0.35051546391752575,
+            "ROUGE-2": 0.1245674740484429,
+            "ROUGE-L": 0.26804123711340205
+        }
+    },
+    {
+        "recipe_name": "Mozzarella Chicken(Over Sauce)  ",
+        "ingredients": [
+            "2 1/2 to 3 lb. chicken",
+            "2 eggs, beaten",
+            "1/2 c. dry bread crumbs",
+            "1/4 c. butter",
+            "1 (8 oz.) can tomato sauce",
+            "1/2 tsp. dried basil",
+            "cooked egg noodles",
+            "Mozzarella Sauce",
+            "1/2 c. shredded cheese (Mozzarella)",
+            "1/4 tsp. paprika"
+        ],
+        "instructions": [
+            "Cut chicken into serving size pieces.",
+            "Dip into eggs; coat with crumbs.",
+            "Heat butter in skillet.",
+            "Cook chicken over medium heat until brown.",
+            "Stir in tomato sauce and basil.",
+            "Reduce heat; cover and cook over low heat for about 30 minutes, turning chicken every 10 minutes.",
+            "Prepare sauce.",
+            "Put noodles in a 9 x 13-inch pan.",
+            "Arrange chicken on top.",
+            "Spoon sauce over chicken.",
+            "Sprinkle cheese and paprika.",
+            "Broil 6 to 7 inches from broiler until cheese is melted and bubbly."
+        ],
+        "response": "**Chicken Parmesan with Tomato Sauce and Mozzarella**\n\n**Ingredients:**\n\n* 2 1/2 to 3 lb. chicken, cut into 1-inch pieces\n* 2 eggs, beaten\n* 1/2 c. dry bread crumbs\n* 1/4 c. butter\n* 1 (8 oz.) can tomato sauce\n* 1/2 tsp. dried basil\n* Cooked egg noodles\n* Mozzarella sauce\n* 1/2 c. shredded cheese (Mozzarella)\n* 1/4 tsp. paprika\n\n**Instructions:**\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. In a large skillet over medium heat, cook the chicken for 5-7 minutes per side, or until cooked through.\n3. Drain the chicken and set aside.\n4. In a large bowl, whisk together the eggs, bread crumbs, and butter.\n5. Add the chicken and egg mixture to the bowl and toss to coat.\n6. Spread the chicken mixture evenly on a baking sheet lined with parchment paper.\n7. Top with tomato sauce, basil, and mozzarella cheese.\n8. Bake for 15-20 minutes, or until the cheese is melted and bubbly.\n9. Serve with pasta noodles and additional mozzarella cheese.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality protein, such as chicken breast or turkey breast.\n* Serve with a side of garlic bread or pasta salad.\n* Top with fresh basil or oregano for a flavorful garnish.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 0.02723390791115521,
+            "ROUGE-1": 0.3505154639175258,
+            "ROUGE-2": 0.06228373702422144,
+            "ROUGE-L": 0.19243986254295536
+        }
+    },
+    {
+        "recipe_name": "Moussaka",
+        "ingredients": [
+            "2 medium eggplants",
+            "vegetable oil",
+            "1 lb. lean ground beef",
+            "2 medium onions, peeled and chopped",
+            "2 cloves garlic, peeled and crushed",
+            "1 (8 oz.) can tomato sauce",
+            "1 tsp. dried leaf oregano",
+            "1 tsp. salt, divided",
+            "1/4 tsp. black pepper, divided",
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. all-purpose flour",
+            "1 c. low-fat milk",
+            "1 egg",
+            "1/3 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Peel eggplants; slice 1/4-inch thick. Brush rimmed cookie sheet with oil. Coat each slice of eggplant on both sides with oil; place on cookie sheet.",
+            "Broil close to broiler until brown. Turn; brush with oil, if necessary.",
+            "Brown the other side. Repeat with all the eggplant slices."
+        ],
+        "response": "**Grilled Eggplant and Beef Skewers**\n\nIngredients:\n\n- 2 medium eggplants, sliced into 1/2-inch thick rounds\n- 1 lb. lean ground beef, cooked and shredded\n- 2 medium onions, diced\n- 2 cloves garlic, minced\n- 1 (8 oz.) can tomato sauce\n- 1 tsp. dried leaf oregano\n- 1 tsp. salt\n- 1/4 tsp. black pepper\n- 2 Tbsp. butter or margarine\n- 2 Tbsp. all-purpose flour\n- 1 c. low-fat milk\n- 1 egg\n- 1/3 c. grated Parmesan cheese\n\nInstructions:\n\n1. Preheat a grill to medium-high heat.\n2. Brush the eggplants with olive oil and season with salt and pepper.\n3. Thread the eggplants, beef, onions, and garlic onto skewers, alternating the ingredients.\n4. Grill for 10-15 minutes, or until the eggplants are tender and the beef is cooked to medium-rare.\n5. Serve immediately with your favorite dipping sauce.\n\n**Tips:**\n\n- For a smoky flavor, add a few wood chips to the grill.\n- Serve with a side of grilled vegetables or a salad.\n- Serve with a dipping sauce, such as pesto or balsamic vinaigrette.\n\n**Nutritional Information:**\n\nOne serving of these skewers contains approximately:\n\n- Calories: 450\n- Fat: 30 grams\n- Protein: 40 grams\n- Carbohydrates: 50 grams\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 8.58290516843769e-232,
+            "ROUGE-1": 0.17427385892116182,
+            "ROUGE-2": 0.03347280334728033,
+            "ROUGE-L": 0.11618257261410787
+        }
+    },
+    {
+        "recipe_name": "Blueberry Muffins With Lemon",
+        "ingredients": [
+            "2 c. sifted flour",
+            "1/3 c. sugar",
+            "3 tsp. baking powder",
+            "1 tsp. salt",
+            "1 egg, beaten",
+            "1 c. milk",
+            "1/4 c. melted butter, cooled",
+            "1 c. fresh or thawed blueberries",
+            "1 Tbsp. sugar and grated lemon rind, mixed"
+        ],
+        "instructions": [
+            "Sift together flour, sugar, baking powder and salt.",
+            "Mix with fork the beaten egg, milk and butter."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\nIngredients:\n- 6 baking potatoes, washed and pierced with a fork\n- 1 lb. of extra lean ground beef\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onion, chopped and divided\n- 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Microwave potatoes with a wet paper towel covering them on high for 6-8 minutes.\n2. Let potatoes cool enough to handle.\n3. Brown ground beef until done. Drain any grease from the meat.\n4. Add flour, salt, and pepper to a large kettle over low heat. Cook 1 minute, stirring constantly.\n5. Gradually add milk; cook over medium heat, stirring constantly, until thickened and bubbly.\n6. Stir in potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon.\n7. Cook until heated (do not boil).\n8. Stir in sour cream if desired; cook until heated (do not boil).\n9. Sprinkle with remaining cheese, bacon and green onions.\n\n**Enjoy!**\n</|im_end|>",
+        "evaluation": {
+            "BLEU": 8.199212976591536e-232,
+            "ROUGE-1": 0.09569377990430622,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.06698564593301436
+        }
+    },
+    {
+        "recipe_name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "1 head cabbage",
+            "1 lb. ground beef",
+            "1/2 c. rice",
+            "1 small onion, chopped",
+            "2 eggs",
+            "salt and pepper to taste",
+            "1 large onion, sliced",
+            "2 (8 oz.) cans tomato sauce",
+            "2 (29 oz.) cans tomatoes",
+            "juice of 2 lemons",
+            "1/2 c. packed brown sugar"
+        ],
+        "instructions": [
+            "Pour boiling water over cabbage in bowl.",
+            "Let stand for several minutes to loosen leaves; drain.",
+            "Combine ground beef, rice, chopped onion, eggs, salt and pepper in bowl."
+        ],
+        "response": "**Cabbage and Beef Soup**\n\nIngredients:\n\n* 1 head cabbage, chopped\n* 1 lb. ground beef\n* 1/2 c. rice\n* 1 small onion, chopped\n* 2 eggs\n* Salt and pepper to taste\n* 1 large onion, sliced\n* 2 (8 oz.) cans tomato sauce\n* 2 (29 oz.) cans tomatoes, juice of 2 lemons\n* 1/2 c. packed brown sugar\n\nInstructions:\n\n1. In a large pot, brown the ground beef over medium heat. Drain any excess fat.\n2. Add the onion and cook until softened, about 5 minutes.\n3. Add the rice and cook according to the package instructions.\n4. Add the cabbage, tomato sauce, tomatoes, and lemon juice to the pot.\n5. Bring to a boil, then reduce heat to low.\n6. Simmer for 15 minutes, or until the rice is cooked and the cabbage is tender.\n7. Season with salt and pepper to taste.\n8. Serve hot.\n\n**Tips:**\n\n* For a thicker soup, use less water when cooking the rice.\n* You can also add other vegetables to the soup, such as carrots or celery.\n* Serve with a side of crusty bread for dipping.\n\n**Additional Notes:**\n\n* The soup can be served hot or cold.\n* It is a great meal for a cold day.\n* The soup can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 4.684491489885528e-79,
+            "ROUGE-1": 0.15966386554621848,
+            "ROUGE-2": 0.03389830508474576,
+            "ROUGE-L": 0.08403361344537814
+        }
+    },
+    {
+        "recipe_name": "Oriental Salad",
+        "ingredients": [
+            "1 can LeSueur small peas",
+            "1 can Shoe Peg white corn",
+            "1 can French-cut green beans",
+            "1 (16 oz.) can bean sprouts",
+            "1 (4 oz.) jar pimientos",
+            "1 large onion, shredded fine",
+            "1 (6 oz.) jar sliced mushrooms",
+            "1 (10 oz.) can water chestnuts",
+            "1 large green pepper, chopped",
+            "1 c. celery, chopped",
+            "1 c. salad oil",
+            "1/2 c. vinegar",
+            "1 c. water",
+            "3/4 c. sugar",
+            "salt and pepper to taste"
+        ],
+        "instructions": [
+            "Drain vegetables well.",
+            "Put in blender and mix salad oil, vinegar, water, sugar, salt and pepper to taste.",
+            "Pour over vegetables and mix together.",
+            "Place in refrigerator overnight before serving.",
+            "Keeps well for 2 weeks."
+        ],
+        "response": "**LeSueur Peas and White Corn**\n\nIngredients:\n- 1 can LeSueur small peas\n- 1 can Shoe Peg white corn\n\nInstructions:\n1. Rinse and cook the peas and corn according to the package instructions.\n2. Drain and set aside.\n3. In a large skillet over medium heat, melt 1 tablespoon of oil.\n4. Add the peas and corn and cook until heated through.\n5. Season with salt and pepper to taste.\n\n**French-Cut Green Beans**\n\nIngredients:\n- 1 can French-cut green beans\n\nInstructions:\n1. Rinse and cook the green beans according to the package instructions.\n2. Drain and set aside.\n3. In a large skillet over medium heat, melt 1 tablespoon of oil.\n4. Add the green beans and cook until heated through.\n5. Season with salt and pepper to taste.\n\n**Bean Sprouts**\n\nIngredients:\n- 1 can bean sprouts\n\nInstructions:\n1. Rinse and cook the bean sprouts according to the package instructions.\n2. Drain and set aside.\n3. In a large skillet over medium heat, melt 1 tablespoon of oil.\n4. Add the bean sprouts and cook until heated through.\n5. Season with salt and pepper to taste.\n\n**Pimientos**\n\nIngredients:\n- 1 (4 oz.) jar pimientos\n\nInstructions:\n1. In a large skillet over medium heat, melt 1 tablespoon of oil.\n2. Add the pimientos and cook until heated through.\n3. Season with salt and pepper to taste.\n\n**Onion and Mushroom Mix**\n\nIngredients:\n- 1 large onion, shredded fine\n- 1 (6 oz.) jar sliced mushrooms\n\nInstructions:\n1. In a large skillet over medium heat, melt 1 tablespoon of oil.\n2. Add the onion and mushrooms and cook until heated through.\n3. Season with salt and pepper to taste.\n\n**Water Chestnut Salad**\n\nIngredients:\n- 1 large green pepper, chopped\n- 1 c. celery, chopped\n- 1 c. salad oil\n- 1/2 c. vinegar\n- 1 c. water\n- 3/4 c. sugar\n- Salt and pepper to taste\n\nInstructions:\n1. In a large skillet over medium heat, melt 1 tablespoon of oil.\n2. Add the onion and celery and cook until heated through.\n3. Add the water, vinegar, and sugar to the skillet and bring to a boil.\n4. Reduce heat to low and simmer for 5 minutes.\n5. Season with salt and pepper to taste.",
+        "evaluation": {
+            "BLEU": 0.011343639431073945,
+            "ROUGE-1": 0.09571788413098237,
+            "ROUGE-2": 0.030379746835443037,
+            "ROUGE-L": 0.08564231738035265
+        }
+    },
+    {
+        "recipe_name": "Pecan Pie Bars",
+        "ingredients": [
+            "2 1/2 c. flour",
+            "1 c. (2 sticks) cold butter or margarine",
+            "1/2 c. sugar",
+            "1/2 tsp. salt",
+            "4 eggs",
+            "1 1/2 c. Karo light or dark corn syrup",
+            "1 1/2 c. sugar",
+            "3 Tbsp. butter or margarine, melted",
+            "1 1/2 tsp. vanilla",
+            "2 1/2 c. pecan halves or coarsely chopped pecans"
+        ],
+        "instructions": [
+            "Cookie Crust:",
+            "Spray a 15 x 10 x 1-inch pan with cooking spray.",
+            "In a large bowl with mixer at medium speed, beat the flour, butter or margarine (cut in pieces), sugar and salt until mixture resembles fine crumbs.",
+            "Press firmly into prepared pan. Bake 20 to 23 minutes or until golden brown.",
+            "Top with filling and complete baking."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\nIngredients:\n- 6 baking potatoes, washed and cut into 1/2-inch thick slices\n- 1 lb. of extra lean ground beef, browned\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onions, chopped\n- 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. In a large skillet over medium heat, melt the butter or margarine.\n3. Add the flour and cook for 1 minute, stirring constantly.\n4. Gradually add the milk, stirring constantly, until the mixture is thickened and bubbly.\n5. Add the potatoes, ground beef, salt, pepper, cheese, bacon, and green onions to the skillet.\n6. Cook until heated through.\n7. Stir in the sour cream (if using) and serve immediately.\n\n**Tips:**\n\n- For a crispy crust, bake the potatoes in a baking dish lined with parchment paper.\n- Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n\n**Additional Notes:**\n\n- If you don't have sour cream, you can omit it from the recipe.\n- You can also add other toppings to the potatoes, such as diced tomatoes, onions, or mushrooms.\n- Serve with a side of crusty bread to soak up the delicious sauce.",
+        "evaluation": {
+            "BLEU": 7.411657537698033e-79,
+            "ROUGE-1": 0.22916666666666669,
+            "ROUGE-2": 0.03496503496503497,
+            "ROUGE-L": 0.125
+        }
+    },
+    {
+        "recipe_name": "Catskinner Cake",
+        "ingredients": [
+            "2 c. flour",
+            "2 tsp. baking soda",
+            "1/2 tsp. salt",
+            "2 c. sugar",
+            "1 c. flaked coconut",
+            "3/4 c. buttermilk",
+            "3/4 c. oil",
+            "3 large eggs",
+            "2 tsp. vanilla",
+            "1 (8 oz.) crushed pineapple, drained",
+            "1 c. chopped nuts",
+            "1 c. sugar",
+            "1/2 c. butter",
+            "1/2 c. buttermilk",
+            "3 Tbsp. light corn syrup",
+            "1/2 tsp. vanilla"
+        ],
+        "instructions": [
+            "Combine first 9 ingredients in a large mixing bowl; beat at medium speed 5 minutes. Stir in pineapple and nuts. Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350\u00b0 for 40 to 45 minutes. Set pan on wire rack."
+        ],
+        "response": "**Flour Batter for Cupcakes**\n\nIngredients:\n\n* 2 cups of all-purpose flour\n* 2 teaspoons of baking soda\n* 1/2 teaspoon of salt\n* 2 cups of sugar\n* 1 cup of flaked coconut\n* 3/4 cup of buttermilk\n* 3/4 cup of oil\n* 3 large eggs\n* 2 teaspoons of vanilla extract\n* 1 (8-ounce) can of crushed pineapple, drained\n\nInstructions:\n\n1. Preheat oven to 375 degrees F (190 degrees C).\n2. In a large bowl, whisk together the flour, baking soda, and salt.\n3. In a separate bowl, whisk together the sugar, coconut, and buttermilk.\n4. Add the wet ingredients to the dry ingredients and whisk until just combined. Do not overmix.\n5. Fold in the eggs and vanilla extract.\n6. Divide the batter evenly among 12 cupcake liners.\n7. Bake for 15-20 minutes, or until a toothpick inserted into the center comes out clean.\n8. Let cool in the liners for 5 minutes before frosting and serving.\n\n**Note:** For a richer cake, add 1/2 cup of cocoa powder to the batter.\n\n**Additional Tips:**\n\n* To make sure the cupcakes are evenly baked, use a cupcake liner that is slightly larger than the diameter of your cupcake pan.\n* If the cupcakes are too dry, add a tablespoon of milk at a time until they reach the desired consistency.\n* Serve with your favorite toppings, such as whipped cream, chocolate frosting, or fruit.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.9440491695806074e-155,
+            "ROUGE-1": 0.16000000000000003,
+            "ROUGE-2": 0.021978021978021976,
+            "ROUGE-L": 0.10181818181818184
+        }
+    },
+    {
+        "recipe_name": "Chocolate Delight",
+        "ingredients": [
+            "1 stick butter",
+            "1 c. plain flour",
+            "1/2 c. nuts",
+            "8 oz. cream cheese",
+            "1 c. powdered sugar",
+            "2 (9 oz.) Cool Whip",
+            "2 pkg. chocolate instant pudding",
+            "3 c. milk"
+        ],
+        "instructions": [
+            "Mix butter, flour and nuts.",
+            "Grease pan with butter and bake 10 to 15 minutes at 300\u00b0.",
+            "Cool."
+        ],
+        "response": "**Chocolate Pudding**\n\nIngredients:\n\n- 1 stick (8 tablespoons) unsalted butter, at room temperature\n- 1 cup all-purpose flour\n- 1/2 cup nuts (such as almonds or walnuts)\n- 8 ounces heavy whipping cream\n- 1 cup powdered sugar\n- 2 (9-ounce) packages chocolate instant pudding\n\nInstructions:\n\n1. Preheat oven to 350 degrees F (175 degrees C).\n2. In a medium bowl, whisk together the butter, flour, and nuts.\n3. In a large bowl, beat the heavy cream until stiff peaks form.\n4. Fold the whipped cream into the flour mixture until just combined. Do not overmix.\n5. Fold in the chocolate pudding mix until combined.\n6. Pour the pudding into a greased 9x13-inch baking dish.\n7. Bake for 20-25 minutes, or until set.\n8. Let cool for 5 minutes before serving.\n\n**Additional Notes:**\n\n- For a richer pudding, use high-quality chocolate instant pudding.\n- If you don't have heavy whipping cream, you can make your own by whipping together 1 cup of heavy cream and 1 tablespoon of powdered sugar until stiff peaks form.\n- Serve with a drizzle of chocolate sauce or whipped cream.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.8969752948248647e-155,
+            "ROUGE-1": 0.13861386138613863,
+            "ROUGE-2": 0.030000000000000002,
+            "ROUGE-L": 0.07920792079207921
+        }
+    },
+    {
+        "recipe_name": "Beef Pastichio(Greek)  ",
+        "ingredients": [
+            "1 1/2 lb. ground beef",
+            "1 (7 oz.) pkg. elbow macaroni",
+            "2 Tbsp. butter or margarine",
+            "1/4 c. flour",
+            "3 c. milk",
+            "1 large onion, finely chopped",
+            "1 tsp. salt",
+            "1/4 tsp. pepper",
+            "1/2 tsp. cinnamon",
+            "1/8 tsp. oregano leaves",
+            "1 (10 3/4 oz.) can tomato puree",
+            "3 eggs",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Prepare macaroni per package directions; drain.",
+            "Rinse with cold water; drain.",
+            "Stir flour into melted butter or margarine in heavy saucepan.",
+            "Gradually stir in milk and cook until thick, stirring occasionally.",
+            "Cover and cool.",
+            "Brown onion and ground beef in large frying pan.",
+            "Pour off drippings.",
+            "Sprinkle salt, pepper, cinnamon and oregano over beef.",
+            "Stir in tomato puree; cook slowly for 10 minutes."
+        ],
+        "response": "**Beef and Macaroni Casserole**\n\n**Ingredients:**\n\n* 1 1/2 lb. ground beef\n* 1 (7 oz.) pkg. elbow macaroni\n* 2 Tbsp. butter or margarine\n* 1/4 c. flour\n* 3 c. milk\n* 1 large onion, finely chopped\n* 1 tsp. salt\n* 1/4 tsp. pepper\n* 1/2 tsp. cinnamon\n* 1/8 tsp. oregano leaves\n* 1 (10 3/4 oz.) can tomato puree\n* 3 eggs\n* 1/2 c. grated Parmesan cheese\n\n**Instructions:**\n\n1. Brown the ground beef in a large skillet over medium heat. Drain any excess grease.\n2. Add the flour to the skillet and cook for 1 minute, stirring constantly.\n3. Add the milk and cook over medium heat, stirring constantly, until thickened and bubbly.\n4. Add the onion, salt, pepper, cinnamon, and oregano to the skillet. Cook for 5 minutes, stirring constantly.\n5. Add the tomato puree, eggs, and Parmesan cheese to the skillet. Simmer for 10 minutes, or until the pasta is cooked through and the sauce is heated through.\n6. Serve over a bed of cooked elbow macaroni.\n\n**Tips:**\n\n* For a richer casserole, use high-quality ground beef.\n* Serve with a side of crusty bread or a salad.\n\n**Enjoy!**\n</|im_end|>",
+        "evaluation": {
+            "BLEU": 1.2333527916044182e-78,
+            "ROUGE-1": 0.2755905511811023,
+            "ROUGE-2": 0.10317460317460317,
+            "ROUGE-L": 0.18110236220472442
+        }
+    },
+    {
+        "recipe_name": "Shrimp Pasta Salad",
+        "ingredients": [
+            "1 box twisted pasta (8 oz.), cooked, drained and cooled",
+            "2 to 3 tomatoes, chopped or salad tomatoes, halved",
+            "2 large cucumbers, sliced",
+            "1/2 yellow or red bell pepper",
+            "2 to 3 fresh green onions (optional)",
+            "1/2 bottle McCormick Salad Supreme seasoning",
+            "1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)",
+            "1 lb. shrimp, boiled and deveined (may cut in half, if preferred)",
+            "1/2 green bell pepper, cut in small strips",
+            "1 purple onion, cut in small strips"
+        ],
+        "instructions": [
+            "Prepare all ingredients and mix together.",
+            "Chill 1 to 2 hours before serving.",
+            "Better prepared the day before.",
+            "Makes 8 or more servings."
+        ],
+        "response": "**Pasta Primavera**\n\nIngredients:\n- 1 box twisted pasta (8 oz.)\n- 2 to 3 tomatoes, chopped or salad tomatoes, halved\n- 2 large cucumbers, sliced\n- 1/2 yellow or red bell pepper, 2 to 3 fresh green onions (optional)\n- 1/2 bottle McCormick Salad Supreme seasoning\n- 1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)\n- 1 lb. shrimp, boiled and deveined (may cut in half, if preferred)\n- 1/2 green bell pepper, cut in small strips\n- 1 purple onion, cut in small strips\n\nInstructions:\n\n1. Cook pasta according to package instructions.\n2. While pasta is cooking, heat olive oil in a large skillet or Dutch oven over medium heat.\n3. Add chopped tomatoes and cook until softened, about 5 minutes.\n4. Add sliced cucumbers and green onions (if using) and cook until tender, about 5 minutes.\n5. Add cooked pasta, McCormick Salad Supreme seasoning, and Italian dressing to the skillet.\n6. Stir to combine.\n7. Serve immediately.\n\n**Tips:**\n\n- For a richer dish, add 1/2 cup of grated mozzarella cheese or Parmesan cheese.\n- Serve with crusty bread for dipping.\n\n**Enjoy!**\n</|im_end|>",
+        "evaluation": {
+            "BLEU": 7.649918510054851e-232,
+            "ROUGE-1": 0.10476190476190476,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.07619047619047618
+        }
+    },
+    {
+        "recipe_name": "Apricot Delight",
+        "ingredients": [
+            "1 large box apricot or mixed fruit jello",
+            "2 c. boiling water",
+            "2 c. cold water",
+            "1 c. miniature marshmallows",
+            "1 can drained pineapple",
+            "2 large bananas",
+            "2 Tbsp. butter",
+            "2 Tbsp. flour",
+            "1 egg, well beaten",
+            "1/2 c. sugar",
+            "1/2 c. pineapple juice",
+            "8 oz. cream cheese",
+            "1 pkg. Dream Whip"
+        ],
+        "instructions": [
+            "Mix jello, water (hot and cold), marshmallows, pineapple and bananas together and let chill.",
+            "Cook together butter, flour, egg, sugar and pineapple juice.",
+            "Let cook, then spread on top of chilled jello.",
+            "Beat together cream cheese and Dream Whip as directed. Spread as topping."
+        ],
+        "response": "**Apricot Jello**\n\nIngredients:\n\n- 1 large box apricot or mixed fruit jello\n- 2 c. boiling water\n- 2 c. cold water\n- 1 c. miniature marshmallows\n- 1 can drained pineapple\n- 2 large bananas\n- 2 Tbsp. butter\n- 2 Tbsp. flour\n- 1 egg\n- 1/2 c. sugar\n- 1/2 c. pineapple juice\n- 8 oz. cream cheese\n\nInstructions:\n\n1. In a medium saucepan, combine the boiling water and the cold water.\n2. Add the jello to the saucepan and stir until dissolved.\n3. Remove from heat and let sit for 5 minutes.\n4. Stir in the marshmallows, pineapple, bananas, and butter.\n5. Let cool for 10 minutes before serving.\n\n**Dream Whip**\n\nIngredients:\n\n- 1 pkg. Dream Whip\n\nInstructions:\n\n1. Follow the instructions on the Dream Whip package.",
+        "evaluation": {
+            "BLEU": 3.489483087260963e-155,
+            "ROUGE-1": 0.3048780487804878,
+            "ROUGE-2": 0.061728395061728406,
+            "ROUGE-L": 0.21951219512195122
+        }
+    },
+    {
+        "recipe_name": "Nut Goodie Bars",
+        "ingredients": [
+            "1 (12 oz.) pkg. chocolate chips",
+            "1 (12 oz.) pkg. butterscotch chips",
+            "2 c. peanut butter",
+            "1 c. butter",
+            "1/2 c. evaporated milk",
+            "1/2 c. vanilla pudding mix",
+            "1 tsp. maple flavoring",
+            "2 lb. powdered sugar",
+            "1 lb. Spanish peanuts"
+        ],
+        "instructions": [
+            "Mix ingredients together over hot water.",
+            "Spread half of mixture on a jelly roll pan, 17 x 11 1/2-inch.",
+            "Chill until firm. Melt butter.",
+            "Add milk and pudding mix.",
+            "Bring to boil and boil for 1 minute.",
+            "Remove from heat and add maple flavoring.",
+            "Add sugar and blend until smooth.",
+            "Spread this mixture on cooled first layer.",
+            "Cool.",
+            "Mix peanuts into remaining half of chocolate mixture and spread on top of cooled second layer.",
+            "Chill; cut into small squares as this bar is very rich."
+        ],
+        "response": "I am unable to provide recipes based on the given ingredients, as I am unable to access external sources or generate recipes from text descriptions.",
+        "evaluation": {
+            "BLEU": 1.0452774049629845e-232,
+            "ROUGE-1": 0.08928571428571429,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05357142857142857
+        }
+    },
+    {
+        "recipe_name": "Milk Chocolate Pie",
+        "ingredients": [
+            "3 slightly heaping Tbsp. cocoa",
+            "1 1/2 c. sugar",
+            "pinch of salt",
+            "3 Tbsp. cornstarch",
+            "3 eggs, separated",
+            "1/4 stick margarine",
+            "1 large can Pet or Carnation milk",
+            "regular milk",
+            "6 heaping tsp. sugar",
+            "1/4 tsp. cream of tartar",
+            "1 baked pie shell"
+        ],
+        "instructions": [
+            "Mix first four ingredients.",
+            "Add well beaten egg yolks and mix (reserve whites for meringue and set aside).",
+            "Add margarine and canned milk with enough regular milk to make 3 cups.",
+            "Place in heavy saucepan and cook thick.",
+            "A heavy pan is very important. Beat with electric mixer and pour into a baked pie shell.",
+            "Top with meringue."
+        ],
+        "response": "**Chocolate Mousse**\n\nIngredients:\n\n- 3 slightly heaping Tbsp. cocoa\n- 1 1/2 c. sugar\n- Pinch of salt\n- 3 Tbsp. cornstarch\n- 3 eggs\n- 1/4 stick margarine\n- 1 large can Pet or Carnation milk, regular milk\n- 6 heaping tsp. sugar\n- 1/4 tsp. cream of tartar\n\nInstructions:\n\n1. In a medium bowl, whisk together the cocoa, sugar, and salt.\n2. In a large bowl, whisk together the eggs, cornstarch, and margarine.\n3. Add the wet ingredients to the dry ingredients and whisk until just combined. Do not overmix.\n4. Fold in the milk and cream of tartar.\n5. Divide the mousse evenly among 6 ramekins or individual molds.\n6. Bake in a preheated oven at 350 degrees F (175 degrees C) for 10-12 minutes, or until set.\n7. Let cool for 5 minutes before serving.\n\n**Tips:**\n\n- For a richer mousse, use high-quality cocoa powder.\n- If you don't have ramekins, you can use individual molds or cups.\n- Serve with a drizzle of chocolate sauce or whipped cream.\n\n**Additional Notes:**\n\n- The cooking time may vary depending on the size of your ramekins.\n- If the mousse is too thick, add a little more milk.\n- If the mousse is too thin, add a little more cornstarch.",
+        "evaluation": {
+            "BLEU": 2.0827151060012737e-155,
+            "ROUGE-1": 0.19923371647509577,
+            "ROUGE-2": 0.007722007722007721,
+            "ROUGE-L": 0.1149425287356322
+        }
+    },
+    {
+        "recipe_name": "Salmon Casserole Special",
+        "ingredients": [
+            "1 medium onion, minced",
+            "1 clove garlic, minced",
+            "1/4 c. olive oil",
+            "2 (1 lb.) cans tomatoes, chopped",
+            "1 (6 oz.) can tomato paste",
+            "1 tsp. salt",
+            "1/2 tsp. pepper",
+            "1 tsp. basil",
+            "1/2 tsp. oregano",
+            "1/4 c. chopped parsley",
+            "1 lb. broad green noodles",
+            "8 oz. Mozzarella, sliced",
+            "1 lb. Ricotta or creamed cottage cheese",
+            "1 (1 lb.) can salmon, drained and flaked",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Cook onion and garlic in hot olive oil until soft.",
+            "Add next 7 ingredients and simmer 30 minutes, stirring frequently."
+        ],
+        "response": "**Grilled Salmon with Lemon-Dill Sauce**\n\n**Ingredients:**\n\n* 1 lb. of salmon fillets, flaked\n* 1 tbsp. olive oil\n* 1 tbsp. lemon juice\n* 1 tbsp. chopped fresh dill\n* 1 tbsp. chopped fresh parsley\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Pat salmon dry and season with salt and pepper.\n3. Brush salmon with olive oil and lemon juice.\n4. Grill salmon for 10-12 minutes per side, or until cooked through.\n5. Serve with lemon-dill sauce.\n\n**Creamy Tomato Pasta**\n\n**Ingredients:**\n\n* 1 tbsp. olive oil\n* 1 onion, diced\n* 2 cloves garlic, minced\n* 1 (15 oz.) can crushed tomatoes\n* 1/2 tsp. dried oregano\n* 1/4 tsp. dried basil\n* 1/4 tsp. salt\n* 1/4 tsp. black pepper\n* 1/2 cup heavy cream\n* 1/4 cup grated mozzarella cheese\n\n**Instructions:**\n\n1. Heat olive oil in a large pot or Dutch oven over medium heat.\n2. Add onion and garlic and cook until softened, about 5 minutes.\n3. Add crushed tomatoes, oregano, basil, salt, and pepper.\n4. Bring to a boil, then reduce heat to low.\n5. Simmer for 15 minutes, or until the pasta is cooked through.\n6. Stir in heavy cream and mozzarella cheese.\n7. Serve immediately.\n\n**Spicy Chili**\n\n**Ingredients:**\n\n* 1 tbsp. olive oil\n* 1 onion, diced\n* 2 cloves garlic, minced\n* 1 (15 oz.) can diced tomatoes\n* 1 (15 oz.) can tomato paste\n* 1 tsp. chili powder\n* 1/2 tsp. ground cumin\n* 1/4 tsp. black pepper\n* 1/2 tsp. oregano\n* 1/4 tsp. salt\n\n**Instructions:**\n\n1. Heat olive oil in a large pot or Dutch oven over medium heat.\n2. Add onion and garlic and cook until softened, about 5 minutes.\n3. Add diced tomatoes, tomato paste, chili powder, cumin, black pepper, oregano, and salt.\n4. Bring to a boil, then reduce heat to low.\n5. Simmer for 30 minutes, or until the chili is heated through.\n6. Serve with shredded cheese.",
+        "evaluation": {
+            "BLEU": 4.1285583399482836e-79,
+            "ROUGE-1": 0.0960960960960961,
+            "ROUGE-2": 0.02416918429003021,
+            "ROUGE-L": 0.07807807807807808
+        }
+    },
+    {
+        "recipe_name": "Crock-Pot Meatballs",
+        "ingredients": [
+            "2 lb. ground meat",
+            "2 onions, minced",
+            "3/4 c. milk",
+            "2 c. breadcrumbs",
+            "4 eggs",
+            "1/2 tsp. garlic powder",
+            "1 Tbsp. dill weed",
+            "2 Tbsp. dill weed",
+            "3 cans cream of mushroom soup"
+        ],
+        "instructions": [
+            "Mix first 7 ingredients together.",
+            "Make into balls and put on cookie sheets; close together.",
+            "Put in 350\u00b0 oven for 15 minutes. Bump the pan and bake for 5 more minutes.",
+            "Refrigerate until ready to heat in crock-pot.",
+            "Add cream sauce (3 cans of cream of mushroom soup and 2 tablespoons dill weed).",
+            "Heat until warmed.",
+            "Great for parties.",
+            "Makes a big batch."
+        ],
+        "response": "**Beef and Potato Hash**\n\nIngredients:\n\n* 6 baking potatoes, washed and cut into 1/2-inch cubes\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Heat the butter or margarine in a large skillet or Dutch oven over medium heat.\n2. Brown the ground beef until done. Drain any grease from the meat.\n3. Add the potatoes to the skillet and cook until soft, about 6-8 minutes.\n4. Add the milk and cook until thickened and bubbly.\n5. Add the browned ground beef, salt, and pepper. Cook until heated through.\n6. Stir in the cheese, bacon, and green onions.\n7. Serve immediately with sour cream, if desired.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of crusty bread or a salad.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Additional Notes:**\n\n* If you don't have cream of mushroom soup, you can substitute with chicken or vegetable broth.\n* Serve with a side of crusty bread or a salad.\n* Leftovers can be stored in the refrigerator for up to 3 days.",
+        "evaluation": {
+            "BLEU": 5.291579259077969e-79,
+            "ROUGE-1": 0.22758620689655173,
+            "ROUGE-2": 0.020833333333333332,
+            "ROUGE-L": 0.1310344827586207
+        }
+    },
+    {
+        "recipe_name": "Wild Rice Casserole",
+        "ingredients": [
+            "1 lb. sausage",
+            "1 medium onion, chopped",
+            "1 medium green pepper, chopped",
+            "1/2 c. celery, chopped",
+            "1 (6 oz.) pkg. long grain and wild rice mix",
+            "1 can cream chicken soup",
+            "1 can cream mushroom soup",
+            "1 c. shredded Cheddar cheese",
+            "1 (4 oz.) can sliced mushrooms, drained"
+        ],
+        "instructions": [
+            "Brown sausage in skillet, reserving drippings. Saute onion, green pepper and celery in drippings. Combine sausage, sauted vegetables, long grain and wild rice mix (including seasoning packet), soups, cheese and mushrooms. Spoon into a shallow 2-quart casserole dish. Cover and bake at 325\u00b0 for 1 hour or until done."
+        ],
+        "response": "**Sausage and Rice Casserole**\n\n**Ingredients:**\n\n* 1 lb. sausage, browned\n* 1 medium onion, chopped\n* 1 medium green pepper, chopped\n* 1/2 c. celery, chopped\n* 1 (6 oz.) pkg. long grain and wild rice mix\n* 1 can cream chicken soup\n* 1 can cream mushroom soup\n* 1 c. shredded Cheddar cheese\n* 1 (4 oz.) can sliced mushrooms, drained\n\n**Instructions:**\n\n1. In a large skillet over medium heat, brown the sausage.\n2. Add the onion, green pepper, and celery to the skillet and cook until tender.\n3. Add the rice, cream chicken soup, and cream mushroom soup to the skillet and cook until heated through.\n4. Stir in the cheese and mushrooms.\n5. Serve immediately.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality sausage.\n* Serve with a side of green beans or a salad.\n\n**Additional Notes:**\n\n* You can adjust the amount of cheese and mushrooms to your liking.\n* If you don't have cream chicken or mushroom soup, you can substitute with chicken or mushroom broth.\n* Serve with a side of crusty bread to soak up the delicious sauce.",
+        "evaluation": {
+            "BLEU": 0.038860189626272024,
+            "ROUGE-1": 0.26548672566371684,
+            "ROUGE-2": 0.09821428571428573,
+            "ROUGE-L": 0.16814159292035397
+        }
+    },
+    {
+        "recipe_name": "Spiced Apple Muffins",
+        "ingredients": [
+            "3 c. flour",
+            "4 tsp. baking powder",
+            "2 tsp. salt",
+            "3 Tbsp. sugar",
+            "1/2 c. shortening",
+            "2 eggs, well beaten",
+            "1 1/4 c. milk",
+            "1 c. chopped apples",
+            "2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon"
+        ],
+        "instructions": [
+            "Combine dry ingredients and cut in shortening.",
+            "Mix eggs and milk and add to flour mixture.",
+            "Fold in apples.",
+            "Put batter in greased muffin tins and sprinkle with sugar and cinnamon mix. Bake at 425\u00b0 for 25 minutes."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\nIngredients:\n- 6 baking potatoes, washed and pierced with a fork\n- 1 lb. of extra lean ground beef\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onion, chopped and divided\n- 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Microwave potatoes with a wet paper towel covering them on high for 6-8 minutes.\n2. Let potatoes cool slightly, then cut in half lengthwise and scoop out the pulp. Discard the shells.\n3. Brown ground beef in a large skillet over low heat. Drain any grease from the meat.\n4. Add flour, salt, and pepper to a large bowl. Add the browned ground beef, milk, and cheese to the bowl and stir to combine.\n5. Add the potato, green onion, and bacon to the bowl and stir to combine.\n6. Cook until heated through.\n7. Stir in sour cream (if desired) and sprinkle with remaining cheese, bacon, and green onions.\n\n**Tips:**\n\n- For a crispy crust, bake the potatoes in a baking dish lined with parchment paper.\n- Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n\n**Enjoy!**\n</|im_end|>",
+        "evaluation": {
+            "BLEU": 5.518833019734939e-79,
+            "ROUGE-1": 0.16535433070866143,
+            "ROUGE-2": 0.031746031746031744,
+            "ROUGE-L": 0.11811023622047245
+        }
+    },
+    {
+        "recipe_name": "Burritos",
+        "ingredients": [
+            "1 lb. ground beef",
+            "1 large can refried beans",
+            "1 small can refried beans",
+            "8 oz. Mozzarella cheese, grated",
+            "8 oz. mild Cheddar cheese, grated",
+            "8 to 10 oz. picante sauce",
+            "1 large onion, chopped",
+            "sour cream",
+            "flour tortillas"
+        ],
+        "instructions": [
+            "Brown ground beef; drain off grease.",
+            "Add refried beans and picante sauce.",
+            "Heat thoroughly.",
+            "Add cheeses.",
+            "Cook until cheese melts."
+        ],
+        "response": "**Beef and Cheese Burritos**\n\nIngredients:\n\n- 1 lb. ground beef\n- 1 large can refried beans\n- 1 small can refried beans\n- 8 oz. Mozzarella cheese, grated\n- 8 oz. mild Cheddar cheese, grated\n- 8 to 10 oz. picante sauce\n- 1 large onion, chopped\n- Sour cream\n\nInstructions:\n\n1. Brown the ground beef in a large skillet over medium heat. Drain any excess grease.\n2. Add the refried beans, mozzarella and cheddar cheese to the skillet and cook until heated through.\n3. Add the onion and cook until softened.\n4. Add the picante sauce and cook until heated through.\n5. Serve in warm tortillas with sour cream.\n\n**Tips:**\n\n- For a more flavorful burrito, use a high-quality ground beef.\n- If you don't have refried beans, you can make your own by combining equal parts of cooked and drained beans.\n- Serve with a side of guacamole, salsa, or sour cream.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 2.185532566356656e-155,
+            "ROUGE-1": 0.20481927710843373,
+            "ROUGE-2": 0.04878048780487805,
+            "ROUGE-L": 0.15662650602409636
+        }
+    },
+    {
+        "recipe_name": "Toll House Pie",
+        "ingredients": [
+            "2 eggs",
+            "1/2 c. all-purpose flour",
+            "1/2 c. sugar",
+            "1/2 c. firmly packed brown sugar",
+            "1 c. butter, melted and cooled to room temperature",
+            "1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels",
+            "1 c. chopped walnuts",
+            "1 (9-inch) unbaked pie shell",
+            "whipped cream or ice cream (optional)"
+        ],
+        "instructions": [
+            "Preheat oven to 325\u00b0.",
+            "In large bowl, beat eggs until foamy; beat in flour, sugar and brown sugar until well blended.",
+            "Blend in melted butter.",
+            "Stir in chocolate morsels and walnuts.",
+            "Pour into pie shell.",
+            "Bake for 1 hour.",
+            "Remove from oven.",
+            "Serve warm with whipped cream or ice cream.",
+            "(This recipe may be doubled.",
+            "Bake 2 pies, freeze one for later use.)"
+        ],
+        "response": "**Eggs with Flour and Brown Sugar**\n\nIngredients:\n\n* 2 eggs\n* 1/2 cup of all-purpose flour\n* 1/2 cup of sugar\n* 1/2 cup of firmly packed brown sugar\n* 1 cup of melted and cooled butter\n\nInstructions:\n\n1. Whisk together the eggs, flour, and brown sugar in a bowl.\n2. Add the butter and whisk until smooth.\n3. Pour the mixture into a greased baking dish.\n4. Bake for 10-12 minutes, or until set.\n\n**Chocolate Mousse**\n\nIngredients:\n\n* 2 eggs\n* 1/2 cup of all-purpose flour\n* 1/2 cup of sugar\n* 1/2 cup of firmly packed brown sugar\n* 1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels\n* 1 c. chopped walnuts\n\nInstructions:\n\n1. Preheat oven to 375 degrees F (190 degrees C).\n2. In a medium bowl, whisk together the eggs, flour, brown sugar, and chocolate morsels.\n3. Pour the mixture into a greased 9-inch pie shell.\n4. Bake for 10-12 minutes, or until set.\n5. Serve with whipped cream or ice cream.\n\n**Note:**\n\n* For the chocolate mousse, you can substitute semisweet chocolate chips for the chocolate morsels.\n* You can also add other toppings to the mousse, such as chopped nuts, fruit, or whipped cream.",
+        "evaluation": {
+            "BLEU": 0.046507481731035506,
+            "ROUGE-1": 0.2803030303030303,
+            "ROUGE-2": 0.09923664122137406,
+            "ROUGE-L": 0.18939393939393936
+        }
+    },
+    {
+        "recipe_name": "Creamy Potato-Onion Soup",
+        "ingredients": [
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. flour",
+            "1 c. finely chopped onion (use processor)",
+            "1 large clove garlic or garlic powder",
+            "2 (14 1/2 oz.) cans (defatted) chicken broth",
+            "4 c. peeled and cubed potatoes",
+            "1/2 c. finely sliced green onion tops",
+            "1/8 tsp. salt",
+            "1/4 tsp. pepper",
+            "1 qt. milk (whole)"
+        ],
+        "instructions": [
+            "Melt butter or margarine in Dutch oven over low heat.",
+            "Add flour to make a paste.",
+            "Cook 1 minute, stirring constantly.",
+            "Add onions and garlic.",
+            "Cook until onions are tender.",
+            "Add broth, milk and potatoes.",
+            "Add seasoning to suit taste.",
+            "Bring to boil; turn heat down low and cook until potatoes are tender.",
+            "Mash with potato masher or put potatoes in food processor until smooth. Serve with grated sharp cheese and green onion tops.",
+            "Good with corn muffins."
+        ],
+        "response": "**Grilled Chicken with Roasted Vegetables**\n\n**Ingredients:**\n\n* 2 Tbsp. butter or margarine\n* 2 Tbsp. flour\n* 1 c. finely chopped onion (use processor)\n* 1 large clove garlic or garlic powder\n* 2 (14 1/2 oz.) cans (defatted) chicken broth\n* 4 c. peeled and cubed potatoes\n* 1/2 c. finely sliced green onion tops\n* 1/8 tsp. salt\n* 1/4 tsp. pepper\n* 1 qt. milk (whole)\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. In a large skillet over medium heat, melt butter or margarine.\n3. Add flour and cook for 1 minute, stirring constantly.\n4. Add onion and garlic and cook until softened, about 5 minutes.\n5. Add chicken broth, potatoes, green onion tops, salt, and pepper.\n6. Bring to a boil, then reduce heat to low.\n7. Cover and simmer for 15 minutes, or until the potatoes are tender and the chicken is cooked through.\n8. Serve over rice or noodles.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality cut of chicken.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or honey mustard.\n\n**Additional Notes:**\n\n* If you don't have green onion tops, you can use other vegetables, such as broccoli or carrots.\n* Serve with a side of crusty bread to soak up the delicious sauce.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 0.029909589514215507,
+            "ROUGE-1": 0.35051546391752575,
+            "ROUGE-2": 0.1245674740484429,
+            "ROUGE-L": 0.26804123711340205
+        }
+    }
+]

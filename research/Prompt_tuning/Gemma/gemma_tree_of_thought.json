@@ -1,0 +1,912 @@
+[
+    {
+        "recipe_name": "Mozzarella Chicken(Over Sauce)  ",
+        "ingredients": [
+            "2 1/2 to 3 lb. chicken",
+            "2 eggs, beaten",
+            "1/2 c. dry bread crumbs",
+            "1/4 c. butter",
+            "1 (8 oz.) can tomato sauce",
+            "1/2 tsp. dried basil",
+            "cooked egg noodles",
+            "Mozzarella Sauce",
+            "1/2 c. shredded cheese (Mozzarella)",
+            "1/4 tsp. paprika"
+        ],
+        "instructions": [
+            "Cut chicken into serving size pieces.",
+            "Dip into eggs; coat with crumbs.",
+            "Heat butter in skillet.",
+            "Cook chicken over medium heat until brown.",
+            "Stir in tomato sauce and basil.",
+            "Reduce heat; cover and cook over low heat for about 30 minutes, turning chicken every 10 minutes.",
+            "Prepare sauce.",
+            "Put noodles in a 9 x 13-inch pan.",
+            "Arrange chicken on top.",
+            "Spoon sauce over chicken.",
+            "Sprinkle cheese and paprika.",
+            "Broil 6 to 7 inches from broiler until cheese is melted and bubbly."
+        ],
+        "response": "**Culinarian's Journey: A Symphony of Flavors**\n\n**Step 1: The Heart of the Dish**\n\n- Consider the purpose of the dish. Is it a light lunch, a comforting dinner, or a special occasion meal?\n- Determine the desired level of protein and fat. This will guide the choice of chicken cutlet or bone-in thigh.\n\n**Step 2: The Base of the Symphony**\n\n- Choose between two breading options:\n    - **Panko Breading:** For a crispy and golden crust, soak chicken in a mixture of flour, panko breadcrumbs, and egg wash.\n    - **Italian Breading:** Combine flour, olive oil, and Italian seasoning for a light and flavorful crust.\n\n**Step 3: The Flavorful Orchestra**\n\n- Add the cooked egg to create a rich and creamy base for the sauce.\n- Simmer the tomato sauce with basil and paprika for a burst of flavor.\n- Consider adding a touch of cream or Parmesan cheese for a creamy finish.\n\n**Step 4: The Supporting Cast**\n\n- Noodles: Choose between cooked egg noodles or fresh angel hair for a satisfying texture.\n- Mozzarella: Use fresh mozzarella for a gooey and slightly tangy flavor.\n- Cheese: Sprinkle shredded mozzarella on top for a golden and melty finish.\n\n**Step 5: The Final Symphony**\n\n- Combine the chicken, sauce, noodles, and cheese in a large baking dish.\n- Bake until the chicken is cooked through and the sauce is bubbly and flavorful.\n- Serve with a drizzle of olive oil and a sprinkle of fresh basil.\n\n**The Culinary Journey**\n\nThis recipe is a testament to the power of thoughtful planning and the joy of exploring different flavors. By carefully considering the purpose, base, flavor, and supporting elements, the chef creates a symphony of taste that will tantalize the taste buds.",
+        "evaluation": {
+            "BLEU": 2.343434041425402e-155,
+            "ROUGE-1": 0.1904761904761905,
+            "ROUGE-2": 0.022535211267605635,
+            "ROUGE-L": 0.11204481792717086
+        }
+    },
+    {
+        "recipe_name": "Moussaka",
+        "ingredients": [
+            "2 medium eggplants",
+            "vegetable oil",
+            "1 lb. lean ground beef",
+            "2 medium onions, peeled and chopped",
+            "2 cloves garlic, peeled and crushed",
+            "1 (8 oz.) can tomato sauce",
+            "1 tsp. dried leaf oregano",
+            "1 tsp. salt, divided",
+            "1/4 tsp. black pepper, divided",
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. all-purpose flour",
+            "1 c. low-fat milk",
+            "1 egg",
+            "1/3 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Peel eggplants; slice 1/4-inch thick. Brush rimmed cookie sheet with oil. Coat each slice of eggplant on both sides with oil; place on cookie sheet.",
+            "Broil close to broiler until brown. Turn; brush with oil, if necessary.",
+            "Brown the other side. Repeat with all the eggplant slices."
+        ],
+        "response": "**Step 1: Warm Up the Kitchen**\n\n- Light a few candles or incense to create a warm and inviting atmosphere.\n- Preheat your oven to 375\u00b0F (190\u00b0C).\n\n**Step 2: Saut\u00e9 the Onions and Garlic**\n\n- Heat the vegetable oil in a large skillet or Dutch oven over medium heat.\n- Add the onions and garlic and cook until softened, about 5 minutes.\n- Add the tomato sauce, oregano, salt, and pepper and cook for 10 minutes, stirring constantly.\n\n**Step 3: Brown the Ground Beef**\n\n- While the vegetables are cooking, brown the ground beef in a separate pan or skillet over medium-high heat.\n- Season with salt and pepper to taste.\n\n**Step 4: Assemble the Dish**\n\n- Divide the cooked ground beef evenly among the eggplants.\n- Top with the saut\u00e9ed onions and garlic.\n- Pour the tomato sauce over the top.\n- Add the mozzarella cheese and cook until melted and bubbly.\n\n**Step 5: Bake or Grill**\n\n- Transfer the dish to a preheated oven and bake for 20-25 minutes, or until the eggplants are tender and the beef is cooked through.\n- Alternatively, grill the dish over medium-high heat for 10-15 minutes per side, or until cooked through.\n\n**Step 6: Serve and Enjoy**\n\n- Serve the eggplant dish hot, with the creamy mozzarella cheese on top.\n- Garnish with fresh parsley or basil, if desired.\n\n**Additional Notes:**\n\n- For a vegetarian option, omit the ground beef and add 1 (15 oz.) can of diced tomatoes with their juices to the saut\u00e9.\n- Serve with a side of crusty bread or a salad for a complete meal.\n- Serve with a glass of red or white wine for a complementary pairing.",
+        "evaluation": {
+            "BLEU": 2.0075977285701545e-155,
+            "ROUGE-1": 0.13125,
+            "ROUGE-2": 0.012578616352201257,
+            "ROUGE-L": 0.075
+        }
+    },
+    {
+        "recipe_name": "Blueberry Muffins With Lemon",
+        "ingredients": [
+            "2 c. sifted flour",
+            "1/3 c. sugar",
+            "3 tsp. baking powder",
+            "1 tsp. salt",
+            "1 egg, beaten",
+            "1 c. milk",
+            "1/4 c. melted butter, cooled",
+            "1 c. fresh or thawed blueberries",
+            "1 Tbsp. sugar and grated lemon rind, mixed"
+        ],
+        "instructions": [
+            "Sift together flour, sugar, baking powder and salt.",
+            "Mix with fork the beaten egg, milk and butter."
+        ],
+        "response": "**Step 1: Breading the Flour**\n\n- Combine the flour, sugar, baking powder, and salt in a bowl.\n- Add the egg, milk, melted butter, and cooled blueberries to the flour mixture.\n\n**Step 2: Baking Options**\n\n- **Traditional Method:** Bake for 30-35 minutes at 375\u00b0F (190\u00b0C).\n- **Quick Bread:** Bake for 15-20 minutes at 400\u00b0F (200\u00b0C).\n- **Air Fryer:** Cook for 10-12 minutes at 375\u00b0F (190\u00b0C).\n\n**Step 3: Finishing Touches**\n\n- **Lemon Glaze:** Brush with a simple glaze made with lemon juice, sugar, and grated lemon rind.\n- **Cinnamon Glaze:** Drizzle with a warm cinnamon glaze made with brown sugar, cinnamon, and butter.\n- **Blueberry Glaze:** Combine 1/4 cup of blueberries with 1 tablespoon of sugar and drizzle over the warm bread.\n\n**Step 4: Serving and Enjoyment**\n\n- Serve warm with your favorite toppings, such as butter, whipped cream, or fresh fruit.\n- Enjoy the unique and flavorful combination of textures and flavors.\n\n**Additional Notes:**\n\n- For a more intense flavor, use high-quality ingredients, such as fresh blueberries and high-fat butter.\n- Experiment with different baking times and temperatures to find your perfect texture.\n- Serve with a side of your choice, such as a green salad or a fruit salad.",
+        "evaluation": {
+            "BLEU": 5.2546038937860695e-79,
+            "ROUGE-1": 0.11111111111111109,
+            "ROUGE-2": 0.06542056074766354,
+            "ROUGE-L": 0.10185185185185186
+        }
+    },
+    {
+        "recipe_name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "1 head cabbage",
+            "1 lb. ground beef",
+            "1/2 c. rice",
+            "1 small onion, chopped",
+            "2 eggs",
+            "salt and pepper to taste",
+            "1 large onion, sliced",
+            "2 (8 oz.) cans tomato sauce",
+            "2 (29 oz.) cans tomatoes",
+            "juice of 2 lemons",
+            "1/2 c. packed brown sugar"
+        ],
+        "instructions": [
+            "Pour boiling water over cabbage in bowl.",
+            "Let stand for several minutes to loosen leaves; drain.",
+            "Combine ground beef, rice, chopped onion, eggs, salt and pepper in bowl."
+        ],
+        "response": "**Step 1: Culinary Exploration**\n\n* **Asian Influence:** Consider stir-frying the ground beef with garlic and ginger, then adding vegetables like broccoli or carrots. Serve over rice with a light soy sauce glaze.\n* **Tex-Mex Fiesta:** Roast the ground beef with onions and bell peppers, then serve over tortillas with salsa, guacamole, and cheese.\n* **Mediterranean Delight:** Roast the cabbage with tomatoes, olives, and feta cheese. Serve with a lemon-olive oil sauce.\n* **Comfort Food Classic:** Braise the ground beef with onions and carrots in a flavorful sauce. Serve over rice with a side of steamed broccoli.\n\n**Step 2: Cooking Techniques**\n\n* **Slow and Low:** Braising the ground beef and vegetables in a flavorful sauce for hours creates a tender and flavorful dish.\n* **Pan-Frying:** The Asian and Tex-Mex options can be pan-fried for a crispy exterior.\n* **Steaming:** The Mediterranean and comfort food options can be steamed for a light and healthy meal.\n\n**Step 3: Flavorful Combinations**\n\n* **Spicy and Savory:** Combine the Asian and Tex-Mex flavors for a spicy and savory dish.\n* **Umami and Fresh:** Pair the Mediterranean and comfort food options for a rich and fresh flavor profile.\n* **Sweet and Savory:** Combine the tomato sauce and brown sugar for a sweet and savory dish.\n\n**Step 4: Final Touches**\n\n* **Seasoning:** Adjust the salt and pepper to taste.\n* **Serve:** Serve the dish with a side of crusty bread, a refreshing salad, or a slice of crusty bread.\n\n**Conclusion:**\n\nThe best recipe depends on the desired cuisine, cooking technique, and complementary flavors. By considering the different options presented, you can create a unique and delicious dish that reflects your culinary vision.",
+        "evaluation": {
+            "BLEU": 3.9384129391384826e-79,
+            "ROUGE-1": 0.09427609427609429,
+            "ROUGE-2": 0.020338983050847453,
+            "ROUGE-L": 0.05387205387205388
+        }
+    },
+    {
+        "recipe_name": "Oriental Salad",
+        "ingredients": [
+            "1 can LeSueur small peas",
+            "1 can Shoe Peg white corn",
+            "1 can French-cut green beans",
+            "1 (16 oz.) can bean sprouts",
+            "1 (4 oz.) jar pimientos",
+            "1 large onion, shredded fine",
+            "1 (6 oz.) jar sliced mushrooms",
+            "1 (10 oz.) can water chestnuts",
+            "1 large green pepper, chopped",
+            "1 c. celery, chopped",
+            "1 c. salad oil",
+            "1/2 c. vinegar",
+            "1 c. water",
+            "3/4 c. sugar",
+            "salt and pepper to taste"
+        ],
+        "instructions": [
+            "Drain vegetables well.",
+            "Put in blender and mix salad oil, vinegar, water, sugar, salt and pepper to taste.",
+            "Pour over vegetables and mix together.",
+            "Place in refrigerator overnight before serving.",
+            "Keeps well for 2 weeks."
+        ],
+        "response": "**Step 1: Start with a base of creamy, flavorful soup.**\n\n* Simmer the water chestnuts and water for 10 minutes.\n* Add the green beans, mushrooms, and onion to the pot and cook until tender.\n* Add the green pepper, celery, and salad oil to the pot and cook until tender.\n* Add the water chestnuts, bean sprouts, and pimientos to the pot and cook until heated through.\n\n**Step 2: Add a protein source.**\n\n* Add the LeSueur peas to the pot and cook until tender.\n* Add the French-cut green beans to the pot and cook until tender.\n\n**Step 3: Season and serve.**\n\n* Season with salt and pepper to taste.\n* Serve hot with a dollop of vinegar and a sprinkle of sugar.\n\n**Additional Notes:**\n\n* For a richer dish, add 1 tablespoon of butter or olive oil to the pot before adding the vegetables.\n* Serve with crusty bread to soak up the flavorful broth.\n* This soup can be made ahead of time and reheated when desired.\n\n**Cuisines to Consider:**\n\n* French\n* Italian\n* Spanish\n* Asian\n\n**Cooking Methods to Consider:**\n\n* Slow cooking\n* Simmering\n* Stewing\n\n**Complementary Flavors:**\n\n* Herbs: Thyme, rosemary, oregano\n* Spices: Garlic, onion, paprika\n* Vegetables: Tomatoes, carrots, potatoes",
+        "evaluation": {
+            "BLEU": 0.018877870176490254,
+            "ROUGE-1": 0.16000000000000003,
+            "ROUGE-2": 0.04484304932735426,
+            "ROUGE-L": 0.10666666666666669
+        }
+    },
+    {
+        "recipe_name": "Pecan Pie Bars",
+        "ingredients": [
+            "2 1/2 c. flour",
+            "1 c. (2 sticks) cold butter or margarine",
+            "1/2 c. sugar",
+            "1/2 tsp. salt",
+            "4 eggs",
+            "1 1/2 c. Karo light or dark corn syrup",
+            "1 1/2 c. sugar",
+            "3 Tbsp. butter or margarine, melted",
+            "1 1/2 tsp. vanilla",
+            "2 1/2 c. pecan halves or coarsely chopped pecans"
+        ],
+        "instructions": [
+            "Cookie Crust:",
+            "Spray a 15 x 10 x 1-inch pan with cooking spray.",
+            "In a large bowl with mixer at medium speed, beat the flour, butter or margarine (cut in pieces), sugar and salt until mixture resembles fine crumbs.",
+            "Press firmly into prepared pan. Bake 20 to 23 minutes or until golden brown.",
+            "Top with filling and complete baking."
+        ],
+        "response": "**Step 1: Breading the Chicken**\n\n* Use 1/2 c. of the flour for dredging the chicken.\n* Combine the remaining flour with 1/4 tsp. salt and 1/4 tsp. black pepper.\n* Dip the chicken pieces into the flour mixture, ensuring they are evenly coated.\n\n**Step 2: Choosing a Sauce**\n\n* If using corn syrup, combine 1 cup of the sugar with 1/2 tsp. salt and 1/4 tsp. black pepper.\n* If using Karo syrup, combine 1 cup of the sugar with 1/2 tsp. salt and 1/4 tsp. black pepper.\n\n**Step 3: Cooking the Chicken**\n\n* If using butter or margarine, melt 1 Tbsp. of the butter or margarine in a pan over medium heat.\n* Add the chicken and cook until golden brown on all sides.\n* If using corn syrup, add it to the pan after the chicken is cooked.\n\n**Step 4: Assembling the Dish**\n\n* Divide the chicken into 4 equal portions.\n* Top each portion with 1/2 c. of the chopped pecans.\n* Pour the chosen sauce over the chicken, ensuring it covers the pecans.\n\n**Step 5: Baking or Grilling**\n\n* Bake the chicken at 375\u00b0F (190\u00b0C) for 20-25 minutes, or until the internal temperature reaches 165\u00b0F (75\u00b0C).\n* Grill the chicken for 10-15 minutes, or until the pecans are golden brown and the chicken is cooked through.\n\n**Step 6: Serving**\n\n* Serve the chicken with the chosen sauce, and enjoy!\n\n**Additional Notes:**\n\n* For a crispy crust, use cold, cut pieces of butter or margarine.\n* If you don't have pecan halves, you can substitute with coarsely chopped pecans.\n* Serve with a side of your choice, such as mashed potatoes, green beans, or a salad.",
+        "evaluation": {
+            "BLEU": 5.657627503183298e-79,
+            "ROUGE-1": 0.23076923076923075,
+            "ROUGE-2": 0.047619047619047616,
+            "ROUGE-L": 0.12426035502958582
+        }
+    },
+    {
+        "recipe_name": "Catskinner Cake",
+        "ingredients": [
+            "2 c. flour",
+            "2 tsp. baking soda",
+            "1/2 tsp. salt",
+            "2 c. sugar",
+            "1 c. flaked coconut",
+            "3/4 c. buttermilk",
+            "3/4 c. oil",
+            "3 large eggs",
+            "2 tsp. vanilla",
+            "1 (8 oz.) crushed pineapple, drained",
+            "1 c. chopped nuts",
+            "1 c. sugar",
+            "1/2 c. butter",
+            "1/2 c. buttermilk",
+            "3 Tbsp. light corn syrup",
+            "1/2 tsp. vanilla"
+        ],
+        "instructions": [
+            "Combine first 9 ingredients in a large mixing bowl; beat at medium speed 5 minutes. Stir in pineapple and nuts. Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350\u00b0 for 40 to 45 minutes. Set pan on wire rack."
+        ],
+        "response": "**Tree of Decisions:**\n\n**Step 1: Breading the Coconut**\n- Use 1/2 cup of the flour for dredging the coconut in milk.\n- Season with salt and pepper.\n\n**Step 2: Battering the Eggs**\n- Combine the remaining flour with baking soda and salt.\n- Add the eggs and milk to the dry mixture in a separate bowl.\n\n**Step 3: Cooking the Base**\n- Heat oil in a pan over medium heat.\n- Add the chopped pineapple and cook until golden brown.\n- Add the nuts and cook for 5 minutes.\n\n**Step 4: Assembling the Dish**\n- Dip the coconut in the egg mixture, then coat with the breading.\n- Add the coconut mixture to the pan and bake until golden brown and cooked through.\n\n**Step 5: Finishing Touches**\n- Add the pineapple and nuts to the pan.\n- Drizzle with light corn syrup and sprinkle with vanilla.\n- Serve immediately with a side of fresh fruit or whipped cream.\n\n**Additional Notes:**\n\n- For a crispy crust, bake for 15-20 minutes, or until golden brown.\n- Serve with a drizzle of honey or maple syrup for extra sweetness.\n- Serve with a side of a refreshing salad or soup.\n\n**Cuisines to Consider:**\n\n- Tropical (Coconut, Pineapple)\n- Latin American (Enchiladas)\n- Asian (Coconut Shrimp)\n\n**Cooking Methods:**\n\n- Pan-frying\n- Deep-frying\n- Baking\n\n**Complementary Flavors:**\n\n- Spicy (Chipotle peppers)\n- Savory (Herbs like rosemary or thyme)\n- Sweet (Chocolate chips)",
+        "evaluation": {
+            "BLEU": 2.5122349715155444e-155,
+            "ROUGE-1": 0.16030534351145037,
+            "ROUGE-2": 0.030769230769230767,
+            "ROUGE-L": 0.12213740458015267
+        }
+    },
+    {
+        "recipe_name": "Chocolate Delight",
+        "ingredients": [
+            "1 stick butter",
+            "1 c. plain flour",
+            "1/2 c. nuts",
+            "8 oz. cream cheese",
+            "1 c. powdered sugar",
+            "2 (9 oz.) Cool Whip",
+            "2 pkg. chocolate instant pudding",
+            "3 c. milk"
+        ],
+        "instructions": [
+            "Mix butter, flour and nuts.",
+            "Grease pan with butter and bake 10 to 15 minutes at 300\u00b0.",
+            "Cool."
+        ],
+        "response": "**Step 1: Culinary Exploration**\n\n* **Culinarian Choice:** French Bistro (classic buttered steak with creamy sauce)\n* **Method:** Pan-frying with a rich sauce\n* **Flavor Profile:** Rich, savory, and slightly spicy\n\n**Step 2: Flavor Balancing**\n\n* **Sweet and Savory:** Balance the richness of the cream cheese with the sweetness of the powdered sugar and chocolate pudding.\n* **Nutty and Creamy:** Include the nuts for a satisfying crunch and pair them with the creamy cream cheese.\n\n**Step 3: Culinary Harmony**\n\n* **Milk and Cream:** Use whole milk for a rich and creamy base, and incorporate a small amount of heavy cream for a velvety texture.\n* **Chocolate and Cream Cheese:** The chocolate instant pudding adds a rich and decadent element, while the cream cheese provides a light and airy contrast.\n\n**Step 4: Culinary Elegance**\n\n* **Presentation:** Serve in individual ramekins or individual plates for a refined presentation.\n* **Accompaniments:** A drizzle of chocolate sauce and fresh fruit, such as strawberries or raspberries, enhance the flavors.\n\n**Step 5: Final Touches**\n\n* **Whipped Cream Symphony:** Whip the cream cheese to a stiff peak and fold it into the mixture for a light and airy texture.\n* **Final Glaze:** For an extra touch of indulgence, drizzle a glaze made with chocolate and cream cheese.\n\n**Step 6: Culinary Revelation**\n\nThis recipe is a culinary revelation that combines the richness of French cuisine with the flavors of chocolate and cream cheese. The delicate balance of flavors and textures will leave you craving for more.",
+        "evaluation": {
+            "BLEU": 6.499038101352642e-232,
+            "ROUGE-1": 0.054901960784313725,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.04705882352941176
+        }
+    },
+    {
+        "recipe_name": "Beef Pastichio(Greek)  ",
+        "ingredients": [
+            "1 1/2 lb. ground beef",
+            "1 (7 oz.) pkg. elbow macaroni",
+            "2 Tbsp. butter or margarine",
+            "1/4 c. flour",
+            "3 c. milk",
+            "1 large onion, finely chopped",
+            "1 tsp. salt",
+            "1/4 tsp. pepper",
+            "1/2 tsp. cinnamon",
+            "1/8 tsp. oregano leaves",
+            "1 (10 3/4 oz.) can tomato puree",
+            "3 eggs",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Prepare macaroni per package directions; drain.",
+            "Rinse with cold water; drain.",
+            "Stir flour into melted butter or margarine in heavy saucepan.",
+            "Gradually stir in milk and cook until thick, stirring occasionally.",
+            "Cover and cool.",
+            "Brown onion and ground beef in large frying pan.",
+            "Pour off drippings.",
+            "Sprinkle salt, pepper, cinnamon and oregano over beef.",
+            "Stir in tomato puree; cook slowly for 10 minutes."
+        ],
+        "response": "**Step 1: Classic Italian Beef Macaroni**\n\n* Use the ground beef and cook until browned.\n* Add the elbow macaroni and cook according to the package instructions.\n* In a separate pan, melt the butter or margarine and cook the onion until translucent.\n* Add the flour and cook for 1 minute, then add the milk and bring to a simmer.\n* Add the cooked pasta, tomato puree, and eggs to the pan and cook until heated through.\n* Season with salt, pepper, and oregano.\n* Serve with grated Parmesan cheese on top.\n\n**Step 2: Tex-Mex Beef Mac and Cheese**\n\n* Use the ground beef and cook until browned.\n* Add the elbow macaroni and cook according to the package instructions.\n* In a skillet, cook the onion and garlic until translucent.\n* Add the flour and cook for 1 minute, then add the milk and bring to a simmer.\n* Add the cooked pasta, tomato sauce, and cheese to the skillet and cook until heated through.\n* Season with salt, pepper, and chili powder (if desired).\n* Serve with a side of tortilla chips and guacamole.\n\n**Step 3: Asian Beef Noodles**\n\n* Use the ground beef and cook until browned.\n* Add the noodles to a large pot of salted water and cook according to the package instructions.\n* In a separate pan, cook the onion and garlic until translucent.\n* Add the noodles, vegetables (such as broccoli or carrots), and sauce (such as soy sauce or hoisin sauce) to the pot and cook until heated through.\n* Season with salt, pepper, and sesame oil.\n* Serve with a side of steamed broccoli or rice.\n\n**Step 4: Mediterranean Beef Pasta**\n\n* Use the ground beef and cook until browned.\n* Add the pasta to a large pot of salted water and cook according to the package instructions.\n* In a skillet, cook the onion and garlic until translucent.\n* Add the flour and cook for 1 minute, then add the marinara sauce and cook until heated through.\n* Add the cooked pasta, vegetables (such as zucchini or eggplant), and cheese to the skillet and cook until heated through.\n* Season with salt, pepper, and oregano.\n* Serve with a side of crusty bread.\n\n**Final Recommendation:**\n\nThe best recipe for you will depend on your personal preferences and the occasion. If you prefer a classic Italian dish, go with the Classic Italian Beef Macaroni. If you're looking for a more adventurous option, try the Tex-Mex Beef Mac and Cheese or the Mediterranean Beef Pasta.",
+        "evaluation": {
+            "BLEU": 5.735131679095652e-79,
+            "ROUGE-1": 0.1511879049676026,
+            "ROUGE-2": 0.04338394793926247,
+            "ROUGE-L": 0.1123110151187905
+        }
+    },
+    {
+        "recipe_name": "Shrimp Pasta Salad",
+        "ingredients": [
+            "1 box twisted pasta (8 oz.), cooked, drained and cooled",
+            "2 to 3 tomatoes, chopped or salad tomatoes, halved",
+            "2 large cucumbers, sliced",
+            "1/2 yellow or red bell pepper",
+            "2 to 3 fresh green onions (optional)",
+            "1/2 bottle McCormick Salad Supreme seasoning",
+            "1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)",
+            "1 lb. shrimp, boiled and deveined (may cut in half, if preferred)",
+            "1/2 green bell pepper, cut in small strips",
+            "1 purple onion, cut in small strips"
+        ],
+        "instructions": [
+            "Prepare all ingredients and mix together.",
+            "Chill 1 to 2 hours before serving.",
+            "Better prepared the day before.",
+            "Makes 8 or more servings."
+        ],
+        "response": "**Step 1: Pasta Choice**\n\n- Consider the cooking method: boiling, baking, or grilling.\n- Match the pasta to the desired texture: al dente (slightly firm to the bite).\n\n**Step 2: Tomato Selection**\n\n- Use a combination of chopped and halved tomatoes for visual appeal and flavor.\n- Consider the acidity: fresh or canned diced tomatoes.\n\n**Step 3: Cucumber and Bell Pepper**\n\n- Slice the cucumbers and bell pepper into consistent sizes for even cooking.\n- Consider adding a pinch of salt or pepper to enhance their flavor.\n\n**Step 4: Shrimp and Bell Pepper**\n\n- Simmer the shrimp with the green bell pepper for a flavorful and tender dish.\n- Alternatively, grill or pan-fry the shrimp with the bell pepper.\n\n**Step 5: Dressing and Seasoning**\n\n- Choose between the Italian dressing or homemade vinaigrette.\n- Consider adding a drizzle of olive oil for richness.\n- Season with McCormick Salad Supreme or your preferred salt and pepper.\n\n**Step 6: Assembly**\n\n- Combine the cooked pasta with the tomato mixture, cucumbers, bell peppers, and shrimp.\n- Toss gently to combine.\n- Serve immediately with the creamy Italian dressing or vinaigrette.\n\n**Additional Notes:**\n\n- For a lighter option, reduce the amount of dressing or use a vinaigrette.\n- If you prefer a more complex dish, add a sprinkle of Parmesan cheese or mozzarella cheese.\n- Serve with crusty bread to soak up the flavorful sauce.\n\n**Final Recipe:**\n\n**Pasta Primavera with Shrimp and Tomatoes**\n\n**Ingredients:**\n\n- 1 box twisted pasta (8 oz.)\n- 2 to 3 tomatoes, chopped or halved\n- 2 large cucumbers, sliced\n- 1/2 yellow or red bell pepper, sliced\n- 1/2 green onion (optional)\n- 1/2 bottle McCormick Salad Supreme seasoning\n- 1 (8 oz.) bottle Italian dressing or homemade vinaigrette\n- 1 lb. shrimp, boiled and deveined (may cut in half)\n- 1/2 green bell pepper, cut into small strips\n- 1 purple onion, cut into small strips\n\n**Instructions:**\n\n1. Cook the pasta according to the package instructions.\n2. Combine the chopped and halved tomatoes, cucumbers, bell pepper, and green onion (if using) in a large bowl.\n3. Add the cooked shrimp, green bell pepper, and bell pepper to the bowl.\n4. Season with McCormick Salad Supreme or your preferred salt and pepper.\n5. Add the pasta to the bowl and toss gently to combine.\n6. Serve immediately with the Italian dressing or vinaigrette.",
+        "evaluation": {
+            "BLEU": 6.651334327951481e-232,
+            "ROUGE-1": 0.05569620253164558,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.04050632911392406
+        }
+    },
+    {
+        "recipe_name": "Mozzarella Chicken(Over Sauce)  ",
+        "ingredients": [
+            "2 1/2 to 3 lb. chicken",
+            "2 eggs, beaten",
+            "1/2 c. dry bread crumbs",
+            "1/4 c. butter",
+            "1 (8 oz.) can tomato sauce",
+            "1/2 tsp. dried basil",
+            "cooked egg noodles",
+            "Mozzarella Sauce",
+            "1/2 c. shredded cheese (Mozzarella)",
+            "1/4 tsp. paprika"
+        ],
+        "instructions": [
+            "Cut chicken into serving size pieces.",
+            "Dip into eggs; coat with crumbs.",
+            "Heat butter in skillet.",
+            "Cook chicken over medium heat until brown.",
+            "Stir in tomato sauce and basil.",
+            "Reduce heat; cover and cook over low heat for about 30 minutes, turning chicken every 10 minutes.",
+            "Prepare sauce.",
+            "Put noodles in a 9 x 13-inch pan.",
+            "Arrange chicken on top.",
+            "Spoon sauce over chicken.",
+            "Sprinkle cheese and paprika.",
+            "Broil 6 to 7 inches from broiler until cheese is melted and bubbly."
+        ],
+        "response": "**Culinarian's Journey: A Symphony of Flavors**\n\n**Step 1: The Heart of the Dish**\n\n- Consider the purpose of the dish. Is it a light lunch, a comforting dinner, or a special occasion meal?\n- Determine the desired level of protein and fat. This will guide the choice of chicken cutlet or bone-in thigh.\n\n**Step 2: The Base of the Symphony**\n\n- Choose between two breading options:\n    - **Panko Breading:** For a crispy and golden crust, soak chicken in a mixture of flour, panko breadcrumbs, and egg wash.\n    - **Italian Breading:** Combine flour, olive oil, and Italian seasoning for a light and flavorful crust.\n\n**Step 3: The Flavorful Orchestra**\n\n- Add the cooked egg to create a rich and creamy base for the sauce.\n- Simmer the tomato sauce with basil and paprika for a burst of flavor.\n- Consider adding a touch of cream or Parmesan cheese for a creamy finish.\n\n**Step 4: The Supporting Cast**\n\n- Noodles: Choose between cooked egg noodles or fresh angel hair for a satisfying texture.\n- Mozzarella: Use fresh mozzarella for a gooey and slightly tangy flavor.\n- Cheese: Sprinkle shredded mozzarella on top for a golden and melty finish.\n\n**Step 5: The Final Symphony**\n\n- Combine the chicken, sauce, noodles, and cheese in a large baking dish.\n- Bake until the chicken is cooked through and the sauce is bubbly and flavorful.\n- Serve with a drizzle of olive oil and a sprinkle of fresh basil.\n\n**The Culinary Journey**\n\nThis recipe is a testament to the power of thoughtful planning and the joy of exploring different flavors. By carefully considering the purpose, base, flavor, and supporting elements, the chef creates a symphony of taste that will tantalize the taste buds.",
+        "evaluation": {
+            "BLEU": 2.343434041425402e-155,
+            "ROUGE-1": 0.1904761904761905,
+            "ROUGE-2": 0.022535211267605635,
+            "ROUGE-L": 0.11204481792717086
+        }
+    },
+    {
+        "recipe_name": "Moussaka",
+        "ingredients": [
+            "2 medium eggplants",
+            "vegetable oil",
+            "1 lb. lean ground beef",
+            "2 medium onions, peeled and chopped",
+            "2 cloves garlic, peeled and crushed",
+            "1 (8 oz.) can tomato sauce",
+            "1 tsp. dried leaf oregano",
+            "1 tsp. salt, divided",
+            "1/4 tsp. black pepper, divided",
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. all-purpose flour",
+            "1 c. low-fat milk",
+            "1 egg",
+            "1/3 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Peel eggplants; slice 1/4-inch thick. Brush rimmed cookie sheet with oil. Coat each slice of eggplant on both sides with oil; place on cookie sheet.",
+            "Broil close to broiler until brown. Turn; brush with oil, if necessary.",
+            "Brown the other side. Repeat with all the eggplant slices."
+        ],
+        "response": "**Step 1: Warm Up the Kitchen**\n\n- Light a few candles or incense to create a warm and inviting atmosphere.\n- Preheat your oven to 375\u00b0F (190\u00b0C).\n\n**Step 2: Saut\u00e9 the Onions and Garlic**\n\n- Heat the vegetable oil in a large skillet or Dutch oven over medium heat.\n- Add the onions and garlic and cook until softened, about 5 minutes.\n- Add the tomato sauce, oregano, salt, and pepper and cook for 10 minutes, stirring constantly.\n\n**Step 3: Brown the Ground Beef**\n\n- While the vegetables are cooking, brown the ground beef in a separate pan or skillet over medium-high heat.\n- Season with salt and pepper to taste.\n\n**Step 4: Assemble the Dish**\n\n- Divide the cooked ground beef evenly among the eggplants.\n- Top with the saut\u00e9ed onions and garlic.\n- Pour the tomato sauce over the top.\n- Add the mozzarella cheese and cook until melted and bubbly.\n\n**Step 5: Bake or Grill**\n\n- Transfer the dish to a preheated oven and bake for 20-25 minutes, or until the eggplants are tender and the beef is cooked through.\n- Alternatively, grill the dish over medium-high heat for 10-15 minutes per side, or until cooked through.\n\n**Step 6: Serve and Enjoy**\n\n- Serve the eggplant dish hot, with the creamy mozzarella cheese on top.\n- Garnish with fresh parsley or basil, if desired.\n\n**Additional Notes:**\n\n- For a vegetarian option, omit the ground beef and add 1 (15 oz.) can of diced tomatoes with their juices to the saut\u00e9.\n- Serve with a side of crusty bread or a salad for a complete meal.\n- Serve with a glass of red or white wine for a complementary pairing.",
+        "evaluation": {
+            "BLEU": 2.0075977285701545e-155,
+            "ROUGE-1": 0.13125,
+            "ROUGE-2": 0.012578616352201257,
+            "ROUGE-L": 0.075
+        }
+    },
+    {
+        "recipe_name": "Blueberry Muffins With Lemon",
+        "ingredients": [
+            "2 c. sifted flour",
+            "1/3 c. sugar",
+            "3 tsp. baking powder",
+            "1 tsp. salt",
+            "1 egg, beaten",
+            "1 c. milk",
+            "1/4 c. melted butter, cooled",
+            "1 c. fresh or thawed blueberries",
+            "1 Tbsp. sugar and grated lemon rind, mixed"
+        ],
+        "instructions": [
+            "Sift together flour, sugar, baking powder and salt.",
+            "Mix with fork the beaten egg, milk and butter."
+        ],
+        "response": "**Step 1: Breading the Flour**\n\n- Combine the flour, sugar, baking powder, and salt in a bowl.\n- Add the egg, milk, melted butter, and cooled blueberries to the flour mixture.\n\n**Step 2: Baking Options**\n\n- **Traditional Method:** Bake for 30-35 minutes at 375\u00b0F (190\u00b0C).\n- **Quick Bread:** Bake for 15-20 minutes at 400\u00b0F (200\u00b0C).\n- **Air Fryer:** Cook for 10-12 minutes at 375\u00b0F (190\u00b0C).\n\n**Step 3: Finishing Touches**\n\n- **Lemon Glaze:** Brush with a simple glaze made with lemon juice, sugar, and grated lemon rind.\n- **Cinnamon Glaze:** Drizzle with a warm cinnamon glaze made with brown sugar, cinnamon, and butter.\n- **Blueberry Glaze:** Combine 1/4 cup of blueberries with 1 tablespoon of sugar and drizzle over the warm bread.\n\n**Step 4: Serving and Enjoyment**\n\n- Serve warm with your favorite toppings, such as butter, whipped cream, or fresh fruit.\n- Enjoy the unique and flavorful combination of textures and flavors.\n\n**Additional Notes:**\n\n- For a more intense flavor, use high-quality ingredients, such as fresh blueberries and high-fat butter.\n- Experiment with different baking times and temperatures to find your perfect texture.\n- Serve with a side of your choice, such as a green salad or a fruit salad.",
+        "evaluation": {
+            "BLEU": 5.2546038937860695e-79,
+            "ROUGE-1": 0.11111111111111109,
+            "ROUGE-2": 0.06542056074766354,
+            "ROUGE-L": 0.10185185185185186
+        }
+    },
+    {
+        "recipe_name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "1 head cabbage",
+            "1 lb. ground beef",
+            "1/2 c. rice",
+            "1 small onion, chopped",
+            "2 eggs",
+            "salt and pepper to taste",
+            "1 large onion, sliced",
+            "2 (8 oz.) cans tomato sauce",
+            "2 (29 oz.) cans tomatoes",
+            "juice of 2 lemons",
+            "1/2 c. packed brown sugar"
+        ],
+        "instructions": [
+            "Pour boiling water over cabbage in bowl.",
+            "Let stand for several minutes to loosen leaves; drain.",
+            "Combine ground beef, rice, chopped onion, eggs, salt and pepper in bowl."
+        ],
+        "response": "**Step 1: Culinary Exploration**\n\n* **Asian Influence:** Consider stir-frying the ground beef with garlic and ginger, then adding vegetables like broccoli or carrots. Serve over rice with a light soy sauce glaze.\n* **Tex-Mex Fiesta:** Roast the ground beef with onions and bell peppers, then serve over tortillas with salsa, guacamole, and cheese.\n* **Mediterranean Delight:** Roast the cabbage with tomatoes, olives, and feta cheese. Serve with a lemon-olive oil sauce.\n* **Comfort Food Classic:** Braise the ground beef with onions and carrots in a flavorful sauce. Serve over rice with a side of steamed broccoli.\n\n**Step 2: Cooking Techniques**\n\n* **Slow and Low:** Braising the ground beef and vegetables in a flavorful sauce for hours creates a tender and flavorful dish.\n* **Pan-Frying:** The Asian and Tex-Mex options can be pan-fried for a crispy exterior.\n* **Steaming:** The Mediterranean and comfort food options can be steamed for a light and healthy meal.\n\n**Step 3: Flavorful Combinations**\n\n* **Spicy and Savory:** Combine the Asian and Tex-Mex flavors for a spicy and savory dish.\n* **Umami and Fresh:** Pair the Mediterranean and comfort food options for a rich and fresh flavor profile.\n* **Sweet and Savory:** Combine the tomato sauce and brown sugar for a sweet and savory dish.\n\n**Step 4: Final Touches**\n\n* **Seasoning:** Adjust the salt and pepper to taste.\n* **Serve:** Serve the dish with a side of crusty bread, a refreshing salad, or a slice of crusty bread.\n\n**Conclusion:**\n\nThe best recipe depends on the desired cuisine, cooking technique, and complementary flavors. By considering the different options presented, you can create a unique and delicious dish that reflects your culinary vision.",
+        "evaluation": {
+            "BLEU": 3.9384129391384826e-79,
+            "ROUGE-1": 0.09427609427609429,
+            "ROUGE-2": 0.020338983050847453,
+            "ROUGE-L": 0.05387205387205388
+        }
+    },
+    {
+        "recipe_name": "Oriental Salad",
+        "ingredients": [
+            "1 can LeSueur small peas",
+            "1 can Shoe Peg white corn",
+            "1 can French-cut green beans",
+            "1 (16 oz.) can bean sprouts",
+            "1 (4 oz.) jar pimientos",
+            "1 large onion, shredded fine",
+            "1 (6 oz.) jar sliced mushrooms",
+            "1 (10 oz.) can water chestnuts",
+            "1 large green pepper, chopped",
+            "1 c. celery, chopped",
+            "1 c. salad oil",
+            "1/2 c. vinegar",
+            "1 c. water",
+            "3/4 c. sugar",
+            "salt and pepper to taste"
+        ],
+        "instructions": [
+            "Drain vegetables well.",
+            "Put in blender and mix salad oil, vinegar, water, sugar, salt and pepper to taste.",
+            "Pour over vegetables and mix together.",
+            "Place in refrigerator overnight before serving.",
+            "Keeps well for 2 weeks."
+        ],
+        "response": "**Step 1: Start with a base of creamy, flavorful soup.**\n\n* Simmer the water chestnuts and water for 10 minutes.\n* Add the green beans, mushrooms, and onion to the pot and cook until tender.\n* Add the green pepper, celery, and salad oil to the pot and cook until tender.\n* Add the water chestnuts, bean sprouts, and pimientos to the pot and cook until heated through.\n\n**Step 2: Add a protein source.**\n\n* Add the LeSueur peas to the pot and cook until tender.\n* Add the French-cut green beans to the pot and cook until tender.\n\n**Step 3: Season and serve.**\n\n* Season with salt and pepper to taste.\n* Serve hot with a dollop of vinegar and a sprinkle of sugar.\n\n**Additional Notes:**\n\n* For a richer dish, add 1 tablespoon of butter or olive oil to the pot before adding the vegetables.\n* Serve with crusty bread to soak up the flavorful broth.\n* This soup can be made ahead of time and reheated when desired.\n\n**Cuisines to Consider:**\n\n* French\n* Italian\n* Spanish\n* Asian\n\n**Cooking Methods to Consider:**\n\n* Slow cooking\n* Simmering\n* Stewing\n\n**Complementary Flavors:**\n\n* Herbs: Thyme, rosemary, oregano\n* Spices: Garlic, onion, paprika\n* Vegetables: Tomatoes, carrots, potatoes",
+        "evaluation": {
+            "BLEU": 0.018877870176490254,
+            "ROUGE-1": 0.16000000000000003,
+            "ROUGE-2": 0.04484304932735426,
+            "ROUGE-L": 0.10666666666666669
+        }
+    },
+    {
+        "recipe_name": "Pecan Pie Bars",
+        "ingredients": [
+            "2 1/2 c. flour",
+            "1 c. (2 sticks) cold butter or margarine",
+            "1/2 c. sugar",
+            "1/2 tsp. salt",
+            "4 eggs",
+            "1 1/2 c. Karo light or dark corn syrup",
+            "1 1/2 c. sugar",
+            "3 Tbsp. butter or margarine, melted",
+            "1 1/2 tsp. vanilla",
+            "2 1/2 c. pecan halves or coarsely chopped pecans"
+        ],
+        "instructions": [
+            "Cookie Crust:",
+            "Spray a 15 x 10 x 1-inch pan with cooking spray.",
+            "In a large bowl with mixer at medium speed, beat the flour, butter or margarine (cut in pieces), sugar and salt until mixture resembles fine crumbs.",
+            "Press firmly into prepared pan. Bake 20 to 23 minutes or until golden brown.",
+            "Top with filling and complete baking."
+        ],
+        "response": "**Step 1: Breading the Chicken**\n\n* Use 1/2 c. of the flour for dredging the chicken.\n* Combine the remaining flour with 1/4 tsp. salt and 1/4 tsp. black pepper.\n* Dip the chicken pieces into the flour mixture, ensuring they are evenly coated.\n\n**Step 2: Choosing a Sauce**\n\n* If using corn syrup, combine 1 cup of the sugar with 1/2 tsp. salt and 1/4 tsp. black pepper.\n* If using Karo syrup, combine 1 cup of the sugar with 1/2 tsp. salt and 1/4 tsp. black pepper.\n\n**Step 3: Cooking the Chicken**\n\n* If using butter or margarine, melt 1 Tbsp. of the butter or margarine in a pan over medium heat.\n* Add the chicken and cook until golden brown on all sides.\n* If using corn syrup, add it to the pan after the chicken is cooked.\n\n**Step 4: Assembling the Dish**\n\n* Divide the chicken into 4 equal portions.\n* Top each portion with 1/2 c. of the chopped pecans.\n* Pour the chosen sauce over the chicken, ensuring it covers the pecans.\n\n**Step 5: Baking or Grilling**\n\n* Bake the chicken at 375\u00b0F (190\u00b0C) for 20-25 minutes, or until the internal temperature reaches 165\u00b0F (75\u00b0C).\n* Grill the chicken for 10-15 minutes, or until the pecans are golden brown and the chicken is cooked through.\n\n**Step 6: Serving**\n\n* Serve the chicken with the chosen sauce, and enjoy!\n\n**Additional Notes:**\n\n* For a crispy crust, use cold, cut pieces of butter or margarine.\n* If you don't have pecan halves, you can substitute with coarsely chopped pecans.\n* Serve with a side of your choice, such as mashed potatoes, green beans, or a salad.",
+        "evaluation": {
+            "BLEU": 5.657627503183298e-79,
+            "ROUGE-1": 0.23076923076923075,
+            "ROUGE-2": 0.047619047619047616,
+            "ROUGE-L": 0.12426035502958582
+        }
+    },
+    {
+        "recipe_name": "Catskinner Cake",
+        "ingredients": [
+            "2 c. flour",
+            "2 tsp. baking soda",
+            "1/2 tsp. salt",
+            "2 c. sugar",
+            "1 c. flaked coconut",
+            "3/4 c. buttermilk",
+            "3/4 c. oil",
+            "3 large eggs",
+            "2 tsp. vanilla",
+            "1 (8 oz.) crushed pineapple, drained",
+            "1 c. chopped nuts",
+            "1 c. sugar",
+            "1/2 c. butter",
+            "1/2 c. buttermilk",
+            "3 Tbsp. light corn syrup",
+            "1/2 tsp. vanilla"
+        ],
+        "instructions": [
+            "Combine first 9 ingredients in a large mixing bowl; beat at medium speed 5 minutes. Stir in pineapple and nuts. Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350\u00b0 for 40 to 45 minutes. Set pan on wire rack."
+        ],
+        "response": "**Tree of Decisions:**\n\n**Step 1: Breading the Coconut**\n- Use 1/2 cup of the flour for dredging the coconut in milk.\n- Season with salt and pepper.\n\n**Step 2: Battering the Eggs**\n- Combine the remaining flour with baking soda and salt.\n- Add the eggs and milk to the dry mixture in a separate bowl.\n\n**Step 3: Cooking the Base**\n- Heat oil in a pan over medium heat.\n- Add the chopped pineapple and cook until golden brown.\n- Add the nuts and cook for 5 minutes.\n\n**Step 4: Assembling the Dish**\n- Dip the coconut in the egg mixture, then coat with the breading.\n- Add the coconut mixture to the pan and bake until golden brown and cooked through.\n\n**Step 5: Finishing Touches**\n- Add the pineapple and nuts to the pan.\n- Drizzle with light corn syrup and sprinkle with vanilla.\n- Serve immediately with a side of fresh fruit or whipped cream.\n\n**Additional Notes:**\n\n- For a crispy crust, bake for 15-20 minutes, or until golden brown.\n- Serve with a drizzle of honey or maple syrup for extra sweetness.\n- Serve with a side of a refreshing salad or soup.\n\n**Cuisines to Consider:**\n\n- Tropical (Coconut, Pineapple)\n- Latin American (Enchiladas)\n- Asian (Coconut Shrimp)\n\n**Cooking Methods:**\n\n- Pan-frying\n- Deep-frying\n- Baking\n\n**Complementary Flavors:**\n\n- Spicy (Chipotle peppers)\n- Savory (Herbs like rosemary or thyme)\n- Sweet (Chocolate chips)",
+        "evaluation": {
+            "BLEU": 2.5122349715155444e-155,
+            "ROUGE-1": 0.16030534351145037,
+            "ROUGE-2": 0.030769230769230767,
+            "ROUGE-L": 0.12213740458015267
+        }
+    },
+    {
+        "recipe_name": "Chocolate Delight",
+        "ingredients": [
+            "1 stick butter",
+            "1 c. plain flour",
+            "1/2 c. nuts",
+            "8 oz. cream cheese",
+            "1 c. powdered sugar",
+            "2 (9 oz.) Cool Whip",
+            "2 pkg. chocolate instant pudding",
+            "3 c. milk"
+        ],
+        "instructions": [
+            "Mix butter, flour and nuts.",
+            "Grease pan with butter and bake 10 to 15 minutes at 300\u00b0.",
+            "Cool."
+        ],
+        "response": "**Step 1: Culinary Exploration**\n\n* **Culinarian Choice:** French Bistro (classic buttered steak with creamy sauce)\n* **Method:** Pan-frying with a rich sauce\n* **Flavor Profile:** Rich, savory, and slightly spicy\n\n**Step 2: Flavor Balancing**\n\n* **Sweet and Savory:** Balance the richness of the cream cheese with the sweetness of the powdered sugar and chocolate pudding.\n* **Nutty and Creamy:** Include the nuts for a satisfying crunch and pair them with the creamy cream cheese.\n\n**Step 3: Culinary Harmony**\n\n* **Milk and Cream:** Use whole milk for a rich and creamy base, and incorporate a small amount of heavy cream for a velvety texture.\n* **Chocolate and Cream Cheese:** The chocolate instant pudding adds a rich and decadent element, while the cream cheese provides a light and airy contrast.\n\n**Step 4: Culinary Elegance**\n\n* **Presentation:** Serve in individual ramekins or individual plates for a refined presentation.\n* **Accompaniments:** A drizzle of chocolate sauce and fresh fruit, such as strawberries or raspberries, enhance the flavors.\n\n**Step 5: Final Touches**\n\n* **Whipped Cream Symphony:** Whip the cream cheese to a stiff peak and fold it gently into the mixture.\n* **Final Glaze:** Combine the chocolate pudding and milk to create a smooth and decadent glaze.\n\n**Step 6: Culinary Revelation**\n\nThis recipe is a culinary revelation that combines the elegance of French cuisine with the richness of American comfort food. The interplay of flavors and textures creates a symphony on the palate, leaving a lasting impression.",
+        "evaluation": {
+            "BLEU": 6.532350510338584e-232,
+            "ROUGE-1": 0.056,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.048
+        }
+    },
+    {
+        "recipe_name": "Beef Pastichio(Greek)  ",
+        "ingredients": [
+            "1 1/2 lb. ground beef",
+            "1 (7 oz.) pkg. elbow macaroni",
+            "2 Tbsp. butter or margarine",
+            "1/4 c. flour",
+            "3 c. milk",
+            "1 large onion, finely chopped",
+            "1 tsp. salt",
+            "1/4 tsp. pepper",
+            "1/2 tsp. cinnamon",
+            "1/8 tsp. oregano leaves",
+            "1 (10 3/4 oz.) can tomato puree",
+            "3 eggs",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Prepare macaroni per package directions; drain.",
+            "Rinse with cold water; drain.",
+            "Stir flour into melted butter or margarine in heavy saucepan.",
+            "Gradually stir in milk and cook until thick, stirring occasionally.",
+            "Cover and cool.",
+            "Brown onion and ground beef in large frying pan.",
+            "Pour off drippings.",
+            "Sprinkle salt, pepper, cinnamon and oregano over beef.",
+            "Stir in tomato puree; cook slowly for 10 minutes."
+        ],
+        "response": "**Step 1: Classic Italian Beef Macaroni**\n\n* Use the ground beef and cook until browned.\n* Add the elbow macaroni and cook according to the package instructions.\n* In a separate pan, melt the butter or margarine and cook the onion until translucent.\n* Add the flour and cook for 1 minute, then add the milk and bring to a simmer.\n* Add the cooked pasta, tomato puree, and eggs to the pan and cook until heated through.\n* Season with salt, pepper, and oregano.\n* Serve with grated Parmesan cheese on top.\n\n**Step 2: Tex-Mex Beef Mac and Cheese**\n\n* Use the ground beef and cook until browned.\n* Add the elbow macaroni and cook according to the package instructions.\n* In a skillet, cook the onion and garlic until translucent.\n* Add the flour and cook for 1 minute, then add the milk and bring to a simmer.\n* Add the cooked pasta, tomato sauce, and cheese to the skillet and cook until heated through.\n* Season with salt, pepper, and chili powder (if desired).\n* Serve with a side of tortilla chips and guacamole.\n\n**Step 3: Asian Beef Noodles**\n\n* Use the ground beef and cook until browned.\n* Add the noodles to a large pot of salted water and cook according to the package instructions.\n* In a separate pan, cook the onion and garlic until translucent.\n* Add the noodles, vegetables (such as broccoli or carrots), and sauce (such as soy sauce or hoisin sauce) to the pot and cook until heated through.\n* Season with salt, pepper, and sesame oil.\n* Serve with a side of steamed broccoli or rice.\n\n**Step 4: Mediterranean Beef Pasta**\n\n* Use the ground beef and cook until browned.\n* Add the pasta to a large pot of salted water and cook according to the package instructions.\n* In a skillet, cook the onion and garlic until translucent.\n* Add the flour and cook for 1 minute, then add the marinara sauce and cook until heated through.\n* Add the cooked pasta, vegetables (such as zucchini or eggplant), and cheese to the skillet and cook until heated through.\n* Season with salt, pepper, and oregano.\n* Serve with a side of crusty bread.\n\n**Final Recommendation:**\n\nThe best recipe for you will depend on your personal preferences and the occasion. If you prefer a classic Italian dish, go with the Classic Italian Beef Macaroni. If you're looking for a more adventurous option, try the Tex-Mex Beef Mac and Cheese or the Mediterranean Beef Pasta.",
+        "evaluation": {
+            "BLEU": 5.735131679095652e-79,
+            "ROUGE-1": 0.1511879049676026,
+            "ROUGE-2": 0.04338394793926247,
+            "ROUGE-L": 0.1123110151187905
+        }
+    },
+    {
+        "recipe_name": "Shrimp Pasta Salad",
+        "ingredients": [
+            "1 box twisted pasta (8 oz.), cooked, drained and cooled",
+            "2 to 3 tomatoes, chopped or salad tomatoes, halved",
+            "2 large cucumbers, sliced",
+            "1/2 yellow or red bell pepper",
+            "2 to 3 fresh green onions (optional)",
+            "1/2 bottle McCormick Salad Supreme seasoning",
+            "1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)",
+            "1 lb. shrimp, boiled and deveined (may cut in half, if preferred)",
+            "1/2 green bell pepper, cut in small strips",
+            "1 purple onion, cut in small strips"
+        ],
+        "instructions": [
+            "Prepare all ingredients and mix together.",
+            "Chill 1 to 2 hours before serving.",
+            "Better prepared the day before.",
+            "Makes 8 or more servings."
+        ],
+        "response": "**Step 1: Pasta Choice**\n\n- Consider the cooking method: boiling, baking, or grilling.\n- Match the pasta to the desired texture: al dente (slightly firm to the bite).\n\n**Step 2: Tomato Selection**\n\n- Use a combination of chopped and halved tomatoes for visual appeal and flavor.\n- Consider the acidity: fresh or canned diced tomatoes.\n\n**Step 3: Cucumber and Bell Pepper**\n\n- Slice the cucumbers and bell pepper into consistent sizes for even cooking.\n- Consider adding a pinch of salt or pepper to enhance their flavor.\n\n**Step 4: Shrimp and Bell Pepper**\n\n- Simmer the shrimp with the green bell pepper for a flavorful and tender dish.\n- Alternatively, grill or pan-fry the shrimp with the bell pepper.\n\n**Step 5: Dressing and Seasoning**\n\n- Choose between the Italian dressing or homemade vinaigrette.\n- Consider adding a drizzle of olive oil for richness.\n- Season with McCormick Salad Supreme or your preferred salt and pepper.\n\n**Step 6: Assembly**\n\n- Combine the cooked pasta with the tomato mixture, cucumbers, bell peppers, and shrimp.\n- Toss gently to combine.\n- Serve immediately with the creamy Italian dressing or vinaigrette.\n\n**Additional Notes:**\n\n- For a lighter option, reduce the amount of dressing or use a vinaigrette.\n- If you prefer a more complex dish, add a sprinkle of Parmesan cheese or mozzarella cheese.\n- Serve with crusty bread to soak up the flavorful sauce.\n\n**Final Recipe:**\n\n**Pasta Primavera with Shrimp and Tomatoes**\n\n**Ingredients:**\n\n- 1 box twisted pasta (8 oz.)\n- 2 to 3 tomatoes, chopped or halved\n- 2 large cucumbers, sliced\n- 1/2 yellow or red bell pepper, sliced\n- 1/2 green onion (optional)\n- 1/2 bottle McCormick Salad Supreme seasoning\n- 1 (8 oz.) bottle Italian dressing or homemade vinaigrette\n- 1 lb. shrimp, boiled and deveined (may cut in half)\n- 1/2 green bell pepper, cut into small strips\n- 1 purple onion, cut into small strips\n\n**Instructions:**\n\n1. Cook the pasta according to the package instructions.\n2. Combine the chopped and halved tomatoes, cucumbers, bell pepper, and green onion (if using) in a large bowl.\n3. Add the cooked shrimp, green bell pepper, and bell pepper to the bowl.\n4. Season with McCormick Salad Supreme or your preferred salt and pepper.\n5. Add the pasta to the bowl and toss gently to combine.\n6. Serve immediately with the Italian dressing or vinaigrette.",
+        "evaluation": {
+            "BLEU": 6.651334327951481e-232,
+            "ROUGE-1": 0.05569620253164558,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.04050632911392406
+        }
+    },
+    {
+        "recipe_name": "Apricot Delight",
+        "ingredients": [
+            "1 large box apricot or mixed fruit jello",
+            "2 c. boiling water",
+            "2 c. cold water",
+            "1 c. miniature marshmallows",
+            "1 can drained pineapple",
+            "2 large bananas",
+            "2 Tbsp. butter",
+            "2 Tbsp. flour",
+            "1 egg, well beaten",
+            "1/2 c. sugar",
+            "1/2 c. pineapple juice",
+            "8 oz. cream cheese",
+            "1 pkg. Dream Whip"
+        ],
+        "instructions": [
+            "Mix jello, water (hot and cold), marshmallows, pineapple and bananas together and let chill.",
+            "Cook together butter, flour, egg, sugar and pineapple juice.",
+            "Let cook, then spread on top of chilled jello.",
+            "Beat together cream cheese and Dream Whip as directed. Spread as topping."
+        ],
+        "response": "**Culinarian's Journey: A Symphony of Flavors**\n\n**Step 1: A Symphony of Textures**\n\n- Combine the jello, boiling water, and cold water in a large pot.\n- Cook for 10 minutes, stirring constantly.\n- Stir in the miniature marshmallows and pineapple.\n\n**Step 2: A Canvas of Flavors**\n\n- In a separate pan, melt the butter and flour over medium heat.\n- Add the egg and beat until well combined.\n- Add the sugar, pineapple juice, and cream cheese to the pan and whisk until smooth.\n\n**Step 3: A Culinary Dance**\n\n- Divide the jello mixture into two separate bowls.\n- Fold the whipped cream into the first bowl of jello.\n- Gently fold the second bowl of jello into the first, creating a beautiful swirl effect.\n\n**Step 4: A Culinary Finale**\n\n- Pour the jello mixture into a greased 9x13-inch baking dish.\n- Top with the combined fruit mixture and arrange the bananas around the perimeter.\n- Bake for 30 minutes, or until set.\n\n**Step 5: A Culinary Journey**\n\n- Serve warm, allowing the flavors to meld and create a symphony of textures and flavors.\n\n**Additional Notes:**\n\n- For a more intense flavor, use a combination of different fruits in the jello.\n- If you prefer a lighter dessert, reduce the amount of cream cheese in the filling.\n- Dream Whip can be used to add a rich and creamy texture to the jello.\n- Garnish with fresh fruit or a drizzle of caramel for a touch of elegance.\n\n**The final recipe is a testament to the power of careful consideration and the joy of culinary exploration.**",
+        "evaluation": {
+            "BLEU": 2.1773479291642878e-155,
+            "ROUGE-1": 0.176271186440678,
+            "ROUGE-2": 0.034129692832764506,
+            "ROUGE-L": 0.1288135593220339
+        }
+    },
+    {
+        "recipe_name": "Nut Goodie Bars",
+        "ingredients": [
+            "1 (12 oz.) pkg. chocolate chips",
+            "1 (12 oz.) pkg. butterscotch chips",
+            "2 c. peanut butter",
+            "1 c. butter",
+            "1/2 c. evaporated milk",
+            "1/2 c. vanilla pudding mix",
+            "1 tsp. maple flavoring",
+            "2 lb. powdered sugar",
+            "1 lb. Spanish peanuts"
+        ],
+        "instructions": [
+            "Mix ingredients together over hot water.",
+            "Spread half of mixture on a jelly roll pan, 17 x 11 1/2-inch.",
+            "Chill until firm. Melt butter.",
+            "Add milk and pudding mix.",
+            "Bring to boil and boil for 1 minute.",
+            "Remove from heat and add maple flavoring.",
+            "Add sugar and blend until smooth.",
+            "Spread this mixture on cooled first layer.",
+            "Cool.",
+            "Mix peanuts into remaining half of chocolate mixture and spread on top of cooled second layer.",
+            "Chill; cut into small squares as this bar is very rich."
+        ],
+        "response": "**Step 1: Choose a Base**\n\n* **Chocolate Chip Cookie Base:** This classic base provides a sturdy foundation for the other ingredients.\n* **Peanut Butter Brownie Base:** The peanut butter adds richness and a hint of sweetness, while the chocolate chips provide a burst of flavor.\n* **Peanut Butter Fudge Base:** The fudge base offers a rich and creamy base for the chips and butter.\n\n**Step 2: Flavor and Texture**\n\n* **Chocolate Chip Cookie Base:** Add 1/2 tsp. of vanilla extract for a subtle sweetness and chocolate flavor.\n* **Peanut Butter Brownie Base:** Fold in 1/4 cup of chopped Spanish peanuts for a crunchy texture.\n* **Peanut Butter Fudge Base:** Add 1/4 tsp. of sea salt to enhance the peanut flavor.\n\n**Step 3: Cooking Method**\n\n* **Chocolate Chip Cookie Base:** Bake in a 9x13-inch baking pan for 10-12 minutes.\n* **Peanut Butter Brownie Base:** Bake in a 9x13-inch baking pan for 20-25 minutes.\n* **Peanut Butter Fudge Base:** Bake in a 9x13-inch baking pan for 15-20 minutes.\n\n**Step 4: Assembly**\n\n* **Chocolate Chip Cookie Base:** Layer chocolate chips evenly throughout the cookie dough.\n* **Peanut Butter Brownie Base:** Spread peanut butter evenly over the base before adding chocolate chips.\n* **Peanut Butter Fudge Base:** Spread peanut butter evenly over the base before adding chocolate chips and butter.\n\n**Step 5: Finishing Touches**\n\n* **Chocolate Chip Cookie Base:** Drizzle with chocolate sauce or melted chocolate.\n* **Peanut Butter Brownie Base:** Sprinkle with chopped nuts or chocolate shavings.\n* **Peanut Butter Fudge Base:** Top with whipped cream and a drizzle of chocolate sauce.\n\n**Final Recipe: Chocolate Chip Cookie Base**\n\nThis recipe combines the richness of chocolate chips with the warmth of peanut butter and the creamy texture of fudge for a satisfying and balanced dessert.",
+        "evaluation": {
+            "BLEU": 1.8272075001580962e-155,
+            "ROUGE-1": 0.1827956989247312,
+            "ROUGE-2": 0.016216216216216214,
+            "ROUGE-L": 0.0967741935483871
+        }
+    },
+    {
+        "recipe_name": "Milk Chocolate Pie",
+        "ingredients": [
+            "3 slightly heaping Tbsp. cocoa",
+            "1 1/2 c. sugar",
+            "pinch of salt",
+            "3 Tbsp. cornstarch",
+            "3 eggs, separated",
+            "1/4 stick margarine",
+            "1 large can Pet or Carnation milk",
+            "regular milk",
+            "6 heaping tsp. sugar",
+            "1/4 tsp. cream of tartar",
+            "1 baked pie shell"
+        ],
+        "instructions": [
+            "Mix first four ingredients.",
+            "Add well beaten egg yolks and mix (reserve whites for meringue and set aside).",
+            "Add margarine and canned milk with enough regular milk to make 3 cups.",
+            "Place in heavy saucepan and cook thick.",
+            "A heavy pan is very important. Beat with electric mixer and pour into a baked pie shell.",
+            "Top with meringue."
+        ],
+        "response": "**Step 1: Consider the Culinary Style**\n\n* **Chocolate Lover's Delight:** Embrace the rich flavor of cocoa by incorporating it into a rich chocolate cake base.\n* **Sweet and Savory Fusion:** Create a harmonious balance between sweet and savory elements by combining the cocoa with savory elements like bacon or mushrooms.\n* **Light and Refreshing:** Opt for a lighter option with a lower sugar content and a refreshing milk base.\n\n**Step 2: Choose the Cooking Method**\n\n* **Traditional Cake Method:** Bake the cake in a traditional pie shell for a classic and elegant presentation.\n* **Quick and Easy Batter:** For a quicker option, prepare a quick and easy batter and pour it into a baking dish.\n* **Pan-Frying Bliss:** Create a rich and flavorful cake by pan-frying the edges and baking the center.\n\n**Step 3: Balance the Flavors**\n\n* **Sweet and Tangy:** Combine the cocoa with a tangy fruit filling for a refreshing and balanced dessert.\n* **Chocolate and Cream:** Layer chocolate cake with rich cream for a decadent and luxurious treat.\n* **Caramel and Nuts:** Add caramel sauce or chopped nuts for a warm and satisfying dessert.\n\n**Step 4: Enhance the Presentation**\n\n* **Decorative Glaze:** Create a rich chocolate glaze to drizzle over the cake for a touch of elegance.\n* **Whipped Cream and Berries:** Top the cake with fresh whipped cream and seasonal berries for a visually appealing and flavorful dessert.\n\n**Step 5: Adjust the Sugar Content**\n\n* **Lower Sugar:** Reduce the sugar content to create a lighter and more balanced dessert.\n* **Higher Sugar:** Increase the sugar content for a richer and more indulgent treat.\n\n**Final Recipe: Chocolate Cream Cake**\n\nThis recipe combines the rich flavors of cocoa, cream, and eggs with a light and refreshing milk base. The cake is decorated with a rich chocolate glaze and fresh whipped cream for a visually stunning and delicious dessert.",
+        "evaluation": {
+            "BLEU": 2.1323435175509467e-155,
+            "ROUGE-1": 0.15083798882681562,
+            "ROUGE-2": 0.02247191011235955,
+            "ROUGE-L": 0.08379888268156425
+        }
+    },
+    {
+        "recipe_name": "Salmon Casserole Special",
+        "ingredients": [
+            "1 medium onion, minced",
+            "1 clove garlic, minced",
+            "1/4 c. olive oil",
+            "2 (1 lb.) cans tomatoes, chopped",
+            "1 (6 oz.) can tomato paste",
+            "1 tsp. salt",
+            "1/2 tsp. pepper",
+            "1 tsp. basil",
+            "1/2 tsp. oregano",
+            "1/4 c. chopped parsley",
+            "1 lb. broad green noodles",
+            "8 oz. Mozzarella, sliced",
+            "1 lb. Ricotta or creamed cottage cheese",
+            "1 (1 lb.) can salmon, drained and flaked",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Cook onion and garlic in hot olive oil until soft.",
+            "Add next 7 ingredients and simmer 30 minutes, stirring frequently."
+        ],
+        "response": "**Step 1: Italian Classic**\n\n* Use olive oil for saut\u00e9ing the onion and garlic until translucent.\n* Add tomatoes, tomato paste, salt, and pepper. Simmer for 15 minutes.\n* Add basil, oregano, and parsley.\n* Cook the noodles according to package instructions.\n* Top with mozzarella, ricotta, and salmon.\n\n**Step 2: Mediterranean Twist**\n\n* Roast the onion and garlic with olive oil and herbs.\n* Simmer the tomatoes with tomato paste, salt, and pepper.\n* Add olives and capers to the simmering sauce.\n* Cook the noodles according to package instructions.\n* Serve over pasta with mozzarella and ricotta.\n\n**Step 3: Asian Fusion**\n\n* Saute the onion and garlic with olive oil.\n* Add tomatoes, tomato paste, and noodles. Simmer for 15 minutes.\n* Stir in basil, oregano, and sesame oil.\n* Serve over rice noodles with mozzarella and ricotta.\n\n**Step 4: Creamy Italian**\n\n* Saute the onion and garlic with olive oil.\n* Add tomatoes, tomato paste, and basil. Simmer for 15 minutes.\n* Add mozzarella and ricotta.\n* Cook the noodles according to package instructions.\n* Serve with grated Parmesan cheese.\n\n**Final Choice:**\n\nThe best recipe depends on your taste preferences and the occasion. If you prefer a classic Italian dish, go with the Italian Classic option. For a Mediterranean twist, try the Mediterranean Twist. If you're looking for an Asian fusion, opt for the Asian Fusion option. And for a creamy Italian dish, choose the Creamy Italian option.",
+        "evaluation": {
+            "BLEU": 4.687700701444413e-79,
+            "ROUGE-1": 0.10655737704918034,
+            "ROUGE-2": 0.03305785123966942,
+            "ROUGE-L": 0.0901639344262295
+        }
+    },
+    {
+        "recipe_name": "Crock-Pot Meatballs",
+        "ingredients": [
+            "2 lb. ground meat",
+            "2 onions, minced",
+            "3/4 c. milk",
+            "2 c. breadcrumbs",
+            "4 eggs",
+            "1/2 tsp. garlic powder",
+            "1 Tbsp. dill weed",
+            "2 Tbsp. dill weed",
+            "3 cans cream of mushroom soup"
+        ],
+        "instructions": [
+            "Mix first 7 ingredients together.",
+            "Make into balls and put on cookie sheets; close together.",
+            "Put in 350\u00b0 oven for 15 minutes. Bump the pan and bake for 5 more minutes.",
+            "Refrigerate until ready to heat in crock-pot.",
+            "Add cream sauce (3 cans of cream of mushroom soup and 2 tablespoons dill weed).",
+            "Heat until warmed.",
+            "Great for parties.",
+            "Makes a big batch."
+        ],
+        "response": "**Step 1: Culinary Exploration**\n\n* **Culinarian Cuisine:** Consider the desired cuisine, whether it's Italian, Asian, or Mexican. Each cuisine has its unique flavor profile and cooking techniques.\n* **Cooking Method:** Explore different cooking methods like braising, grilling, pan-frying, or slow-cooking. Each method brings out different textures and flavors.\n* **Complementary Flavors:** Think about complementary flavors that would enhance the dish. For example, if you're making a meatloaf, consider adding vegetables like carrots or onions.\n\n**Step 2: Recipe Brainstorming**\n\n* **Italian:** Marinate the ground meat in olive oil, garlic, and herbs. Roast with tomatoes and mozzarella cheese.\n* **Asian:** Stir-fry the ground meat with vegetables like broccoli and carrots. Serve over rice with a sweet and sour sauce.\n* **Mexican:** Make a chili with ground meat, beans, and vegetables. Serve with tortillas and guacamole.\n\n**Step 3: Trial and Error**\n\n* Choose a few recipes that appeal to you and give them a try.\n* Pay attention to the cooking time and temperature.\n* Taste and adjust seasonings as needed.\n\n**Step 4: Final Selection**\n\n* Choose the recipe that best aligns with your culinary vision, cooking skills, and desired outcome.\n* Consider the balance of flavors, the cooking time, and the ingredients available.\n\n**Remember:**\n\n* Experimentation is key to finding the perfect recipe.\n* Don't be afraid to try new flavors and techniques.\n* Take your time and savor the process of creating a delicious meal.",
+        "evaluation": {
+            "BLEU": 8.483059838912373e-232,
+            "ROUGE-1": 0.11724137931034484,
+            "ROUGE-2": 0.006944444444444444,
+            "ROUGE-L": 0.06896551724137931
+        }
+    },
+    {
+        "recipe_name": "Wild Rice Casserole",
+        "ingredients": [
+            "1 lb. sausage",
+            "1 medium onion, chopped",
+            "1 medium green pepper, chopped",
+            "1/2 c. celery, chopped",
+            "1 (6 oz.) pkg. long grain and wild rice mix",
+            "1 can cream chicken soup",
+            "1 can cream mushroom soup",
+            "1 c. shredded Cheddar cheese",
+            "1 (4 oz.) can sliced mushrooms, drained"
+        ],
+        "instructions": [
+            "Brown sausage in skillet, reserving drippings. Saute onion, green pepper and celery in drippings. Combine sausage, sauted vegetables, long grain and wild rice mix (including seasoning packet), soups, cheese and mushrooms. Spoon into a shallow 2-quart casserole dish. Cover and bake at 325\u00b0 for 1 hour or until done."
+        ],
+        "response": "**Step 1: Culinary Exploration**\n\n* **Italian:** Marinate the sausage in olive oil, garlic, and basil for 30 minutes. Roast with tomatoes, mozzarella cheese, and basil.\n* **Tex-Mex:** Saute the sausage with onions and green peppers. Serve over tortillas with cream cheese, guacamole, and sour cream.\n* **Asian Fusion:** Stir-fry the sausage with vegetables and brown rice noodles. Serve with a peanut dipping sauce.\n\n**Step 2: Flavorful Choices**\n\n* **Creamy Comfort:** Combine cream chicken and mushroom soups, then add cheese and mushrooms. Simmer until creamy.\n* **Spicy Fiesta:** Saute sausage with onions and green peppers. Serve over tortillas with salsa, guacamole, and cheese.\n* **Mediterranean Delight:** Roast the sausage with tomatoes, olives, and feta cheese. Serve with a side of Greek yogurt.\n\n**Step 3: Methodical Approach**\n\n* **Slow and Low:** Braise the sausage in a flavorful sauce for hours.\n* **Quick and Easy:** Roast the sausage with vegetables and rice noodles.\n* **Pan-Frying Perfection:** Fry the sausage in a pan with a crispy crust.\n\n**Step 4: Complementary Flavors**\n\n* **Sweet and Savory:** Combine cream chicken and mushroom soup with roasted vegetables.\n* **Spicy and Creamy:** Add chili flakes to the sausage filling.\n* **Fruity and Bold:** Add fresh fruit to the finished dish.\n\n**Final Recommendation:**\n\nThe best recipe depends on your personal preferences and the occasion. If you crave creamy comfort, go for the creamy chicken and mushroom soup. For a fiesta of flavors, try the Asian fusion option. And if you're looking for a quick and easy meal, consider the pan-fried sausage.",
+        "evaluation": {
+            "BLEU": 5.2502620465071564e-79,
+            "ROUGE-1": 0.18305084745762712,
+            "ROUGE-2": 0.027303754266211604,
+            "ROUGE-L": 0.1288135593220339
+        }
+    },
+    {
+        "recipe_name": "Spiced Apple Muffins",
+        "ingredients": [
+            "3 c. flour",
+            "4 tsp. baking powder",
+            "2 tsp. salt",
+            "3 Tbsp. sugar",
+            "1/2 c. shortening",
+            "2 eggs, well beaten",
+            "1 1/4 c. milk",
+            "1 c. chopped apples",
+            "2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon"
+        ],
+        "instructions": [
+            "Combine dry ingredients and cut in shortening.",
+            "Mix eggs and milk and add to flour mixture.",
+            "Fold in apples.",
+            "Put batter in greased muffin tins and sprinkle with sugar and cinnamon mix. Bake at 425\u00b0 for 25 minutes."
+        ],
+        "response": "**Culinarian's Journey: A Recipe Revelation**\n\n**Step 1: A Symphony of Flavors**\n\n* Begin by considering the culinary landscape. What global cuisines tantalize your taste buds? Explore the vibrant tapestry of Asian noodles, Latin American empanadas, or European pastries.\n\n**Step 2: A Balancing Act**\n\n* Next, ponder the balance of flavors. Do you crave a symphony of sweet and savory? A dance between tangy and creamy? Embrace the power of contrasting elements like sweet apples and spicy cinnamon.\n\n**Step 3: A Culinary Canvas**\n\n* Now, let's paint a canvas with textures. Consider the soft and fluffy, like a delicate souffl\u00e9, or the hearty and rustic, like a hearty stew.\n\n**Step 4: A Culinary Journey**\n\n* Choose a cooking method that best complements your vision. Will you embark on a global expedition with an open-fire cooking technique, or create a cozy and comforting stew in your kitchen?\n\n**Step 5: The Sweet and the Savory**\n\n* Don't forget the interplay of textures. Imagine the crunch of apples contrasting with the tenderness of the dough, or the creamy filling complementing the savory notes of the apples.\n\n**Step 6: The Culinary Alchemist**\n\n* Experiment with different combinations of ingredients. Play with the ratios of flour to baking powder, sugar to milk, and cinnamon to apples.\n\n**Step 7: The Final Symphony**\n\n* After countless iterations, you'll arrive at a harmonious balance of flavors, textures, and emotions. This is your culinary masterpiece, a symphony of taste that will leave your taste buds dancing in a chorus of delight.\n\n**The Recipe:**\n\n* Ingredients: 3 c. flour, 4 tsp. baking powder, 2 tsp. salt, 3 Tbsp. sugar, 1/2 c. shortening, 2 eggs, well beaten, 1 1/4 c. milk, 1 c. chopped apples, 2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon.\n\n* Cooking Method: Baking\n\n* Final Touches: Brush with a glaze of your choice, such as a simple syrup of honey and lemon juice, or a rich chocolate ganache.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.6117232538903911e-155,
+            "ROUGE-1": 0.11764705882352941,
+            "ROUGE-2": 0.01126760563380282,
+            "ROUGE-L": 0.061624649859943974
+        }
+    },
+    {
+        "recipe_name": "Burritos",
+        "ingredients": [
+            "1 lb. ground beef",
+            "1 large can refried beans",
+            "1 small can refried beans",
+            "8 oz. Mozzarella cheese, grated",
+            "8 oz. mild Cheddar cheese, grated",
+            "8 to 10 oz. picante sauce",
+            "1 large onion, chopped",
+            "sour cream",
+            "flour tortillas"
+        ],
+        "instructions": [
+            "Brown ground beef; drain off grease.",
+            "Add refried beans and picante sauce.",
+            "Heat thoroughly.",
+            "Add cheeses.",
+            "Cook until cheese melts."
+        ],
+        "response": "**Culinarian's Journey: A Symphony of Flavors**\n\n**Step 1: The Base**\n\n* Begin by simmering the refried beans with the ground beef, onion, and spices for 30 minutes.\n* Season with salt and pepper to taste.\n\n**Step 2: The Creamy Canvas**\n\n* Melt the mozzarella and cheddar cheeses in a pan over medium heat.\n* Stir in the diced onions and cook until translucent.\n* Add the melted cheeses and stir until melted and combined.\n\n**Step 3: The Flavorful Symphony**\n\n* Add the cooked refried beans and picante sauce to the pan.\n* Simmer for 5 minutes, allowing the flavors to meld.\n\n**Step 4: The Textural Dance**\n\n* To achieve a crispy exterior and a soft interior, cook the tortillas in a pan with a little oil.\n* Serve the chili in warm tortillas with a dollop of sour cream and a sprinkle of fresh cilantro.\n\n**Step 5: The Culinary Finale**\n\n* Garnish with grated Parmesan cheese and serve with a side of crusty bread for dipping.\n* Enjoy the symphony of flavors in this unique and satisfying chili.\n\n**Additional Notes:**\n\n* For a richer dish, use a combination of different cheeses, such as Gruyere or Parmesan.\n* If you prefer a spicier chili, adjust the amount of picante sauce.\n* Serve with a side of crusty bread for dipping, or enjoy it on its own.\n\n**The culinary journey is an exploration of flavors, textures, and techniques. By carefully considering each step, we arrive at the perfect balance of taste and satisfaction.**",
+        "evaluation": {
+            "BLEU": 0.01198688412846086,
+            "ROUGE-1": 0.11627906976744186,
+            "ROUGE-2": 0.046875,
+            "ROUGE-L": 0.07751937984496125
+        }
+    },
+    {
+        "recipe_name": "Toll House Pie",
+        "ingredients": [
+            "2 eggs",
+            "1/2 c. all-purpose flour",
+            "1/2 c. sugar",
+            "1/2 c. firmly packed brown sugar",
+            "1 c. butter, melted and cooled to room temperature",
+            "1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels",
+            "1 c. chopped walnuts",
+            "1 (9-inch) unbaked pie shell",
+            "whipped cream or ice cream (optional)"
+        ],
+        "instructions": [
+            "Preheat oven to 325\u00b0.",
+            "In large bowl, beat eggs until foamy; beat in flour, sugar and brown sugar until well blended.",
+            "Blend in melted butter.",
+            "Stir in chocolate morsels and walnuts.",
+            "Pour into pie shell.",
+            "Bake for 1 hour.",
+            "Remove from oven.",
+            "Serve warm with whipped cream or ice cream.",
+            "(This recipe may be doubled.",
+            "Bake 2 pies, freeze one for later use.)"
+        ],
+        "response": "**Culinarian's Journey: A Symphony of Flavors**\n\n**Step 1: A Base of Brilliance**\n\n- Begin by whisking together the eggs, 1/2 c. flour, and 1/2 c. sugar in a large bowl.\n- Add the melted and cooled butter and whisk until well combined.\n\n**Step 2: A Sweet and Savory Embrace**\n\n- In a separate bowl, melt the brown sugar and 1/2 c. chocolate morsels in a saucepan.\n- Fold the chocolate mixture into the egg mixture in three additions, ensuring smooth incorporation.\n\n**Step 3: A Nutty Delight**\n\n- Add the chopped walnuts to the batter and fold gently.\n- Season with salt and pepper to taste.\n\n**Step 4: A Symphony of Textures**\n\n- Pour the batter into the prepared pie shell and bake until set.\n- Serve warm with a scoop of whipped cream or ice cream for a delightful contrast of textures.\n\n**Step 5: A Culinary Journey for the Senses**\n\n- The rich, creamy base provides a satisfying base, while the sweet and savory elements create a harmonious symphony.\n- The nutty crunch and decadent chocolate add a delightful textural contrast.\n- The whipped cream or ice cream adds a touch of indulgence.\n\n**The Final Recipe: A Culinary Masterpiece**\n\nThis recipe is a testament to the power of careful consideration and the joy of exploring different culinary possibilities. By taking the time to carefully evaluate the ingredients and cooking methods, the chef has created a dish that is both delicious and memorable.",
+        "evaluation": {
+            "BLEU": 0.022543328926883103,
+            "ROUGE-1": 0.2751677852348993,
+            "ROUGE-2": 0.08783783783783784,
+            "ROUGE-L": 0.17449664429530198
+        }
+    },
+    {
+        "recipe_name": "Creamy Potato-Onion Soup",
+        "ingredients": [
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. flour",
+            "1 c. finely chopped onion (use processor)",
+            "1 large clove garlic or garlic powder",
+            "2 (14 1/2 oz.) cans (defatted) chicken broth",
+            "4 c. peeled and cubed potatoes",
+            "1/2 c. finely sliced green onion tops",
+            "1/8 tsp. salt",
+            "1/4 tsp. pepper",
+            "1 qt. milk (whole)"
+        ],
+        "instructions": [
+            "Melt butter or margarine in Dutch oven over low heat.",
+            "Add flour to make a paste.",
+            "Cook 1 minute, stirring constantly.",
+            "Add onions and garlic.",
+            "Cook until onions are tender.",
+            "Add broth, milk and potatoes.",
+            "Add seasoning to suit taste.",
+            "Bring to boil; turn heat down low and cook until potatoes are tender.",
+            "Mash with potato masher or put potatoes in food processor until smooth. Serve with grated sharp cheese and green onion tops.",
+            "Good with corn muffins."
+        ],
+        "response": "**Step 1: Culinary Exploration**\n\n* **Mediterranean:** Marinate the chicken in olive oil, lemon juice, oregano, and basil for 30 minutes. Roast with tomatoes, zucchini, and feta cheese.\n* **Asian-Inspired:** Stir-fry the chicken with vegetables like broccoli, carrots, and bell peppers. Serve over rice with a peanut dipping sauce.\n* **Comfort Food:** Make a creamy potato soup with the chicken, onions, and green onions. Season with salt and pepper.\n\n**Step 2: Cooking Comparisons**\n\n* **Roasting:** The roasted chicken with Mediterranean or Asian-inspired flavors offers a burst of flavor.\n* **Stir-frying:** The stir-fried chicken is quick and easy, but the Asian-inspired version with vegetables adds a different dimension.\n* **Soup:** The creamy potato soup is a satisfying and comforting dish, but the chicken is less prominent.\n\n**Step 3: Flavor Coordination**\n\n* **Mediterranean:** The salty feta and olives complement the chicken's richness.\n* **Asian-Inspired:** The peanut dipping sauce balances the sweetness of the vegetables.\n* **Comfort Food:** The creamy soup pairs well with the chicken's savory flavor.\n\n**Step 4: Final Selection**\n\nThe Mediterranean option best balances the flavors and techniques. The chicken is marinated and roasted with Mediterranean flavors, resulting in a complex and satisfying dish.",
+        "evaluation": {
+            "BLEU": 2.1158281750623953e-155,
+            "ROUGE-1": 0.1992619926199262,
+            "ROUGE-2": 0.029739776951672865,
+            "ROUGE-L": 0.12546125461254612
+        }
+    }
+]

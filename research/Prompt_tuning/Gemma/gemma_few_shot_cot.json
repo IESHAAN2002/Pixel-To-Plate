@@ -1,0 +1,1216 @@
+[
+    {
+        "recipe_name": "Mozzarella Chicken(Over Sauce)  ",
+        "ingredients": [
+            "2 1/2 to 3 lb. chicken",
+            "2 eggs, beaten",
+            "1/2 c. dry bread crumbs",
+            "1/4 c. butter",
+            "1 (8 oz.) can tomato sauce",
+            "1/2 tsp. dried basil",
+            "cooked egg noodles",
+            "Mozzarella Sauce",
+            "1/2 c. shredded cheese (Mozzarella)",
+            "1/4 tsp. paprika"
+        ],
+        "instructions": [
+            "Cut chicken into serving size pieces.",
+            "Dip into eggs; coat with crumbs.",
+            "Heat butter in skillet.",
+            "Cook chicken over medium heat until brown.",
+            "Stir in tomato sauce and basil.",
+            "Reduce heat; cover and cook over low heat for about 30 minutes, turning chicken every 10 minutes.",
+            "Prepare sauce.",
+            "Put noodles in a 9 x 13-inch pan.",
+            "Arrange chicken on top.",
+            "Spoon sauce over chicken.",
+            "Sprinkle cheese and paprika.",
+            "Broil 6 to 7 inches from broiler until cheese is melted and bubbly."
+        ],
+        "response": "**Grilled Chicken with Tomato Basil Sauce**\n\n**Ingredients:**\n\n* 2 1/2 to 3 lb. chicken, cut into 4 equal pieces\n* 2 eggs, beaten\n* 1/2 c. dry bread crumbs\n* 1/4 c. butter\n* 1 (8 oz.) can tomato sauce\n* 1/2 tsp. dried basil\n* Cooked egg noodles\n* Mozzarella Sauce\n* 1/2 c. shredded cheese (Mozzarella)\n* 1/4 tsp. paprika\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Pat chicken dry and season with salt and pepper.\n3. In a shallow dish, combine eggs, bread crumbs, and butter.\n4. Brush chicken with egg mixture and grill for 10-15 minutes per side, or until cooked through.\n5. Serve with tomato sauce, mozzarella cheese, and cooked egg noodles.\n\n**Tips:**\n\n* For a more flavorful sauce, add 1/4 cup of chopped fresh basil or oregano to the tomato sauce before cooking.\n* Serve with a side of crusty bread to soak up the sauce.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 2.5136660413487845e-155,
+            "ROUGE-1": 0.30901287553648066,
+            "ROUGE-2": 0.03463203463203463,
+            "ROUGE-L": 0.17167381974248927
+        }
+    },
+    {
+        "recipe_name": "Moussaka",
+        "ingredients": [
+            "2 medium eggplants",
+            "vegetable oil",
+            "1 lb. lean ground beef",
+            "2 medium onions, peeled and chopped",
+            "2 cloves garlic, peeled and crushed",
+            "1 (8 oz.) can tomato sauce",
+            "1 tsp. dried leaf oregano",
+            "1 tsp. salt, divided",
+            "1/4 tsp. black pepper, divided",
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. all-purpose flour",
+            "1 c. low-fat milk",
+            "1 egg",
+            "1/3 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Peel eggplants; slice 1/4-inch thick. Brush rimmed cookie sheet with oil. Coat each slice of eggplant on both sides with oil; place on cookie sheet.",
+            "Broil close to broiler until brown. Turn; brush with oil, if necessary.",
+            "Brown the other side. Repeat with all the eggplant slices."
+        ],
+        "response": "**Grilled Vegetable and Beef Skewers**\n\n**Ingredients:**\n\n- 2 large eggplants, sliced into 1/2-inch thick rounds\n- 1 lb. of extra lean ground beef, cooked and shredded\n- 2 medium onions, diced\n- 2 cloves garlic, minced\n- 1 (8 oz.) can tomato sauce\n- 1 tsp. dried oregano\n- 1 tsp. salt\n- 1/4 tsp. black pepper\n- 2 Tbsp. butter or margarine\n- 2 Tbsp. all-purpose flour\n- 1 cup low-fat milk\n- 1 egg\n- 1/3 c. grated Parmesan cheese\n\n**Instructions:**\n\n1. Preheat a grill to medium-high heat.\n2. Thread the eggplants, ground beef, onions, and garlic onto skewers, leaving about 2 inches of space between each skewer.\n3. In a small bowl, whisk together the tomato sauce, oregano, salt, and pepper.\n4. Brush the skewers with the butter or margarine and sprinkle with the flour.\n5. Grill the skewers for 10-15 minutes, or until the vegetables are tender and the beef is cooked to medium-rare.\n6. Serve immediately with the tomato sauce.\n\n**Tips:**\n\n- For a smoky flavor, add a few wood chips to the grill.\n- Serve with a side of grilled vegetables, such as zucchini or bell peppers.\n- Serve with a dipping sauce, such as ranch dressing or pesto.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 8.757692451095618e-232,
+            "ROUGE-1": 0.16129032258064518,
+            "ROUGE-2": 0.032520325203252036,
+            "ROUGE-L": 0.10483870967741937
+        }
+    },
+    {
+        "recipe_name": "Blueberry Muffins With Lemon",
+        "ingredients": [
+            "2 c. sifted flour",
+            "1/3 c. sugar",
+            "3 tsp. baking powder",
+            "1 tsp. salt",
+            "1 egg, beaten",
+            "1 c. milk",
+            "1/4 c. melted butter, cooled",
+            "1 c. fresh or thawed blueberries",
+            "1 Tbsp. sugar and grated lemon rind, mixed"
+        ],
+        "instructions": [
+            "Sift together flour, sugar, baking powder and salt.",
+            "Mix with fork the beaten egg, milk and butter."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Brown the ground beef in a large skillet over low heat.\n5. Drain any grease from the meat.\n6. Add the flour, salt, and pepper to a large bowl.\n7. Add the egg, milk, and butter to the bowl and whisk until smooth.\n8. Add the cooked and crumbled ground beef, potato, green onions, and bacon to the bowl.\n9. Cook until heated through.\n10. Stir in the sour cream (if desired).\n11. Sprinkle with cheese, bacon, and green onions.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 8.102834935834574e-232,
+            "ROUGE-1": 0.09166666666666665,
+            "ROUGE-2": 0.025210084033613446,
+            "ROUGE-L": 0.08333333333333333
+        }
+    },
+    {
+        "recipe_name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "1 head cabbage",
+            "1 lb. ground beef",
+            "1/2 c. rice",
+            "1 small onion, chopped",
+            "2 eggs",
+            "salt and pepper to taste",
+            "1 large onion, sliced",
+            "2 (8 oz.) cans tomato sauce",
+            "2 (29 oz.) cans tomatoes",
+            "juice of 2 lemons",
+            "1/2 c. packed brown sugar"
+        ],
+        "instructions": [
+            "Pour boiling water over cabbage in bowl.",
+            "Let stand for several minutes to loosen leaves; drain.",
+            "Combine ground beef, rice, chopped onion, eggs, salt and pepper in bowl."
+        ],
+        "response": "**Grilled Steak with Roasted Vegetables**\n\n**Ingredients:**\n\n* 1 ribeye steak, 1 tbsp. olive oil, salt, pepper to taste\n* 1 tbsp. chopped onion\n* 1 tbsp. chopped green bell pepper\n* 1 tbsp. chopped red bell pepper\n* 1 tbsp. chopped rosemary\n* 1 tbsp. chopped thyme\n* 1 tbsp. olive oil\n* 1 tbsp. balsamic vinegar\n* 1 tbsp. Dijon mustard\n* 1 tbsp. Worcestershire sauce\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Pat steak dry with paper towels.\n3. Season steak with salt and pepper.\n4. Grill steak for 5-7 minutes per side, or until cooked to desired doneness.\n5. Remove steak from grill and let rest for 5 minutes before slicing and serving.\n6. Roast vegetables:\n    * Heat olive oil in a large skillet over medium heat.\n    * Add onion, green bell pepper, and red bell pepper and cook until tender and slightly browned, about 5 minutes.\n    * Add rosemary, thyme, and olive oil and cook for 1 minute, stirring constantly.\n    * Add tomatoes and tomato sauce and simmer for 10 minutes, or until heated through.\n7. Serve steak with roasted vegetables.\n\n**Tips:**\n\n* For a more flavorful steak, use a high-quality cut of meat.\n* To make the vegetables more tender, roast them for longer or add them to the grill during the last few minutes of cooking the steak.\n* Serve with a side of mashed potatoes or baked potatoes.\n* Top the steak with a drizzle of balsamic vinaigrette.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.6895233589879028e-155,
+            "ROUGE-1": 0.0846153846153846,
+            "ROUGE-2": 0.023255813953488372,
+            "ROUGE-L": 0.053846153846153856
+        }
+    },
+    {
+        "recipe_name": "Oriental Salad",
+        "ingredients": [
+            "1 can LeSueur small peas",
+            "1 can Shoe Peg white corn",
+            "1 can French-cut green beans",
+            "1 (16 oz.) can bean sprouts",
+            "1 (4 oz.) jar pimientos",
+            "1 large onion, shredded fine",
+            "1 (6 oz.) jar sliced mushrooms",
+            "1 (10 oz.) can water chestnuts",
+            "1 large green pepper, chopped",
+            "1 c. celery, chopped",
+            "1 c. salad oil",
+            "1/2 c. vinegar",
+            "1 c. water",
+            "3/4 c. sugar",
+            "salt and pepper to taste"
+        ],
+        "instructions": [
+            "Drain vegetables well.",
+            "Put in blender and mix salad oil, vinegar, water, sugar, salt and pepper to taste.",
+            "Pour over vegetables and mix together.",
+            "Place in refrigerator overnight before serving.",
+            "Keeps well for 2 weeks."
+        ],
+        "response": "**Roasted Potatoes with Bacon and Green Onions**\n\nIngredients:\n- 6 baking potatoes, washed and cut into 1/2-inch thick slices\n- 1 lb. of extra lean ground beef, browned\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onions, chopped\n- 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. Toss potatoes with a tablespoon of olive oil and salt and pepper. Roast for 20-25 minutes, or until tender and golden brown.\n3. While potatoes are roasting, brown the ground beef in a large skillet over medium heat. Drain any grease from the meat.\n4. Add the browned ground beef to the potatoes and cook until heated through.\n5. Add the green onions and sour cream (if using) to the potato mixture and stir to combine.\n6. Serve immediately with additional cheese if desired.\n\n**Tips:**\n\n- For a richer dish, use high-quality ground beef.\n- If you don't have cheddar cheese, you can substitute with another type of cheese, such as mozzarella or Parmesan.\n- Serve with a side of crusty bread to soak up the delicious juices.\n\n**Additional Notes:**\n\n- The cooking time for the potatoes may vary depending on the size of your potatoes.\n- If the potatoes are too dry, add a tablespoon of water or milk to the roasting pan.\n- Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.",
+        "evaluation": {
+            "BLEU": 1.6248900945933998e-155,
+            "ROUGE-1": 0.09491525423728814,
+            "ROUGE-2": 0.013651877133105802,
+            "ROUGE-L": 0.061016949152542375
+        }
+    },
+    {
+        "recipe_name": "Pecan Pie Bars",
+        "ingredients": [
+            "2 1/2 c. flour",
+            "1 c. (2 sticks) cold butter or margarine",
+            "1/2 c. sugar",
+            "1/2 tsp. salt",
+            "4 eggs",
+            "1 1/2 c. Karo light or dark corn syrup",
+            "1 1/2 c. sugar",
+            "3 Tbsp. butter or margarine, melted",
+            "1 1/2 tsp. vanilla",
+            "2 1/2 c. pecan halves or coarsely chopped pecans"
+        ],
+        "instructions": [
+            "Cookie Crust:",
+            "Spray a 15 x 10 x 1-inch pan with cooking spray.",
+            "In a large bowl with mixer at medium speed, beat the flour, butter or margarine (cut in pieces), sugar and salt until mixture resembles fine crumbs.",
+            "Press firmly into prepared pan. Bake 20 to 23 minutes or until golden brown.",
+            "Top with filling and complete baking."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Cut in half lengthwise and scoop out the pulp. Reserve the potato pulp.\n5. Brown the ground beef in a large skillet over low heat.\n6. Drain any grease from the meat.\n7. Add the flour to a large bowl and whisk until smooth.\n8. Cook the flour mixture with the milk over medium heat, stirring constantly, until thickened and bubbly.\n9. Add the potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon.\n10. Cook until heated through.\n11. Stir in sour cream if desired.\n12. Sprinkle with remaining cheese, bacon and green onions.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 6.931460196001517e-79,
+            "ROUGE-1": 0.2012987012987013,
+            "ROUGE-2": 0.0457516339869281,
+            "ROUGE-L": 0.09090909090909091
+        }
+    },
+    {
+        "recipe_name": "Catskinner Cake",
+        "ingredients": [
+            "2 c. flour",
+            "2 tsp. baking soda",
+            "1/2 tsp. salt",
+            "2 c. sugar",
+            "1 c. flaked coconut",
+            "3/4 c. buttermilk",
+            "3/4 c. oil",
+            "3 large eggs",
+            "2 tsp. vanilla",
+            "1 (8 oz.) crushed pineapple, drained",
+            "1 c. chopped nuts",
+            "1 c. sugar",
+            "1/2 c. butter",
+            "1/2 c. buttermilk",
+            "3 Tbsp. light corn syrup",
+            "1/2 tsp. vanilla"
+        ],
+        "instructions": [
+            "Combine first 9 ingredients in a large mixing bowl; beat at medium speed 5 minutes. Stir in pineapple and nuts. Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350\u00b0 for 40 to 45 minutes. Set pan on wire rack."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n- 6 baking potatoes, washed and pierced with a fork\n- 1 lb. of extra lean ground beef\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onions, chopped and divided\n- 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Cut the potatoes in half lengthwise and scoop out the pulp. Discard the shells.\n5. Brown the ground beef in a large skillet over low heat.\n6. Drain any grease from the meat.\n7. Add the flour, baking soda, and salt to a large bowl.\n8. Add the milk and cook until thickened and bubbly.\n9. Add the potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon.\n10. Cook until heated through.\n11. Stir in the sour cream if desired.\n12. Sprinkle with remaining cheese, bacon and green onions.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 5.442576023303949e-79,
+            "ROUGE-1": 0.15139442231075695,
+            "ROUGE-2": 0.024096385542168676,
+            "ROUGE-L": 0.0796812749003984
+        }
+    },
+    {
+        "recipe_name": "Chocolate Delight",
+        "ingredients": [
+            "1 stick butter",
+            "1 c. plain flour",
+            "1/2 c. nuts",
+            "8 oz. cream cheese",
+            "1 c. powdered sugar",
+            "2 (9 oz.) Cool Whip",
+            "2 pkg. chocolate instant pudding",
+            "3 c. milk"
+        ],
+        "instructions": [
+            "Mix butter, flour and nuts.",
+            "Grease pan with butter and bake 10 to 15 minutes at 300\u00b0.",
+            "Cool."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork. Microwave them with a wet paper towel covering the potatoes on high for 6-8 minutes.\n2. Let the potatoes cool enough to handle. Cut in half lengthwise and scoop out pulp. Discard shells.\n3. Brown the ground beef in a large skillet over low heat. Drain any grease from the meat.\n4. Add the flour, milk, potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon to a large bowl. Cook until heated (do not boil).\n5. Stir in sour cream if desired.\n6. Sprinkle with remaining cheese, bacon and green onions.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 7.156422969333831e-232,
+            "ROUGE-1": 0.08968609865470852,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05381165919282511
+        }
+    },
+    {
+        "recipe_name": "Beef Pastichio(Greek)  ",
+        "ingredients": [
+            "1 1/2 lb. ground beef",
+            "1 (7 oz.) pkg. elbow macaroni",
+            "2 Tbsp. butter or margarine",
+            "1/4 c. flour",
+            "3 c. milk",
+            "1 large onion, finely chopped",
+            "1 tsp. salt",
+            "1/4 tsp. pepper",
+            "1/2 tsp. cinnamon",
+            "1/8 tsp. oregano leaves",
+            "1 (10 3/4 oz.) can tomato puree",
+            "3 eggs",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Prepare macaroni per package directions; drain.",
+            "Rinse with cold water; drain.",
+            "Stir flour into melted butter or margarine in heavy saucepan.",
+            "Gradually stir in milk and cook until thick, stirring occasionally.",
+            "Cover and cool.",
+            "Brown onion and ground beef in large frying pan.",
+            "Pour off drippings.",
+            "Sprinkle salt, pepper, cinnamon and oregano over beef.",
+            "Stir in tomato puree; cook slowly for 10 minutes."
+        ],
+        "response": "**Grilled Potato and Bacon Casserole**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and cut into 1/2-inch thick slices\n* 1 lb. of extra lean ground beef, browned\n* 2/3 cup. butter or margarine\n* 6 cups. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 cups (6 oz.) shredded Cheddar cheese\n* 12 slices of bacon, cooked and crumbled\n* 4 green onions, chopped\n* 1 (8 oz.) carton of sour cream (optional)\n\n**Instructions:**\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. In a large skillet over medium heat, melt the butter or margarine.\n3. Add the ground beef and cook until browned on all sides.\n4. Add the milk and bring to a simmer.\n5. Add the potatoes, ground beef, salt, pepper, and cheese.\n6. Cook for 10 minutes, or until the potatoes are tender and the sauce is heated through.\n7. Stir in the green onions and sour cream (if using).\n8. Serve immediately.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of crusty bread or a salad.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Additional Notes:**\n\n* If you don't have green onions, you can substitute with onion.\n* For a vegetarian option, omit the ground beef and add 1 (15 oz.) can of diced tomatoes with their juices to the skillet with the butter or margarine. Simmer for 5 minutes, or until the tomatoes are heated through.",
+        "evaluation": {
+            "BLEU": 8.909842955750967e-79,
+            "ROUGE-1": 0.2098360655737705,
+            "ROUGE-2": 0.07260726072607261,
+            "ROUGE-L": 0.13114754098360656
+        }
+    },
+    {
+        "recipe_name": "Shrimp Pasta Salad",
+        "ingredients": [
+            "1 box twisted pasta (8 oz.), cooked, drained and cooled",
+            "2 to 3 tomatoes, chopped or salad tomatoes, halved",
+            "2 large cucumbers, sliced",
+            "1/2 yellow or red bell pepper",
+            "2 to 3 fresh green onions (optional)",
+            "1/2 bottle McCormick Salad Supreme seasoning",
+            "1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)",
+            "1 lb. shrimp, boiled and deveined (may cut in half, if preferred)",
+            "1/2 green bell pepper, cut in small strips",
+            "1 purple onion, cut in small strips"
+        ],
+        "instructions": [
+            "Prepare all ingredients and mix together.",
+            "Chill 1 to 2 hours before serving.",
+            "Better prepared the day before.",
+            "Makes 8 or more servings."
+        ],
+        "response": "**Grilled Salmon with Lemon-Dill Sauce**\n\n**Ingredients:**\n\n* 4 salmon fillets (1 lb.)\n* 1 tbsp. olive oil\n* 1 tbsp. lemon juice\n* 1 tbsp. chopped fresh dill\n* Salt and pepper to taste\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Pat salmon dry and season with salt and pepper.\n3. Brush salmon with olive oil and lemon juice.\n4. Grill salmon for 10-12 minutes per side, or until cooked through.\n5. Serve with a side of grilled green beans and a lemon-dill sauce.\n\n**Creamy Tomato Pasta**\n\n**Ingredients:**\n\n* 1 tbsp. olive oil\n* 1 onion, diced\n* 2 cloves garlic, minced\n* 1 (15 oz.) can crushed tomatoes\n* 1/2 cup heavy cream\n* 1/4 cup grated Parmesan cheese\n* Salt and pepper to taste\n\n**Instructions:**\n\n1. Heat olive oil in a large pot or Dutch oven over medium heat.\n2. Add onion and garlic and cook until softened, about 5 minutes.\n3. Add crushed tomatoes, heavy cream, and Parmesan cheese.\n4. Season with salt and pepper.\n5. Bring to a boil, then reduce heat to low and simmer for 15 minutes, or until the pasta is cooked through.\n6. Serve immediately.",
+        "evaluation": {
+            "BLEU": 7.640041254455826e-232,
+            "ROUGE-1": 0.08530805687203792,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.07582938388625592
+        }
+    },
+    {
+        "recipe_name": "Apricot Delight",
+        "ingredients": [
+            "1 large box apricot or mixed fruit jello",
+            "2 c. boiling water",
+            "2 c. cold water",
+            "1 c. miniature marshmallows",
+            "1 can drained pineapple",
+            "2 large bananas",
+            "2 Tbsp. butter",
+            "2 Tbsp. flour",
+            "1 egg, well beaten",
+            "1/2 c. sugar",
+            "1/2 c. pineapple juice",
+            "8 oz. cream cheese",
+            "1 pkg. Dream Whip"
+        ],
+        "instructions": [
+            "Mix jello, water (hot and cold), marshmallows, pineapple and bananas together and let chill.",
+            "Cook together butter, flour, egg, sugar and pineapple juice.",
+            "Let cook, then spread on top of chilled jello.",
+            "Beat together cream cheese and Dream Whip as directed. Spread as topping."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Cut the potatoes in half lengthwise and scoop out the pulp.\n5. Brown the ground beef in a large skillet over low heat.\n6. Drain any grease from the meat.\n7. Add the flour, milk, potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon to a large pot of boiling water.\n8. Cook until heated (do not boil).\n9. Stir in the sour cream if desired.\n10. Sprinkle with remaining cheese, bacon and green onions.\n\n**Enjoy!**\n\n**Additional Notes:**\n\n* For a richer dish, use all of the cheese and bacon.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.8302304145033852e-155,
+            "ROUGE-1": 0.11552346570397112,
+            "ROUGE-2": 0.007272727272727272,
+            "ROUGE-L": 0.07942238267148015
+        }
+    },
+    {
+        "recipe_name": "Nut Goodie Bars",
+        "ingredients": [
+            "1 (12 oz.) pkg. chocolate chips",
+            "1 (12 oz.) pkg. butterscotch chips",
+            "2 c. peanut butter",
+            "1 c. butter",
+            "1/2 c. evaporated milk",
+            "1/2 c. vanilla pudding mix",
+            "1 tsp. maple flavoring",
+            "2 lb. powdered sugar",
+            "1 lb. Spanish peanuts"
+        ],
+        "instructions": [
+            "Mix ingredients together over hot water.",
+            "Spread half of mixture on a jelly roll pan, 17 x 11 1/2-inch.",
+            "Chill until firm. Melt butter.",
+            "Add milk and pudding mix.",
+            "Bring to boil and boil for 1 minute.",
+            "Remove from heat and add maple flavoring.",
+            "Add sugar and blend until smooth.",
+            "Spread this mixture on cooled first layer.",
+            "Cool.",
+            "Mix peanuts into remaining half of chocolate mixture and spread on top of cooled second layer.",
+            "Chill; cut into small squares as this bar is very rich."
+        ],
+        "response": "**Grilled Potato and Beef Skewers**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and cut into 1-inch pieces\n* 1 lb. of extra lean ground beef, cooked and drained\n* 2 tablespoons of olive oil\n* 1 tablespoon of chopped fresh rosemary\n* 1 tablespoon of chopped fresh thyme\n* Salt and pepper to taste\n\n**Instructions:**\n\n1. Preheat a grill to medium-high heat.\n2. Toss the potatoes with olive oil, rosemary, thyme, salt, and pepper.\n3. Thread the potatoes onto skewers, leaving about 2 inches of space between each potato.\n4. Grill the potatoes for 10-15 minutes, or until tender and golden brown.\n5. Serve immediately with your favorite dipping sauce.\n\n**Tips:**\n\n* For a smoky flavor, add a few wood chips to the grill.\n* Serve with a side of grilled vegetables, such as asparagus or zucchini.\n* Serve with a dipping sauce, such as ranch dressing or barbecue sauce.\n\n**Additional Notes:**\n\n* You can also grill the potatoes in a grill pan over medium-high heat.\n* If you don't have skewers, you can use toothpicks or wooden skewers.\n* Serve with a side of your favorite dipping sauce.",
+        "evaluation": {
+            "BLEU": 2.2438327268901846e-155,
+            "ROUGE-1": 0.19402985074626863,
+            "ROUGE-2": 0.022556390977443608,
+            "ROUGE-L": 0.09701492537313432
+        }
+    },
+    {
+        "recipe_name": "Milk Chocolate Pie",
+        "ingredients": [
+            "3 slightly heaping Tbsp. cocoa",
+            "1 1/2 c. sugar",
+            "pinch of salt",
+            "3 Tbsp. cornstarch",
+            "3 eggs, separated",
+            "1/4 stick margarine",
+            "1 large can Pet or Carnation milk",
+            "regular milk",
+            "6 heaping tsp. sugar",
+            "1/4 tsp. cream of tartar",
+            "1 baked pie shell"
+        ],
+        "instructions": [
+            "Mix first four ingredients.",
+            "Add well beaten egg yolks and mix (reserve whites for meringue and set aside).",
+            "Add margarine and canned milk with enough regular milk to make 3 cups.",
+            "Place in heavy saucepan and cook thick.",
+            "A heavy pan is very important. Beat with electric mixer and pour into a baked pie shell.",
+            "Top with meringue."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef, browned\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork. Microwave them with a wet paper towel covering the potatoes on high for 6-8 minutes.\n2. Let the potatoes cool enough to handle. Cut in half lengthwise and scoop out pulp. Reserve the potato pulp.\n3. Brown the ground beef in a large skillet over low heat. Drain any grease from the meat.\n4. Add the flour to a large bowl and whisk until smooth. Add the milk and cook over medium heat, stirring constantly, until thickened and bubbly.\n5. Add the potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon to the skillet. Cook until heated through.\n6. Stir in the sour cream if desired. Sprinkle with remaining cheese, bacon and green onions.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.997077302007354e-155,
+            "ROUGE-1": 0.17218543046357615,
+            "ROUGE-2": 0.006666666666666666,
+            "ROUGE-L": 0.09933774834437085
+        }
+    },
+    {
+        "recipe_name": "Salmon Casserole Special",
+        "ingredients": [
+            "1 medium onion, minced",
+            "1 clove garlic, minced",
+            "1/4 c. olive oil",
+            "2 (1 lb.) cans tomatoes, chopped",
+            "1 (6 oz.) can tomato paste",
+            "1 tsp. salt",
+            "1/2 tsp. pepper",
+            "1 tsp. basil",
+            "1/2 tsp. oregano",
+            "1/4 c. chopped parsley",
+            "1 lb. broad green noodles",
+            "8 oz. Mozzarella, sliced",
+            "1 lb. Ricotta or creamed cottage cheese",
+            "1 (1 lb.) can salmon, drained and flaked",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Cook onion and garlic in hot olive oil until soft.",
+            "Add next 7 ingredients and simmer 30 minutes, stirring frequently."
+        ],
+        "response": "**Grilled Salmon with Creamy Pesto**\n\n**Ingredients:**\n\n* 1 lb. of extra lean ground beef\n* 2 tbsp. olive oil\n* 1 onion, minced\n* 1 clove garlic, minced\n* 1/4 cup (6 oz.) canned tomatoes, chopped\n* 1 (6 oz.) can tomato paste\n* 1 tsp. salt\n* 1/2 tsp. pepper\n* 1 tsp. basil\n* 1/2 tsp. oregano\n* 1/4 cup chopped parsley\n* 1 lb. of broad green noodles\n* 8 oz. mozzarella, sliced\n* 1 lb. ricotta or creamed cottage cheese\n* 1 (1 lb.) can salmon, drained and flaked\n* 1/2 tsp. grated Parmesan cheese\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. In a large skillet over medium heat, brown the ground beef for 5 minutes per side, or until cooked through.\n3. Remove the ground beef from the skillet and set aside.\n4. Add the onion and garlic to the skillet and cook until softened, about 5 minutes.\n5. Add the tomatoes, tomato paste, salt, and pepper to the skillet and cook for 10 minutes, or until the tomatoes are softened and the sauce has thickened.\n6. Add the ground beef back to the skillet and cook until heated through.\n7. Serve over the noodles with the mozzarella and ricotta cheese.\n8. Garnish with the parsley and Parmesan cheese.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality ground beef.\n* Serve with a side of crusty bread to soak up the delicious sauce.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 4.505860343446743e-79,
+            "ROUGE-1": 0.09923664122137403,
+            "ROUGE-2": 0.02307692307692307,
+            "ROUGE-L": 0.06106870229007634
+        }
+    },
+    {
+        "recipe_name": "Crock-Pot Meatballs",
+        "ingredients": [
+            "2 lb. ground meat",
+            "2 onions, minced",
+            "3/4 c. milk",
+            "2 c. breadcrumbs",
+            "4 eggs",
+            "1/2 tsp. garlic powder",
+            "1 Tbsp. dill weed",
+            "2 Tbsp. dill weed",
+            "3 cans cream of mushroom soup"
+        ],
+        "instructions": [
+            "Mix first 7 ingredients together.",
+            "Make into balls and put on cookie sheets; close together.",
+            "Put in 350\u00b0 oven for 15 minutes. Bump the pan and bake for 5 more minutes.",
+            "Refrigerate until ready to heat in crock-pot.",
+            "Add cream sauce (3 cans of cream of mushroom soup and 2 tablespoons dill weed).",
+            "Heat until warmed.",
+            "Great for parties.",
+            "Makes a big batch."
+        ],
+        "response": "**Grilled Steak with Garlic Butter**\n\n**Ingredients:**\n\n* 2 lbs. ground meat (such as sirloin or ribeye)\n* 2 onions, minced\n* 3/4 cup milk\n* 2 cups breadcrumbs\n* 4 eggs\n* 1/2 tsp. garlic powder\n* 1 Tbsp. dill weed\n* 2 Tbsp. dill weed\n* 3 cans cream of mushroom soup\n\n**Instructions:**\n\n1. Preheat a grill to medium-high heat.\n2. In a large skillet over medium heat, cook the ground meat for 5-7 minutes per side, or until cooked through.\n3. Remove the steak from the skillet and set aside.\n4. Add the onions to the skillet and cook until softened, about 5 minutes.\n5. Add the milk to the skillet and bring to a simmer.\n6. Add the breading to the skillet and cook until golden brown, about 5 minutes.\n7. Add the eggs to the skillet and cook until cooked through, about 5 minutes.\n8. Serve the steak with the garlic butter and the cooked vegetables.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality steak.\n* Serve with a side of roasted vegetables, such as broccoli or carrots.\n* Serve with a dipping sauce, such as a creamy horseradish sauce or a tangy chimichurri sauce.\n\n**Additional Notes:**\n\n* The cooking time will vary depending on the thickness of the steak.\n* Be careful not to overcook the steak, or it will become dry and tough.\n* The garlic butter can be made by combining 1 tablespoon of butter or margarine with 1 tablespoon of minced garlic and 1 tablespoon of chopped fresh dill.",
+        "evaluation": {
+            "BLEU": 0.013362463374193589,
+            "ROUGE-1": 0.20512820512820512,
+            "ROUGE-2": 0.038709677419354833,
+            "ROUGE-L": 0.10897435897435898
+        }
+    },
+    {
+        "recipe_name": "Wild Rice Casserole",
+        "ingredients": [
+            "1 lb. sausage",
+            "1 medium onion, chopped",
+            "1 medium green pepper, chopped",
+            "1/2 c. celery, chopped",
+            "1 (6 oz.) pkg. long grain and wild rice mix",
+            "1 can cream chicken soup",
+            "1 can cream mushroom soup",
+            "1 c. shredded Cheddar cheese",
+            "1 (4 oz.) can sliced mushrooms, drained"
+        ],
+        "instructions": [
+            "Brown sausage in skillet, reserving drippings. Saute onion, green pepper and celery in drippings. Combine sausage, sauted vegetables, long grain and wild rice mix (including seasoning packet), soups, cheese and mushrooms. Spoon into a shallow 2-quart casserole dish. Cover and bake at 325\u00b0 for 1 hour or until done."
+        ],
+        "response": "**Grilled Sausage and Rice**\n\n**Ingredients:**\n\n* 1 lb. sausage, sliced into 1/2-inch pieces\n* 1 medium onion, chopped\n* 1 medium green pepper, chopped\n* 1/2 c. celery, chopped\n* 1 (6 oz.) pkg. long grain and wild rice mix\n* 1 can cream chicken soup\n* 1 can cream mushroom soup\n* 1 c. shredded Cheddar cheese\n* 1 (4 oz.) can sliced mushrooms, drained\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. In a large skillet over medium heat, cook the sausage for 5-7 minutes per side, or until cooked through.\n3. Remove the sausage from the skillet and set aside.\n4. Add the onion, green pepper, and celery to the skillet and cook until tender and translucent, about 5 minutes.\n5. Add the rice, cream chicken soup, and cream mushroom soup to the skillet and cook until heated through, about 5 minutes.\n6. Stir in the cheese and sliced mushrooms.\n7. Add the cooked sausage back to the skillet and cook until heated through, about 2 minutes.\n8. Serve immediately.\n\n**Tips:**\n\n* For a more flavorful dish, add 1 tablespoon of chopped fresh herbs, such as basil or oregano, to the skillet with the onions and green peppers.\n* Serve with a side of crusty bread or a dipping sauce, such as ranch dressing or ketchup.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 0.03231038567980811,
+            "ROUGE-1": 0.21969696969696967,
+            "ROUGE-2": 0.08396946564885496,
+            "ROUGE-L": 0.14393939393939395
+        }
+    },
+    {
+        "recipe_name": "Spiced Apple Muffins",
+        "ingredients": [
+            "3 c. flour",
+            "4 tsp. baking powder",
+            "2 tsp. salt",
+            "3 Tbsp. sugar",
+            "1/2 c. shortening",
+            "2 eggs, well beaten",
+            "1 1/4 c. milk",
+            "1 c. chopped apples",
+            "2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon"
+        ],
+        "instructions": [
+            "Combine dry ingredients and cut in shortening.",
+            "Mix eggs and milk and add to flour mixture.",
+            "Fold in apples.",
+            "Put batter in greased muffin tins and sprinkle with sugar and cinnamon mix. Bake at 425\u00b0 for 25 minutes."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Brown the ground beef in a large skillet over low heat.\n5. Drain any grease from the meat.\n6. Add the flour, baking powder, salt, and sugar to a large bowl.\n7. Add the eggs and milk to the bowl and whisk until combined.\n8. Add the cooked and crumbled ground beef, potato, apples, sugar, cinnamon, and milk to a baking dish.\n9. Pour the cheese over the top.\n10. Bake for 20-25 minutes, or until the potatoes are tender and the cheese is melted and bubbly.\n11. Serve with sour cream, if desired.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of crusty bread or a salad.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 4.747165455930887e-79,
+            "ROUGE-1": 0.17100371747211895,
+            "ROUGE-2": 0.02247191011235955,
+            "ROUGE-L": 0.11152416356877322
+        }
+    },
+    {
+        "recipe_name": "Burritos",
+        "ingredients": [
+            "1 lb. ground beef",
+            "1 large can refried beans",
+            "1 small can refried beans",
+            "8 oz. Mozzarella cheese, grated",
+            "8 oz. mild Cheddar cheese, grated",
+            "8 to 10 oz. picante sauce",
+            "1 large onion, chopped",
+            "sour cream",
+            "flour tortillas"
+        ],
+        "instructions": [
+            "Brown ground beef; drain off grease.",
+            "Add refried beans and picante sauce.",
+            "Heat thoroughly.",
+            "Add cheeses.",
+            "Cook until cheese melts."
+        ],
+        "response": "**Grilled Skirt Steak with Roasted Vegetables**\n\n**Ingredients:**\n\n* 1 flank steak, 1 tbsp. olive oil, salt, pepper\n* 1 tbsp. chopped onion\n* 1 tbsp. chopped green bell pepper\n* 1 tbsp. chopped red bell pepper\n* 1 tbsp. chopped fresh rosemary\n* 1 tbsp. chopped fresh thyme\n* 1 tbsp. olive oil\n* 1 tbsp. balsamic vinegar\n* 1 tbsp. Dijon mustard\n* 1 tbsp. Worcestershire sauce\n* 1 tbsp. salt\n* 1 tsp. black pepper\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Season steak with salt and pepper.\n3. Grill steak for 5-7 minutes per side, or until cooked to desired doneness.\n4. While steak is grilling, roast vegetables with olive oil, onion, green bell pepper, and red bell pepper for 10-15 minutes, or until tender and slightly charred.\n5. To make the sauce, whisk together balsamic vinegar, Dijon mustard, Worcestershire sauce, salt, and black pepper.\n6. Serve steak with roasted vegetables and drizzle with sauce.\n\n**Tips:**\n\n* For a more flavorful steak, use a high-quality cut of meat.\n* If you don't have a grill, you can cook the steak in a pan over medium-high heat.\n* Serve with a side of baked potatoes or mashed potatoes.\n* Top the steak with cheese before grilling for a melted and gooey topping.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 6.720628411503338e-232,
+            "ROUGE-1": 0.061946902654867256,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05309734513274337
+        }
+    },
+    {
+        "recipe_name": "Toll House Pie",
+        "ingredients": [
+            "2 eggs",
+            "1/2 c. all-purpose flour",
+            "1/2 c. sugar",
+            "1/2 c. firmly packed brown sugar",
+            "1 c. butter, melted and cooled to room temperature",
+            "1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels",
+            "1 c. chopped walnuts",
+            "1 (9-inch) unbaked pie shell",
+            "whipped cream or ice cream (optional)"
+        ],
+        "instructions": [
+            "Preheat oven to 325\u00b0.",
+            "In large bowl, beat eggs until foamy; beat in flour, sugar and brown sugar until well blended.",
+            "Blend in melted butter.",
+            "Stir in chocolate morsels and walnuts.",
+            "Pour into pie shell.",
+            "Bake for 1 hour.",
+            "Remove from oven.",
+            "Serve warm with whipped cream or ice cream.",
+            "(This recipe may be doubled.",
+            "Bake 2 pies, freeze one for later use.)"
+        ],
+        "response": "**Baked Potatoes**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering the potatoes on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Cut in half lengthwise; scoop out pulp and reserve.\n5. Brown ground beef until done.\n6. Drain any grease from the meat.\n7. Set aside when done.\n8. Melt butter in a large kettle over low heat; add flour, stirring until smooth.\n9. Cook 1 minute, stirring constantly.\n10. Gradually add milk; cook over medium heat, stirring constantly, until thickened and bubbly.\n11. Stir in potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon.\n12. Cook until heated (do not boil).\n13. Stir in sour cream if desired; cook until heated (do not boil).\n14. Sprinkle with remaining cheese, bacon and green onions.\n\n**Chicken Parmesan**\n\nIngredients: 1 lb. of extra lean ground beef, 1/2 c. flour, 1/4 c. olive oil, 1/4 c. chopped onion, 1/4 c. chopped green bell pepper, 1/4 c. chopped red bell pepper, 1/4 c. grated mozzarella cheese, 1/4 c. marinara sauce, 1/4 c. grated Parmesan cheese\n\nInstructions:\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. In a large skillet over medium heat, cook the ground beef until browned.\n3. Drain the ground beef and add it to a baking dish.\n4. In a small bowl, whisk together the flour, olive oil, onion, green bell pepper, and red bell pepper.\n5. Pour the flour mixture over the ground beef.\n6. Top with mozzarella cheese and marinara sauce.\n7. Bake for 20-25 minutes, or until the cheese is melted and bubbly.\n8. Serve with Parmesan cheese on top.\n\n**Chocolate Mousse**\n\nIngredients: 1 c. heavy whipping cream, 1/2 c. cocoa powder, 1/4 c. unsalted butter, 1/4 c. heavy cream, 1/4 c. chocolate chips\n\nInstructions:\n\n1. In a medium bowl, beat together the heavy cream, cocoa powder, and butter.\n2. Fold in the heavy cream and chocolate chips.\n3. Serve immediately.",
+        "evaluation": {
+            "BLEU": 5.39822117043296e-79,
+            "ROUGE-1": 0.162291169451074,
+            "ROUGE-2": 0.03357314148681056,
+            "ROUGE-L": 0.09069212410501193
+        }
+    },
+    {
+        "recipe_name": "Creamy Potato-Onion Soup",
+        "ingredients": [
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. flour",
+            "1 c. finely chopped onion (use processor)",
+            "1 large clove garlic or garlic powder",
+            "2 (14 1/2 oz.) cans (defatted) chicken broth",
+            "4 c. peeled and cubed potatoes",
+            "1/2 c. finely sliced green onion tops",
+            "1/8 tsp. salt",
+            "1/4 tsp. pepper",
+            "1 qt. milk (whole)"
+        ],
+        "instructions": [
+            "Melt butter or margarine in Dutch oven over low heat.",
+            "Add flour to make a paste.",
+            "Cook 1 minute, stirring constantly.",
+            "Add onions and garlic.",
+            "Cook until onions are tender.",
+            "Add broth, milk and potatoes.",
+            "Add seasoning to suit taste.",
+            "Bring to boil; turn heat down low and cook until potatoes are tender.",
+            "Mash with potato masher or put potatoes in food processor until smooth. Serve with grated sharp cheese and green onion tops.",
+            "Good with corn muffins."
+        ],
+        "response": "**Grilled Potato and Beef Skillet**\n\n**Ingredients:**\n\n- 6 baking potatoes, washed and cut into 1/2-inch thick slices\n- 1 lb. of extra lean ground beef, browned\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onions, chopped\n- 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Preheat a grill to medium-high heat.\n2. In a large skillet over medium heat, melt the butter or margarine.\n3. Add the ground beef and cook until browned on all sides.\n4. Add the milk and salt and pepper to the skillet and cook until the milk is heated through.\n5. Add the potatoes to the skillet and cook until tender and golden brown.\n6. Add the green onions and cook until tender.\n7. Add the shredded cheese, bacon, and green onions to the skillet and cook until heated through.\n8. Serve immediately with sour cream, if desired.\n\n**Tips:**\n\n- For a richer dish, use a higher-quality ground beef.\n- Serve with a side of crusty bread or a salad.\n- Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.0769383465049429e-78,
+            "ROUGE-1": 0.3049645390070922,
+            "ROUGE-2": 0.07142857142857144,
+            "ROUGE-L": 0.17730496453900707
+        }
+    },
+    {
+        "recipe_name": "Mozzarella Chicken(Over Sauce)  ",
+        "ingredients": [
+            "2 1/2 to 3 lb. chicken",
+            "2 eggs, beaten",
+            "1/2 c. dry bread crumbs",
+            "1/4 c. butter",
+            "1 (8 oz.) can tomato sauce",
+            "1/2 tsp. dried basil",
+            "cooked egg noodles",
+            "Mozzarella Sauce",
+            "1/2 c. shredded cheese (Mozzarella)",
+            "1/4 tsp. paprika"
+        ],
+        "instructions": [
+            "Cut chicken into serving size pieces.",
+            "Dip into eggs; coat with crumbs.",
+            "Heat butter in skillet.",
+            "Cook chicken over medium heat until brown.",
+            "Stir in tomato sauce and basil.",
+            "Reduce heat; cover and cook over low heat for about 30 minutes, turning chicken every 10 minutes.",
+            "Prepare sauce.",
+            "Put noodles in a 9 x 13-inch pan.",
+            "Arrange chicken on top.",
+            "Spoon sauce over chicken.",
+            "Sprinkle cheese and paprika.",
+            "Broil 6 to 7 inches from broiler until cheese is melted and bubbly."
+        ],
+        "response": "**Grilled Chicken with Tomato Basil Sauce**\n\n**Ingredients:**\n\n* 2 1/2 to 3 lb. chicken, cut into 4 equal pieces\n* 2 eggs, beaten\n* 1/2 c. dry bread crumbs\n* 1/4 c. butter\n* 1 (8 oz.) can tomato sauce\n* 1/2 tsp. dried basil\n* Cooked egg noodles\n* Mozzarella Sauce\n* 1/2 c. shredded cheese (Mozzarella)\n* 1/4 tsp. paprika\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Pat chicken dry and season with salt and pepper.\n3. In a shallow dish, combine eggs, bread crumbs, and butter.\n4. Brush chicken with egg mixture and grill for 10-15 minutes per side, or until cooked through.\n5. Serve with tomato sauce, mozzarella cheese, and cooked egg noodles.\n\n**Tips:**\n\n* For a more flavorful sauce, add 1/4 cup of chopped fresh basil or oregano to the tomato sauce before cooking.\n* Serve with a side of crusty bread to soak up the sauce.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 2.5136660413487845e-155,
+            "ROUGE-1": 0.30901287553648066,
+            "ROUGE-2": 0.03463203463203463,
+            "ROUGE-L": 0.17167381974248927
+        }
+    },
+    {
+        "recipe_name": "Moussaka",
+        "ingredients": [
+            "2 medium eggplants",
+            "vegetable oil",
+            "1 lb. lean ground beef",
+            "2 medium onions, peeled and chopped",
+            "2 cloves garlic, peeled and crushed",
+            "1 (8 oz.) can tomato sauce",
+            "1 tsp. dried leaf oregano",
+            "1 tsp. salt, divided",
+            "1/4 tsp. black pepper, divided",
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. all-purpose flour",
+            "1 c. low-fat milk",
+            "1 egg",
+            "1/3 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Peel eggplants; slice 1/4-inch thick. Brush rimmed cookie sheet with oil. Coat each slice of eggplant on both sides with oil; place on cookie sheet.",
+            "Broil close to broiler until brown. Turn; brush with oil, if necessary.",
+            "Brown the other side. Repeat with all the eggplant slices."
+        ],
+        "response": "**Grilled Vegetable and Beef Skewers**\n\n**Ingredients:**\n\n- 2 large eggplants, sliced into 1/2-inch thick rounds\n- 1 lb. of extra lean ground beef, cooked and shredded\n- 2 medium onions, diced\n- 2 cloves garlic, minced\n- 1 (8 oz.) can tomato sauce\n- 1 tsp. dried oregano\n- 1 tsp. salt\n- 1/4 tsp. black pepper\n- 2 Tbsp. butter or margarine\n- 2 Tbsp. all-purpose flour\n- 1 cup low-fat milk\n- 1 egg\n- 1/3 c. grated Parmesan cheese\n\n**Instructions:**\n\n1. Preheat a grill to medium-high heat.\n2. Thread the eggplants, ground beef, onions, and garlic onto skewers, leaving about 2 inches of space between each skewer.\n3. In a small bowl, whisk together the tomato sauce, oregano, salt, and pepper.\n4. Brush the skewers with the butter or margarine and sprinkle with the flour.\n5. Grill the skewers for 10-15 minutes, or until the vegetables are tender and the beef is cooked to medium-rare.\n6. Serve immediately with the tomato sauce.\n\n**Tips:**\n\n- For a smoky flavor, add a few wood chips to the grill.\n- Serve with a side of grilled vegetables, such as zucchini or bell peppers.\n- Serve with a dipping sauce, such as ranch dressing or pesto.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 8.757692451095618e-232,
+            "ROUGE-1": 0.16129032258064518,
+            "ROUGE-2": 0.032520325203252036,
+            "ROUGE-L": 0.10483870967741937
+        }
+    },
+    {
+        "recipe_name": "Blueberry Muffins With Lemon",
+        "ingredients": [
+            "2 c. sifted flour",
+            "1/3 c. sugar",
+            "3 tsp. baking powder",
+            "1 tsp. salt",
+            "1 egg, beaten",
+            "1 c. milk",
+            "1/4 c. melted butter, cooled",
+            "1 c. fresh or thawed blueberries",
+            "1 Tbsp. sugar and grated lemon rind, mixed"
+        ],
+        "instructions": [
+            "Sift together flour, sugar, baking powder and salt.",
+            "Mix with fork the beaten egg, milk and butter."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Brown the ground beef in a large skillet over low heat.\n5. Drain any grease from the meat.\n6. Add the flour, salt, and pepper to a large bowl.\n7. Add the egg, milk, and butter to the bowl and whisk until smooth.\n8. Add the cooked and crumbled ground beef, potato, green onions, and bacon to the bowl.\n9. Cook until heated through.\n10. Stir in the sour cream (if desired).\n11. Sprinkle with cheese, bacon, and green onions.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 8.102834935834574e-232,
+            "ROUGE-1": 0.09166666666666665,
+            "ROUGE-2": 0.025210084033613446,
+            "ROUGE-L": 0.08333333333333333
+        }
+    },
+    {
+        "recipe_name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "1 head cabbage",
+            "1 lb. ground beef",
+            "1/2 c. rice",
+            "1 small onion, chopped",
+            "2 eggs",
+            "salt and pepper to taste",
+            "1 large onion, sliced",
+            "2 (8 oz.) cans tomato sauce",
+            "2 (29 oz.) cans tomatoes",
+            "juice of 2 lemons",
+            "1/2 c. packed brown sugar"
+        ],
+        "instructions": [
+            "Pour boiling water over cabbage in bowl.",
+            "Let stand for several minutes to loosen leaves; drain.",
+            "Combine ground beef, rice, chopped onion, eggs, salt and pepper in bowl."
+        ],
+        "response": "**Grilled Steak with Roasted Vegetables**\n\n**Ingredients:**\n\n* 1 ribeye steak, 1 tbsp. olive oil, salt, pepper to taste\n* 1 tbsp. chopped onion\n* 1 tbsp. chopped green bell pepper\n* 1 tbsp. chopped red bell pepper\n* 1 tbsp. chopped rosemary\n* 1 tbsp. chopped thyme\n* 1 tbsp. olive oil\n* 1 tbsp. balsamic vinegar\n* 1 tbsp. Dijon mustard\n* 1 tbsp. Worcestershire sauce\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Pat steak dry with paper towels.\n3. Season steak with salt and pepper.\n4. Grill steak for 5-7 minutes per side, or until cooked to desired doneness.\n5. Remove steak from grill and let rest for 5 minutes before slicing and serving.\n6. Roast vegetables:\n    * Heat olive oil in a large skillet over medium heat.\n    * Add onion, green bell pepper, and red bell pepper and cook until tender and slightly browned, about 5 minutes.\n    * Add rosemary, thyme, and olive oil and cook for 1 minute, stirring constantly.\n    * Add tomatoes and tomato sauce and simmer for 10 minutes, or until heated through.\n7. Serve steak with roasted vegetables.\n\n**Tips:**\n\n* For a more flavorful steak, use a high-quality cut of meat.\n* To make the vegetables more tender, roast them for longer or add them to the grill during the last few minutes of cooking the steak.\n* Serve with a side of mashed potatoes or baked potatoes.\n* Top the steak with a drizzle of balsamic vinaigrette.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.6895233589879028e-155,
+            "ROUGE-1": 0.0846153846153846,
+            "ROUGE-2": 0.023255813953488372,
+            "ROUGE-L": 0.053846153846153856
+        }
+    },
+    {
+        "recipe_name": "Oriental Salad",
+        "ingredients": [
+            "1 can LeSueur small peas",
+            "1 can Shoe Peg white corn",
+            "1 can French-cut green beans",
+            "1 (16 oz.) can bean sprouts",
+            "1 (4 oz.) jar pimientos",
+            "1 large onion, shredded fine",
+            "1 (6 oz.) jar sliced mushrooms",
+            "1 (10 oz.) can water chestnuts",
+            "1 large green pepper, chopped",
+            "1 c. celery, chopped",
+            "1 c. salad oil",
+            "1/2 c. vinegar",
+            "1 c. water",
+            "3/4 c. sugar",
+            "salt and pepper to taste"
+        ],
+        "instructions": [
+            "Drain vegetables well.",
+            "Put in blender and mix salad oil, vinegar, water, sugar, salt and pepper to taste.",
+            "Pour over vegetables and mix together.",
+            "Place in refrigerator overnight before serving.",
+            "Keeps well for 2 weeks."
+        ],
+        "response": "**Roasted Potatoes with Bacon and Green Onions**\n\nIngredients:\n- 6 baking potatoes, washed and cut into 1/2-inch thick slices\n- 1 lb. of extra lean ground beef, browned\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onions, chopped\n- 1 (8 oz.) carton sour cream (optional)\n\nInstructions:\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. Toss potatoes with a tablespoon of olive oil and salt and pepper. Roast for 20-25 minutes, or until tender and golden brown.\n3. While potatoes are roasting, brown the ground beef in a large skillet over medium heat. Drain any grease from the meat.\n4. Add the browned ground beef to the potatoes and cook until heated through.\n5. Add the green onions and sour cream (if using) to the potato mixture and stir to combine.\n6. Serve immediately with additional cheese if desired.\n\n**Tips:**\n\n- For a richer dish, use high-quality ground beef.\n- If you don't have cheddar cheese, you can substitute with another type of cheese, such as mozzarella or Parmesan.\n- Serve with a side of crusty bread to soak up the delicious juices.\n\n**Additional Notes:**\n\n- The cooking time for the potatoes may vary depending on the size of your potatoes.\n- If the potatoes are too dry, add a tablespoon of water or milk to the roasting pan.\n- Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.",
+        "evaluation": {
+            "BLEU": 1.6248900945933998e-155,
+            "ROUGE-1": 0.09491525423728814,
+            "ROUGE-2": 0.013651877133105802,
+            "ROUGE-L": 0.061016949152542375
+        }
+    },
+    {
+        "recipe_name": "Pecan Pie Bars",
+        "ingredients": [
+            "2 1/2 c. flour",
+            "1 c. (2 sticks) cold butter or margarine",
+            "1/2 c. sugar",
+            "1/2 tsp. salt",
+            "4 eggs",
+            "1 1/2 c. Karo light or dark corn syrup",
+            "1 1/2 c. sugar",
+            "3 Tbsp. butter or margarine, melted",
+            "1 1/2 tsp. vanilla",
+            "2 1/2 c. pecan halves or coarsely chopped pecans"
+        ],
+        "instructions": [
+            "Cookie Crust:",
+            "Spray a 15 x 10 x 1-inch pan with cooking spray.",
+            "In a large bowl with mixer at medium speed, beat the flour, butter or margarine (cut in pieces), sugar and salt until mixture resembles fine crumbs.",
+            "Press firmly into prepared pan. Bake 20 to 23 minutes or until golden brown.",
+            "Top with filling and complete baking."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Cut in half lengthwise and scoop out the pulp. Reserve the potato pulp.\n5. Brown the ground beef in a large skillet over low heat.\n6. Drain any grease from the meat.\n7. Add the flour to a large bowl and whisk until smooth.\n8. Cook the flour mixture with the milk over medium heat, stirring constantly, until thickened and bubbly.\n9. Add the potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon.\n10. Cook until heated through.\n11. Stir in sour cream if desired.\n12. Sprinkle with remaining cheese, bacon and green onions.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 6.931460196001517e-79,
+            "ROUGE-1": 0.2012987012987013,
+            "ROUGE-2": 0.0457516339869281,
+            "ROUGE-L": 0.09090909090909091
+        }
+    },
+    {
+        "recipe_name": "Catskinner Cake",
+        "ingredients": [
+            "2 c. flour",
+            "2 tsp. baking soda",
+            "1/2 tsp. salt",
+            "2 c. sugar",
+            "1 c. flaked coconut",
+            "3/4 c. buttermilk",
+            "3/4 c. oil",
+            "3 large eggs",
+            "2 tsp. vanilla",
+            "1 (8 oz.) crushed pineapple, drained",
+            "1 c. chopped nuts",
+            "1 c. sugar",
+            "1/2 c. butter",
+            "1/2 c. buttermilk",
+            "3 Tbsp. light corn syrup",
+            "1/2 tsp. vanilla"
+        ],
+        "instructions": [
+            "Combine first 9 ingredients in a large mixing bowl; beat at medium speed 5 minutes. Stir in pineapple and nuts. Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350\u00b0 for 40 to 45 minutes. Set pan on wire rack."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n- 6 baking potatoes, washed and pierced with a fork\n- 1 lb. of extra lean ground beef\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onions, chopped and divided\n- 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Cut the potatoes in half lengthwise and scoop out the pulp. Discard the shells.\n5. Brown the ground beef in a large skillet over low heat.\n6. Drain any grease from the meat.\n7. Add the flour, baking soda, and salt to a large bowl.\n8. Add the milk and cook until thickened and bubbly.\n9. Add the potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon.\n10. Cook until heated through.\n11. Stir in the sour cream if desired.\n12. Sprinkle with remaining cheese, bacon and green onions.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 5.442576023303949e-79,
+            "ROUGE-1": 0.15139442231075695,
+            "ROUGE-2": 0.024096385542168676,
+            "ROUGE-L": 0.0796812749003984
+        }
+    },
+    {
+        "recipe_name": "Chocolate Delight",
+        "ingredients": [
+            "1 stick butter",
+            "1 c. plain flour",
+            "1/2 c. nuts",
+            "8 oz. cream cheese",
+            "1 c. powdered sugar",
+            "2 (9 oz.) Cool Whip",
+            "2 pkg. chocolate instant pudding",
+            "3 c. milk"
+        ],
+        "instructions": [
+            "Mix butter, flour and nuts.",
+            "Grease pan with butter and bake 10 to 15 minutes at 300\u00b0.",
+            "Cool."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork. Microwave them with a wet paper towel covering the potatoes on high for 6-8 minutes.\n2. Let the potatoes cool enough to handle. Cut in half lengthwise and scoop out pulp. Discard shells.\n3. Brown the ground beef in a large skillet over low heat. Drain any grease from the meat.\n4. Add the flour, milk, potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon to a large bowl. Cook until heated (do not boil).\n5. Stir in sour cream if desired.\n6. Sprinkle with remaining cheese, bacon and green onions.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 7.156422969333831e-232,
+            "ROUGE-1": 0.08968609865470852,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05381165919282511
+        }
+    },
+    {
+        "recipe_name": "Beef Pastichio(Greek)  ",
+        "ingredients": [
+            "1 1/2 lb. ground beef",
+            "1 (7 oz.) pkg. elbow macaroni",
+            "2 Tbsp. butter or margarine",
+            "1/4 c. flour",
+            "3 c. milk",
+            "1 large onion, finely chopped",
+            "1 tsp. salt",
+            "1/4 tsp. pepper",
+            "1/2 tsp. cinnamon",
+            "1/8 tsp. oregano leaves",
+            "1 (10 3/4 oz.) can tomato puree",
+            "3 eggs",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Prepare macaroni per package directions; drain.",
+            "Rinse with cold water; drain.",
+            "Stir flour into melted butter or margarine in heavy saucepan.",
+            "Gradually stir in milk and cook until thick, stirring occasionally.",
+            "Cover and cool.",
+            "Brown onion and ground beef in large frying pan.",
+            "Pour off drippings.",
+            "Sprinkle salt, pepper, cinnamon and oregano over beef.",
+            "Stir in tomato puree; cook slowly for 10 minutes."
+        ],
+        "response": "**Grilled Potato and Bacon Casserole**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and cut into 1/2-inch thick slices\n* 1 lb. of extra lean ground beef, browned\n* 2/3 cup. butter or margarine\n* 6 cups. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 cups (6 oz.) shredded Cheddar cheese\n* 12 slices of bacon, cooked and crumbled\n* 4 green onions, chopped\n* 1 (8 oz.) carton of sour cream (optional)\n\n**Instructions:**\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. In a large skillet over medium heat, melt the butter or margarine.\n3. Add the ground beef and cook until browned on all sides.\n4. Add the milk and bring to a simmer.\n5. Add the potatoes, ground beef, salt, pepper, and cheese.\n6. Cook for 10 minutes, or until the potatoes are tender and the sauce is heated through.\n7. Stir in the green onions and sour cream (if using).\n8. Serve immediately.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of crusty bread or a salad.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Additional Notes:**\n\n* If you don't have green onions, you can substitute with onion.\n* For a vegetarian option, omit the ground beef and add 1 (15 oz.) can of diced tomatoes with their juices to the skillet with the butter or margarine. Simmer for 5 minutes, or until the tomatoes are heated through.",
+        "evaluation": {
+            "BLEU": 8.909842955750967e-79,
+            "ROUGE-1": 0.2098360655737705,
+            "ROUGE-2": 0.07260726072607261,
+            "ROUGE-L": 0.13114754098360656
+        }
+    },
+    {
+        "recipe_name": "Shrimp Pasta Salad",
+        "ingredients": [
+            "1 box twisted pasta (8 oz.), cooked, drained and cooled",
+            "2 to 3 tomatoes, chopped or salad tomatoes, halved",
+            "2 large cucumbers, sliced",
+            "1/2 yellow or red bell pepper",
+            "2 to 3 fresh green onions (optional)",
+            "1/2 bottle McCormick Salad Supreme seasoning",
+            "1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)",
+            "1 lb. shrimp, boiled and deveined (may cut in half, if preferred)",
+            "1/2 green bell pepper, cut in small strips",
+            "1 purple onion, cut in small strips"
+        ],
+        "instructions": [
+            "Prepare all ingredients and mix together.",
+            "Chill 1 to 2 hours before serving.",
+            "Better prepared the day before.",
+            "Makes 8 or more servings."
+        ],
+        "response": "**Grilled Salmon with Lemon-Dill Sauce**\n\n**Ingredients:**\n\n* 4 salmon fillets (1 lb.)\n* 1 tbsp. olive oil\n* 1 tbsp. lemon juice\n* 1 tbsp. chopped fresh dill\n* Salt and pepper to taste\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Pat salmon dry and season with salt and pepper.\n3. Brush salmon with olive oil and lemon juice.\n4. Grill salmon for 10-12 minutes per side, or until cooked through.\n5. Serve with a side of grilled green beans and a lemon-dill sauce.\n\n**Creamy Tomato Pasta**\n\n**Ingredients:**\n\n* 1 tbsp. olive oil\n* 1 onion, diced\n* 2 cloves garlic, minced\n* 1 (15 oz.) can crushed tomatoes\n* 1/2 cup heavy cream\n* 1/4 cup grated Parmesan cheese\n* Salt and pepper to taste\n\n**Instructions:**\n\n1. Heat olive oil in a large pot or Dutch oven over medium heat.\n2. Add onion and garlic and cook until softened, about 5 minutes.\n3. Add crushed tomatoes, heavy cream, and Parmesan cheese.\n4. Season with salt and pepper.\n5. Bring to a boil, then reduce heat to low and simmer for 15 minutes, or until the pasta is cooked through.\n6. Serve immediately.",
+        "evaluation": {
+            "BLEU": 7.640041254455826e-232,
+            "ROUGE-1": 0.08530805687203792,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.07582938388625592
+        }
+    },
+    {
+        "recipe_name": "Apricot Delight",
+        "ingredients": [
+            "1 large box apricot or mixed fruit jello",
+            "2 c. boiling water",
+            "2 c. cold water",
+            "1 c. miniature marshmallows",
+            "1 can drained pineapple",
+            "2 large bananas",
+            "2 Tbsp. butter",
+            "2 Tbsp. flour",
+            "1 egg, well beaten",
+            "1/2 c. sugar",
+            "1/2 c. pineapple juice",
+            "8 oz. cream cheese",
+            "1 pkg. Dream Whip"
+        ],
+        "instructions": [
+            "Mix jello, water (hot and cold), marshmallows, pineapple and bananas together and let chill.",
+            "Cook together butter, flour, egg, sugar and pineapple juice.",
+            "Let cook, then spread on top of chilled jello.",
+            "Beat together cream cheese and Dream Whip as directed. Spread as topping."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Cut the potatoes in half lengthwise and scoop out the pulp.\n5. Brown the ground beef in a large skillet over low heat.\n6. Drain any grease from the meat.\n7. Add the flour, milk, potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon to a large pot of boiling water.\n8. Cook until heated (do not boil).\n9. Stir in the sour cream if desired.\n10. Sprinkle with remaining cheese, bacon and green onions.\n\n**Enjoy!**\n\n**Additional Notes:**\n\n* For a richer dish, use all of the cheese and bacon.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.8302304145033852e-155,
+            "ROUGE-1": 0.11552346570397112,
+            "ROUGE-2": 0.007272727272727272,
+            "ROUGE-L": 0.07942238267148015
+        }
+    },
+    {
+        "recipe_name": "Nut Goodie Bars",
+        "ingredients": [
+            "1 (12 oz.) pkg. chocolate chips",
+            "1 (12 oz.) pkg. butterscotch chips",
+            "2 c. peanut butter",
+            "1 c. butter",
+            "1/2 c. evaporated milk",
+            "1/2 c. vanilla pudding mix",
+            "1 tsp. maple flavoring",
+            "2 lb. powdered sugar",
+            "1 lb. Spanish peanuts"
+        ],
+        "instructions": [
+            "Mix ingredients together over hot water.",
+            "Spread half of mixture on a jelly roll pan, 17 x 11 1/2-inch.",
+            "Chill until firm. Melt butter.",
+            "Add milk and pudding mix.",
+            "Bring to boil and boil for 1 minute.",
+            "Remove from heat and add maple flavoring.",
+            "Add sugar and blend until smooth.",
+            "Spread this mixture on cooled first layer.",
+            "Cool.",
+            "Mix peanuts into remaining half of chocolate mixture and spread on top of cooled second layer.",
+            "Chill; cut into small squares as this bar is very rich."
+        ],
+        "response": "**Grilled Potato and Beef Skewers**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and cut into 1-inch pieces\n* 1 lb. of extra lean ground beef, cooked and drained\n* 2 tablespoons of olive oil\n* 1 tablespoon of chopped fresh rosemary\n* 1 tablespoon of chopped fresh thyme\n* Salt and pepper to taste\n\n**Instructions:**\n\n1. Preheat a grill to medium-high heat.\n2. Toss the potatoes with olive oil, rosemary, thyme, salt, and pepper.\n3. Thread the potatoes onto skewers, leaving about 2 inches of space between each potato.\n4. Grill the potatoes for 10-15 minutes, or until tender and golden brown.\n5. Serve immediately with your favorite dipping sauce.\n\n**Tips:**\n\n* For a smoky flavor, add a few wood chips to the grill.\n* Serve with a side of grilled vegetables, such as asparagus or zucchini.\n* Serve with a dipping sauce, such as ranch dressing or barbecue sauce.\n\n**Additional Notes:**\n\n* You can also grill the potatoes in a grill pan over medium-high heat.\n* If you don't have skewers, you can use toothpicks or wooden skewers.\n* Serve with a side of your favorite dipping sauce.",
+        "evaluation": {
+            "BLEU": 2.2438327268901846e-155,
+            "ROUGE-1": 0.19402985074626863,
+            "ROUGE-2": 0.022556390977443608,
+            "ROUGE-L": 0.09701492537313432
+        }
+    },
+    {
+        "recipe_name": "Milk Chocolate Pie",
+        "ingredients": [
+            "3 slightly heaping Tbsp. cocoa",
+            "1 1/2 c. sugar",
+            "pinch of salt",
+            "3 Tbsp. cornstarch",
+            "3 eggs, separated",
+            "1/4 stick margarine",
+            "1 large can Pet or Carnation milk",
+            "regular milk",
+            "6 heaping tsp. sugar",
+            "1/4 tsp. cream of tartar",
+            "1 baked pie shell"
+        ],
+        "instructions": [
+            "Mix first four ingredients.",
+            "Add well beaten egg yolks and mix (reserve whites for meringue and set aside).",
+            "Add margarine and canned milk with enough regular milk to make 3 cups.",
+            "Place in heavy saucepan and cook thick.",
+            "A heavy pan is very important. Beat with electric mixer and pour into a baked pie shell.",
+            "Top with meringue."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef, browned\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped and divided\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork. Microwave them with a wet paper towel covering the potatoes on high for 6-8 minutes.\n2. Let the potatoes cool enough to handle. Cut in half lengthwise and scoop out pulp. Reserve the potato pulp.\n3. Brown the ground beef in a large skillet over low heat. Drain any grease from the meat.\n4. Add the flour to a large bowl and whisk until smooth. Add the milk and cook over medium heat, stirring constantly, until thickened and bubbly.\n5. Add the potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon to the skillet. Cook until heated through.\n6. Stir in the sour cream if desired. Sprinkle with remaining cheese, bacon and green onions.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of your favorite dipping sauce, such as ranch dressing or ketchup.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.997077302007354e-155,
+            "ROUGE-1": 0.17218543046357615,
+            "ROUGE-2": 0.006666666666666666,
+            "ROUGE-L": 0.09933774834437085
+        }
+    },
+    {
+        "recipe_name": "Salmon Casserole Special",
+        "ingredients": [
+            "1 medium onion, minced",
+            "1 clove garlic, minced",
+            "1/4 c. olive oil",
+            "2 (1 lb.) cans tomatoes, chopped",
+            "1 (6 oz.) can tomato paste",
+            "1 tsp. salt",
+            "1/2 tsp. pepper",
+            "1 tsp. basil",
+            "1/2 tsp. oregano",
+            "1/4 c. chopped parsley",
+            "1 lb. broad green noodles",
+            "8 oz. Mozzarella, sliced",
+            "1 lb. Ricotta or creamed cottage cheese",
+            "1 (1 lb.) can salmon, drained and flaked",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Cook onion and garlic in hot olive oil until soft.",
+            "Add next 7 ingredients and simmer 30 minutes, stirring frequently."
+        ],
+        "response": "**Grilled Salmon with Creamy Pesto**\n\n**Ingredients:**\n\n* 1 lb. of extra lean ground beef\n* 2 tbsp. olive oil\n* 1 onion, minced\n* 1 clove garlic, minced\n* 1/4 cup (6 oz.) canned tomatoes, chopped\n* 1 (6 oz.) can tomato paste\n* 1 tsp. salt\n* 1/2 tsp. pepper\n* 1 tsp. basil\n* 1/2 tsp. oregano\n* 1/4 cup chopped parsley\n* 1 lb. of broad green noodles\n* 8 oz. mozzarella, sliced\n* 1 lb. ricotta or creamed cottage cheese\n* 1 (1 lb.) can salmon, drained and flaked\n* 1/2 tsp. grated Parmesan cheese\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. In a large skillet over medium heat, brown the ground beef for 5 minutes per side, or until cooked through.\n3. Remove the ground beef from the skillet and set aside.\n4. Add the onion and garlic to the skillet and cook until softened, about 5 minutes.\n5. Add the tomatoes, tomato paste, salt, and pepper to the skillet and cook for 10 minutes, or until the tomatoes are softened and the sauce has thickened.\n6. Add the ground beef back to the skillet and cook until heated through.\n7. Serve over the noodles with the mozzarella and ricotta cheese.\n8. Garnish with the parsley and Parmesan cheese.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality ground beef.\n* Serve with a side of crusty bread to soak up the delicious sauce.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 4.505860343446743e-79,
+            "ROUGE-1": 0.09923664122137403,
+            "ROUGE-2": 0.02307692307692307,
+            "ROUGE-L": 0.06106870229007634
+        }
+    },
+    {
+        "recipe_name": "Crock-Pot Meatballs",
+        "ingredients": [
+            "2 lb. ground meat",
+            "2 onions, minced",
+            "3/4 c. milk",
+            "2 c. breadcrumbs",
+            "4 eggs",
+            "1/2 tsp. garlic powder",
+            "1 Tbsp. dill weed",
+            "2 Tbsp. dill weed",
+            "3 cans cream of mushroom soup"
+        ],
+        "instructions": [
+            "Mix first 7 ingredients together.",
+            "Make into balls and put on cookie sheets; close together.",
+            "Put in 350\u00b0 oven for 15 minutes. Bump the pan and bake for 5 more minutes.",
+            "Refrigerate until ready to heat in crock-pot.",
+            "Add cream sauce (3 cans of cream of mushroom soup and 2 tablespoons dill weed).",
+            "Heat until warmed.",
+            "Great for parties.",
+            "Makes a big batch."
+        ],
+        "response": "**Grilled Steak with Garlic Butter**\n\n**Ingredients:**\n\n* 2 lbs. ground meat (such as sirloin or ribeye)\n* 2 onions, minced\n* 3/4 cup milk\n* 2 cups breadcrumbs\n* 4 eggs\n* 1/2 tsp. garlic powder\n* 1 Tbsp. dill weed\n* 2 Tbsp. dill weed\n* 3 cans cream of mushroom soup\n\n**Instructions:**\n\n1. Preheat a grill to medium-high heat.\n2. In a large skillet over medium heat, cook the ground meat for 5-7 minutes per side, or until cooked through.\n3. Remove the steak from the skillet and set aside.\n4. Add the onions to the skillet and cook until softened, about 5 minutes.\n5. Add the milk to the skillet and bring to a simmer.\n6. Add the breading to the skillet and cook until golden brown, about 5 minutes.\n7. Add the eggs to the skillet and cook until cooked through, about 5 minutes.\n8. Serve the steak with the garlic butter and the cooked vegetables.\n\n**Tips:**\n\n* For a richer dish, use a higher-quality steak.\n* Serve with a side of roasted vegetables, such as broccoli or carrots.\n* Serve with a dipping sauce, such as a creamy horseradish sauce or a tangy chimichurri sauce.\n\n**Additional Notes:**\n\n* The cooking time will vary depending on the thickness of the steak.\n* Be careful not to overcook the steak, or it will become dry and tough.\n* The garlic butter can be made by combining 1 tablespoon of butter or margarine with 1 tablespoon of minced garlic and 1 tablespoon of chopped fresh dill.",
+        "evaluation": {
+            "BLEU": 0.013362463374193589,
+            "ROUGE-1": 0.20512820512820512,
+            "ROUGE-2": 0.038709677419354833,
+            "ROUGE-L": 0.10897435897435898
+        }
+    },
+    {
+        "recipe_name": "Wild Rice Casserole",
+        "ingredients": [
+            "1 lb. sausage",
+            "1 medium onion, chopped",
+            "1 medium green pepper, chopped",
+            "1/2 c. celery, chopped",
+            "1 (6 oz.) pkg. long grain and wild rice mix",
+            "1 can cream chicken soup",
+            "1 can cream mushroom soup",
+            "1 c. shredded Cheddar cheese",
+            "1 (4 oz.) can sliced mushrooms, drained"
+        ],
+        "instructions": [
+            "Brown sausage in skillet, reserving drippings. Saute onion, green pepper and celery in drippings. Combine sausage, sauted vegetables, long grain and wild rice mix (including seasoning packet), soups, cheese and mushrooms. Spoon into a shallow 2-quart casserole dish. Cover and bake at 325\u00b0 for 1 hour or until done."
+        ],
+        "response": "**Grilled Sausage and Rice**\n\n**Ingredients:**\n\n* 1 lb. sausage, sliced into 1/2-inch pieces\n* 1 medium onion, chopped\n* 1 medium green pepper, chopped\n* 1/2 c. celery, chopped\n* 1 (6 oz.) pkg. long grain and wild rice mix\n* 1 can cream chicken soup\n* 1 can cream mushroom soup\n* 1 c. shredded Cheddar cheese\n* 1 (4 oz.) can sliced mushrooms, drained\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. In a large skillet over medium heat, cook the sausage for 5-7 minutes per side, or until cooked through.\n3. Remove the sausage from the skillet and set aside.\n4. Add the onion, green pepper, and celery to the skillet and cook until tender and translucent, about 5 minutes.\n5. Add the rice, cream chicken soup, and cream mushroom soup to the skillet and cook until heated through, about 5 minutes.\n6. Stir in the cheese and sliced mushrooms.\n7. Add the cooked sausage back to the skillet and cook until heated through, about 2 minutes.\n8. Serve immediately.\n\n**Tips:**\n\n* For a more flavorful dish, add 1 tablespoon of chopped fresh herbs, such as basil or oregano, to the skillet with the onions and green peppers.\n* Serve with a side of crusty bread or a dipping sauce, such as ranch dressing or ketchup.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 0.03231038567980811,
+            "ROUGE-1": 0.21969696969696967,
+            "ROUGE-2": 0.08396946564885496,
+            "ROUGE-L": 0.14393939393939395
+        }
+    },
+    {
+        "recipe_name": "Spiced Apple Muffins",
+        "ingredients": [
+            "3 c. flour",
+            "4 tsp. baking powder",
+            "2 tsp. salt",
+            "3 Tbsp. sugar",
+            "1/2 c. shortening",
+            "2 eggs, well beaten",
+            "1 1/4 c. milk",
+            "1 c. chopped apples",
+            "2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon"
+        ],
+        "instructions": [
+            "Combine dry ingredients and cut in shortening.",
+            "Mix eggs and milk and add to flour mixture.",
+            "Fold in apples.",
+            "Put batter in greased muffin tins and sprinkle with sugar and cinnamon mix. Bake at 425\u00b0 for 25 minutes."
+        ],
+        "response": "**Baked Potatoes with Bacon and Green Onions**\n\n**Ingredients:**\n\n* 6 baking potatoes, washed and pierced with a fork\n* 1 lb. of extra lean ground beef\n* 2/3 c. butter or margarine\n* 6 c. milk\n* 3/4 tsp. salt\n* 1/2 tsp. pepper\n* 1 1/2 c (6 oz.) shredded Cheddar cheese\n* 12 sliced bacon, cooked and crumbled\n* 4 green onions, chopped\n* 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering them on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Brown the ground beef in a large skillet over low heat.\n5. Drain any grease from the meat.\n6. Add the flour, baking powder, salt, and sugar to a large bowl.\n7. Add the eggs and milk to the bowl and whisk until combined.\n8. Add the cooked and crumbled ground beef, potato, apples, sugar, cinnamon, and milk to a baking dish.\n9. Pour the cheese over the top.\n10. Bake for 20-25 minutes, or until the potatoes are tender and the cheese is melted and bubbly.\n11. Serve with sour cream, if desired.\n\n**Tips:**\n\n* For a richer dish, use high-quality ground beef.\n* Serve with a side of crusty bread or a salad.\n* Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 4.747165455930887e-79,
+            "ROUGE-1": 0.17100371747211895,
+            "ROUGE-2": 0.02247191011235955,
+            "ROUGE-L": 0.11152416356877322
+        }
+    },
+    {
+        "recipe_name": "Burritos",
+        "ingredients": [
+            "1 lb. ground beef",
+            "1 large can refried beans",
+            "1 small can refried beans",
+            "8 oz. Mozzarella cheese, grated",
+            "8 oz. mild Cheddar cheese, grated",
+            "8 to 10 oz. picante sauce",
+            "1 large onion, chopped",
+            "sour cream",
+            "flour tortillas"
+        ],
+        "instructions": [
+            "Brown ground beef; drain off grease.",
+            "Add refried beans and picante sauce.",
+            "Heat thoroughly.",
+            "Add cheeses.",
+            "Cook until cheese melts."
+        ],
+        "response": "**Grilled Skirt Steak with Roasted Vegetables**\n\n**Ingredients:**\n\n* 1 flank steak, 1 tbsp. olive oil, salt, pepper\n* 1 tbsp. chopped onion\n* 1 tbsp. chopped green bell pepper\n* 1 tbsp. chopped red bell pepper\n* 1 tbsp. chopped fresh rosemary\n* 1 tbsp. chopped fresh thyme\n* 1 tbsp. olive oil\n* 1 tbsp. balsamic vinegar\n* 1 tbsp. Dijon mustard\n* 1 tbsp. Worcestershire sauce\n* 1 tbsp. salt\n* 1 tsp. black pepper\n\n**Instructions:**\n\n1. Preheat grill to medium-high heat.\n2. Season steak with salt and pepper.\n3. Grill steak for 5-7 minutes per side, or until cooked to desired doneness.\n4. While steak is grilling, roast vegetables with olive oil, onion, green bell pepper, and red bell pepper for 10-15 minutes, or until tender and slightly charred.\n5. To make the sauce, whisk together balsamic vinegar, Dijon mustard, Worcestershire sauce, salt, and black pepper.\n6. Serve steak with roasted vegetables and drizzle with sauce.\n\n**Tips:**\n\n* For a more flavorful steak, use a high-quality cut of meat.\n* If you don't have a grill, you can cook the steak in a pan over medium-high heat.\n* Serve with a side of baked potatoes or mashed potatoes.\n* Top the steak with cheese before grilling for a melted and gooey topping.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 6.720628411503338e-232,
+            "ROUGE-1": 0.061946902654867256,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.05309734513274337
+        }
+    },
+    {
+        "recipe_name": "Toll House Pie",
+        "ingredients": [
+            "2 eggs",
+            "1/2 c. all-purpose flour",
+            "1/2 c. sugar",
+            "1/2 c. firmly packed brown sugar",
+            "1 c. butter, melted and cooled to room temperature",
+            "1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels",
+            "1 c. chopped walnuts",
+            "1 (9-inch) unbaked pie shell",
+            "whipped cream or ice cream (optional)"
+        ],
+        "instructions": [
+            "Preheat oven to 325\u00b0.",
+            "In large bowl, beat eggs until foamy; beat in flour, sugar and brown sugar until well blended.",
+            "Blend in melted butter.",
+            "Stir in chocolate morsels and walnuts.",
+            "Pour into pie shell.",
+            "Bake for 1 hour.",
+            "Remove from oven.",
+            "Serve warm with whipped cream or ice cream.",
+            "(This recipe may be doubled.",
+            "Bake 2 pies, freeze one for later use.)"
+        ],
+        "response": "**Baked Potatoes**\n\n1. Wash and prick the potatoes with a fork.\n2. Microwave the potatoes with a wet paper towel covering the potatoes on high for 6-8 minutes.\n3. Let the potatoes cool enough to handle.\n4. Cut in half lengthwise; scoop out pulp and reserve.\n5. Brown ground beef until done.\n6. Drain any grease from the meat.\n7. Set aside when done.\n8. Melt butter in a large kettle over low heat; add flour, stirring until smooth.\n9. Cook 1 minute, stirring constantly.\n10. Gradually add milk; cook over medium heat, stirring constantly, until thickened and bubbly.\n11. Stir in potato, ground beef, salt, pepper, 1 cup of cheese, 2 tablespoons of green onion and 1/2 cup of bacon.\n12. Cook until heated (do not boil).\n13. Stir in sour cream if desired; cook until heated (do not boil).\n14. Sprinkle with remaining cheese, bacon and green onions.\n\n**Chicken Parmesan**\n\nIngredients: 1 lb. of extra lean ground beef, 1/2 c. flour, 1/4 c. olive oil, 1/4 c. chopped onion, 1/4 c. chopped green bell pepper, 1/4 c. chopped red bell pepper, 1/4 c. grated mozzarella cheese, 1/4 c. marinara sauce, 1/4 c. grated Parmesan cheese\n\nInstructions:\n\n1. Preheat oven to 400 degrees F (200 degrees C).\n2. In a large skillet over medium heat, cook the ground beef until browned.\n3. Drain the ground beef and add it to a baking dish.\n4. In a small bowl, whisk together the flour, olive oil, onion, green bell pepper, and red bell pepper.\n5. Pour the flour mixture over the ground beef.\n6. Top with mozzarella cheese and marinara sauce.\n7. Bake for 20-25 minutes, or until the cheese is melted and bubbly.\n8. Serve with Parmesan cheese on top.\n\n**Chocolate Mousse**\n\nIngredients: 1 c. heavy whipping cream, 1/2 c. cocoa powder, 1/4 c. unsalted butter, 1/4 c. heavy cream, 1/4 c. chocolate chips\n\nInstructions:\n\n1. In a medium bowl, beat together the heavy cream, cocoa powder, and butter.\n2. Fold in the heavy cream and chocolate chips.\n3. Serve immediately.",
+        "evaluation": {
+            "BLEU": 5.39822117043296e-79,
+            "ROUGE-1": 0.162291169451074,
+            "ROUGE-2": 0.03357314148681056,
+            "ROUGE-L": 0.09069212410501193
+        }
+    },
+    {
+        "recipe_name": "Creamy Potato-Onion Soup",
+        "ingredients": [
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. flour",
+            "1 c. finely chopped onion (use processor)",
+            "1 large clove garlic or garlic powder",
+            "2 (14 1/2 oz.) cans (defatted) chicken broth",
+            "4 c. peeled and cubed potatoes",
+            "1/2 c. finely sliced green onion tops",
+            "1/8 tsp. salt",
+            "1/4 tsp. pepper",
+            "1 qt. milk (whole)"
+        ],
+        "instructions": [
+            "Melt butter or margarine in Dutch oven over low heat.",
+            "Add flour to make a paste.",
+            "Cook 1 minute, stirring constantly.",
+            "Add onions and garlic.",
+            "Cook until onions are tender.",
+            "Add broth, milk and potatoes.",
+            "Add seasoning to suit taste.",
+            "Bring to boil; turn heat down low and cook until potatoes are tender.",
+            "Mash with potato masher or put potatoes in food processor until smooth. Serve with grated sharp cheese and green onion tops.",
+            "Good with corn muffins."
+        ],
+        "response": "**Grilled Potato and Beef Skillet**\n\n**Ingredients:**\n\n- 6 baking potatoes, washed and cut into 1/2-inch thick slices\n- 1 lb. of extra lean ground beef, browned\n- 2/3 c. butter or margarine\n- 6 c. milk\n- 3/4 tsp. salt\n- 1/2 tsp. pepper\n- 1 1/2 c (6 oz.) shredded Cheddar cheese\n- 12 sliced bacon, cooked and crumbled\n- 4 green onions, chopped\n- 1 (8 oz.) carton sour cream (optional)\n\n**Instructions:**\n\n1. Preheat a grill to medium-high heat.\n2. In a large skillet over medium heat, melt the butter or margarine.\n3. Add the ground beef and cook until browned on all sides.\n4. Add the milk and salt and pepper to the skillet and cook until the milk is heated through.\n5. Add the potatoes to the skillet and cook until tender and golden brown.\n6. Add the green onions and cook until tender.\n7. Add the shredded cheese, bacon, and green onions to the skillet and cook until heated through.\n8. Serve immediately with sour cream, if desired.\n\n**Tips:**\n\n- For a richer dish, use a higher-quality ground beef.\n- Serve with a side of crusty bread or a salad.\n- Leftovers can be stored in the refrigerator for up to 3 days.\n\n**Enjoy!**",
+        "evaluation": {
+            "BLEU": 1.0769383465049429e-78,
+            "ROUGE-1": 0.3049645390070922,
+            "ROUGE-2": 0.07142857142857144,
+            "ROUGE-L": 0.17730496453900707
+        }
+    }
+]

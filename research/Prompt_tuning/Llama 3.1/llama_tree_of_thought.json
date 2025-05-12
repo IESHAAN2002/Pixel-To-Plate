@@ -1,0 +1,609 @@
+[
+    {
+        "recipe_name": "Mozzarella Chicken(Over Sauce)  ",
+        "ingredients": [
+            "2 1/2 to 3 lb. chicken",
+            "2 eggs, beaten",
+            "1/2 c. dry bread crumbs",
+            "1/4 c. butter",
+            "1 (8 oz.) can tomato sauce",
+            "1/2 tsp. dried basil",
+            "cooked egg noodles",
+            "Mozzarella Sauce",
+            "1/2 c. shredded cheese (Mozzarella)",
+            "1/4 tsp. paprika"
+        ],
+        "instructions": [
+            "Cut chicken into serving size pieces.",
+            "Dip into eggs; coat with crumbs.",
+            "Heat butter in skillet.",
+            "Cook chicken over medium heat until brown.",
+            "Stir in tomato sauce and basil.",
+            "Reduce heat; cover and cook over low heat for about 30 minutes, turning chicken every 10 minutes.",
+            "Prepare sauce.",
+            "Put noodles in a 9 x 13-inch pan.",
+            "Arrange chicken on top.",
+            "Spoon sauce over chicken.",
+            "Sprinkle cheese and paprika.",
+            "Broil 6 to 7 inches from broiler until cheese is melted and bubbly."
+        ],
+        "response": "Let's break down the ingredients and consider different cuisines, cooking methods, and complementary flavors.\n\n**Option 1: Italian-Style Chicken Parmesan**\n\n* Cuisine: Italian-American\n* Cooking Method: Breading and frying the chicken, then baking with tomato sauce and melted cheese\n* Complementary Flavors: The combination of tomato sauce, melted Mozzarella cheese, and basil creates a classic Italian flavor profile.\n\n**Option 2: Chicken Cacciatore**\n\n* Cuisine: Italian\n* Cooking Method: Saut\u00e9ing the chicken with onions, garlic, and tomato sauce, then serving with egg noodles\n* Complementary Flavors: The addition of paprika and basil adds a smoky and herbaceous flavor to the dish.\n\n**Option 3: Chicken Fettuccine Alfredo**\n\n* Cuisine: Italian\n* Cooking Method: Saut\u00e9ing the chicken with garlic and butter, then serving with fettuccine noodles and a creamy Alfredo sauce\n* Complementary Flavors: The combination of butter, garlic, and Parmesan cheese creates a rich and creamy flavor profile.\n\n**Option 4: Chicken and Noodle Casserole**\n\n* Cuisine: American Comfort Food\n* Cooking Method: Baking the chicken and noodles in a casserole with tomato sauce and shredded cheese\n* Complementary Flavors: The combination of tomato sauce, shredded cheese, and egg noodles creates a comforting and familiar flavor profile.\n\nAfter considering these options, I would recommend **Option 1: Italian-Style Chicken Parmesan**. This dish combines the flavors of Italy with the comfort of a breaded and fried chicken cutlet. The addition of tomato sauce and melted Mozzarella cheese creates a rich and satisfying flavor profile that is sure to please.\n\n**Final Recipe:**\n\nIngredients:\n\n* 2 1/2 to 3 lb. chicken\n* 2 eggs, beaten\n* 1/2 c. dry bread crumbs\n* 1/4 c. butter\n* 1 (8 oz.) can tomato sauce\n* 1/2 tsp. dried basil\n* Cooked egg noodles\n* Mozzarella Sauce\n* 1/2 c. shredded cheese (Mozzarella)\n* 1/4 tsp. paprika\n\nInstructions:\n\n1. Preheat the oven to 400\u00b0F (200\u00b0C).\n2. Prepare the breading station by mixing the bread crumbs and paprika in a shallow dish.\n3. Dip each chicken cutlet in the beaten eggs, then coat in the bread crumb mixture.\n4. Heat the butter in a large skillet over medium-high heat. Fry the breaded chicken cutlets until golden brown and crispy.\n5. Transfer the fried chicken cutlets to a baking dish and spoon the tomato sauce over the top.\n6. Sprinkle the shredded Mozzarella cheese over the top of the tomato sauce.\n7. Bake the chicken in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.\n8. Serve the chicken with cooked egg noodles and a side of garlic bread.\n\nEnjoy your delicious Italian-Style Chicken Parmesan!",
+        "evaluation": {
+            "BLEU": 0.01857240247706433,
+            "ROUGE-1": 0.2103174603174603,
+            "ROUGE-2": 0.055776892430278883,
+            "ROUGE-L": 0.11904761904761904
+        }
+    },
+    {
+        "recipe_name": "Moussaka",
+        "ingredients": [
+            "2 medium eggplants",
+            "vegetable oil",
+            "1 lb. lean ground beef",
+            "2 medium onions, peeled and chopped",
+            "2 cloves garlic, peeled and crushed",
+            "1 (8 oz.) can tomato sauce",
+            "1 tsp. dried leaf oregano",
+            "1 tsp. salt, divided",
+            "1/4 tsp. black pepper, divided",
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. all-purpose flour",
+            "1 c. low-fat milk",
+            "1 egg",
+            "1/3 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Peel eggplants; slice 1/4-inch thick. Brush rimmed cookie sheet with oil. Coat each slice of eggplant on both sides with oil; place on cookie sheet.",
+            "Broil close to broiler until brown. Turn; brush with oil, if necessary.",
+            "Brown the other side. Repeat with all the eggplant slices."
+        ],
+        "response": "After considering multiple approaches, I've decided to create a recipe that combines the flavors of Italian and Greek cuisines, with a twist of creamy richness. Here's the final recipe:\n\n**Eggplant Moussaka with a Twist**\n\nThis dish is a creative take on the classic Greek moussaka, with the addition of a creamy bechamel sauce and a hint of Italian flavors.\n\n**Ingredients:**\n\n* 2 medium eggplants, sliced into 1/2-inch thick rounds\n* 1 lb. lean ground beef\n* 2 medium onions, peeled and chopped\n* 2 cloves garlic, peeled and crushed\n* 1 (8 oz.) can tomato sauce\n* 1 tsp. dried leaf oregano\n* 1 tsp. salt, divided\n* 1/4 tsp. black pepper, divided\n* 2 Tbsp. butter or margarine\n* 2 Tbsp. all-purpose flour\n* 1 c. low-fat milk\n* 1 egg\n* 1/3 c. grated Parmesan cheese\n* Vegetable oil for brushing eggplant slices\n\n**Instructions:**\n\n1. Preheat the oven to 375\u00b0F (190\u00b0C).\n2. Brush the eggplant slices with vegetable oil and season with salt and pepper. Grill or bake the eggplant slices until tender and lightly browned.\n3. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.\n4. Add the chopped onions and crushed garlic to the skillet and cook until the onions are translucent.\n5. Stir in the tomato sauce, dried oregano, salt, and pepper. Bring the sauce to a simmer and let it cook for a few minutes until the flavors have melded together.\n6. In a separate saucepan, melt the butter over medium heat. Add the flour and whisk together to make a roux, cooking for 1-2 minutes.\n7. Slowly pour in the low-fat milk, whisking constantly to avoid lumps. Bring the mixture to a simmer and cook until it thickens, stirring occasionally.\n8. Remove the sauce from the heat and stir in the grated Parmesan cheese and beaten egg.\n9. To assemble the moussaka, spread a layer of the meat sauce in the bottom of a 9x13-inch baking dish. Arrange a layer of grilled eggplant slices on top of the sauce.\n10. Spread half of the bechamel sauce over the eggplant layer, followed by half of the remaining meat sauce.\n11. Repeat the layers, starting with the eggplant, then the bechamel sauce, and finally the remaining meat sauce.\n12. Top the moussaka with a layer of grated Parmesan cheese and bake in the preheated oven for 25-30 minutes, or until the top is golden brown and the sauce is bubbly.\n\n**Why this recipe?**\n\nI chose this recipe because it combines the flavors of Italian and Greek cuisines, with the addition of a creamy bechamel sauce. The eggplant provides a meaty texture, while the ground beef and tomato sauce add a rich and savory flavor. The bechamel sauce adds a creamy and indulgent touch, while the Parmesan cheese provides a salty and nutty flavor. This dish is perfect for a special occasion or a cozy night in with family and friends.",
+        "evaluation": {
+            "BLEU": 1.3161294211943794e-155,
+            "ROUGE-1": 0.10948905109489052,
+            "ROUGE-2": 0.021978021978021976,
+            "ROUGE-L": 0.06934306569343067
+        }
+    },
+    {
+        "recipe_name": "Blueberry Muffins With Lemon",
+        "ingredients": [
+            "2 c. sifted flour",
+            "1/3 c. sugar",
+            "3 tsp. baking powder",
+            "1 tsp. salt",
+            "1 egg, beaten",
+            "1 c. milk",
+            "1/4 c. melted butter, cooled",
+            "1 c. fresh or thawed blueberries",
+            "1 Tbsp. sugar and grated lemon rind, mixed"
+        ],
+        "instructions": [
+            "Sift together flour, sugar, baking powder and salt.",
+            "Mix with fork the beaten egg, milk and butter."
+        ],
+        "response": "Let's break down the decision-making process into a tree of options:\n\n1. **Cuisine**:\n\t* Option 1: French (e.g., cr\u00eapes, cakes)\n\t* Option 2: American (e.g., muffins, scones)\n\t* Option 3: Scandinavian (e.g., krumkaker, waffles)\n\t* Option 4: Other (e.g., Italian, Greek)\n\n2. **Cooking Method**:\n\t* Option 1: Baked (e.g., muffins, cakes)\n\t* Option 2: Griddled (e.g., pancakes, waffles)\n\t* Option 3: Pan-fried (e.g., cr\u00eapes, blintzes)\n\n3. **Complementary Flavors**:\n\t* Option 1: Lemon and blueberry (as given)\n\t* Option 2: Vanilla and blueberry\n\t* Option 3: Cinnamon and blueberry\n\t* Option 4: Other (e.g., nutmeg, cardamom)\n\nConsidering the options, I would choose:\n\n* **Cuisine**: American (Option 2)\n* **Cooking Method**: Baked (Option 1)\n* **Complementary Flavors**: Lemon and blueberry (Option 1)\n\nBased on these choices, I would select the following recipe:\n\n**Blueberry Lemon Muffins**\n\nIngredients:\n\n* 2 c. sifted flour\n* 1/3 c. sugar\n* 3 tsp. baking powder\n* 1 tsp. salt\n* 1 egg, beaten\n* 1 c. milk\n* 1/4 c. melted butter, cooled\n* 1 c. fresh or thawed blueberries\n* 1 Tbsp. sugar and grated lemon rind, mixed\n\nInstructions:\n\n1. Preheat the oven to 375\u00b0F (190\u00b0C). Line a 12-cup muffin tin with paper liners.\n2. In a medium bowl, whisk together the flour, sugar, baking powder, and salt.\n3. In a large bowl, whisk together the egg, milk, and melted butter.\n4. Add the dry ingredients to the wet ingredients and stir until just combined. Do not overmix.\n5. Gently fold in the blueberries and lemon sugar mixture.\n6. Divide the batter evenly among the muffin cups.\n7. Bake for 20-25 minutes, or until the muffins are golden brown and a toothpick inserted into the center of a muffin comes out clean.\n8. Allow the muffins to cool in the tin for 5 minutes, then transfer them to a wire rack to cool completely.\n\nThese Blueberry Lemon Muffins are perfect for a breakfast or brunch treat, with the sweetness of the blueberries and the brightness of the lemon zest.",
+        "evaluation": {
+            "BLEU": 4.295666301280443e-79,
+            "ROUGE-1": 0.09248554913294797,
+            "ROUGE-2": 0.040697674418604654,
+            "ROUGE-L": 0.07514450867052024
+        }
+    },
+    {
+        "recipe_name": "Stuffed Cabbage Rolls",
+        "ingredients": [
+            "1 head cabbage",
+            "1 lb. ground beef",
+            "1/2 c. rice",
+            "1 small onion, chopped",
+            "2 eggs",
+            "salt and pepper to taste",
+            "1 large onion, sliced",
+            "2 (8 oz.) cans tomato sauce",
+            "2 (29 oz.) cans tomatoes",
+            "juice of 2 lemons",
+            "1/2 c. packed brown sugar"
+        ],
+        "instructions": [
+            "Pour boiling water over cabbage in bowl.",
+            "Let stand for several minutes to loosen leaves; drain.",
+            "Combine ground beef, rice, chopped onion, eggs, salt and pepper in bowl."
+        ],
+        "response": "After considering multiple approaches, I've decided to create a hearty and flavorful dish that combines the ingredients in a unique way. Here's the final recipe:\n\n**Cabbage and Ground Beef Stuffed Tomatoes with Lemon-Brown Sugar Glaze and Caramelized Onions**\n\nThis dish is a fusion of Italian and Middle Eastern flavors, with a twist of sweetness from the lemon-brown sugar glaze.\n\n**Preparation:**\n\n1. **Caramelize the onions:** In a large skillet, cook the sliced onions over medium-low heat for 20-25 minutes, stirring occasionally, until they're dark golden brown and caramelized.\n2. **Prepare the cabbage:** Shred the cabbage and set it aside.\n3. **Cook the rice:** Cook the rice according to package instructions and set it aside.\n4. **Brown the ground beef:** In a large skillet, cook the ground beef over medium-high heat, breaking it up with a spoon as it cooks, until it's browned and cooked through.\n5. **Add the chopped onion and cabbage:** Add the chopped onion and shredded cabbage to the skillet with the ground beef and cook until the cabbage is wilted.\n6. **Add the eggs:** Crack in the eggs and scramble them with the ground beef and cabbage mixture.\n7. **Season with salt and pepper:** Add salt and pepper to taste.\n8. **Prepare the stuffed tomatoes:** Cut the tops off the 2 (29 oz.) cans of tomatoes and scoop out the insides, leaving a shell. Fill each tomato with the ground beef and cabbage mixture.\n9. **Make the lemon-brown sugar glaze:** In a small bowl, whisk together the juice of 2 lemons, 1/2 c. packed brown sugar, and a pinch of salt.\n10. **Assemble the dish:** Place the stuffed tomatoes on a baking sheet and brush the lemon-brown sugar glaze over the tops.\n11. **Bake:** Bake the stuffed tomatoes in a preheated oven at 375\u00b0F (190\u00b0C) for 20-25 minutes, or until the filling is heated through and the glaze is caramelized.\n12. **Serve:** Serve the stuffed tomatoes with the caramelized onions and a side of cooked rice.\n\nThis dish is a unique and flavorful combination of textures and tastes, with the sweetness of the lemon-brown sugar glaze balancing out the savory flavors of the ground beef and cabbage. The caramelized onions add a depth of flavor and a satisfying crunch.",
+        "evaluation": {
+            "BLEU": 3.1353879007634546e-79,
+            "ROUGE-1": 0.09156626506024096,
+            "ROUGE-2": 0.019370460048426148,
+            "ROUGE-L": 0.07228915662650603
+        }
+    },
+    {
+        "recipe_name": "Oriental Salad",
+        "ingredients": [
+            "1 can LeSueur small peas",
+            "1 can Shoe Peg white corn",
+            "1 can French-cut green beans",
+            "1 (16 oz.) can bean sprouts",
+            "1 (4 oz.) jar pimientos",
+            "1 large onion, shredded fine",
+            "1 (6 oz.) jar sliced mushrooms",
+            "1 (10 oz.) can water chestnuts",
+            "1 large green pepper, chopped",
+            "1 c. celery, chopped",
+            "1 c. salad oil",
+            "1/2 c. vinegar",
+            "1 c. water",
+            "3/4 c. sugar",
+            "salt and pepper to taste"
+        ],
+        "instructions": [
+            "Drain vegetables well.",
+            "Put in blender and mix salad oil, vinegar, water, sugar, salt and pepper to taste.",
+            "Pour over vegetables and mix together.",
+            "Place in refrigerator overnight before serving.",
+            "Keeps well for 2 weeks."
+        ],
+        "response": "Considering the given ingredients, I will evaluate multiple options before finalizing the best recipe.\n\n**Option 1: Asian-Style Stir-Fry**\n\n* Cooking method: Stir-frying\n* Cuisine: Asian\n* Complementary flavors: Soy sauce, ginger, garlic\n* Ingredients to use: bean sprouts, water chestnuts, mushrooms, green pepper, onion, celery, salad oil, vinegar, sugar, salt, and pepper\n* Additional ingredients to consider: soy sauce, ginger, garlic\n\n**Option 2: Vegetable Medley Casserole**\n\n* Cooking method: Baking\n* Cuisine: American\n* Complementary flavors: cheese, breadcrumbs\n* Ingredients to use: LeSueur small peas, Shoe Peg white corn, French-cut green beans, water chestnuts, mushrooms, onion, green pepper, celery, salad oil, vinegar, sugar, salt, and pepper\n* Additional ingredients to consider: shredded cheese, breadcrumbs\n\n**Option 3: Chinese-Style Vegetable Soup**\n\n* Cooking method: Simmering\n* Cuisine: Chinese\n* Complementary flavors: soy sauce, ginger, garlic\n* Ingredients to use: bean sprouts, water chestnuts, mushrooms, green pepper, onion, celery, salad oil, vinegar, sugar, salt, and pepper\n* Additional ingredients to consider: soy sauce, ginger, garlic\n\n**Option 4: Grilled Vegetable Skewers**\n\n* Cooking method: Grilling\n* Cuisine: Mediterranean\n* Complementary flavors: lemon juice, olive oil\n* Ingredients to use: mushrooms, green pepper, onion, celery, water chestnuts, bean sprouts, salad oil, vinegar, sugar, salt, and pepper\n* Additional ingredients to consider: lemon juice, olive oil\n\nAfter considering these options, I will choose the best recipe.\n\n**Final Recipe: Asian-Style Stir-Fry**\n\nThis recipe offers a variety of textures and flavors, and the Asian-inspired flavors complement the ingredients well. The stir-frying method allows for quick cooking and easy preparation.\n\n**Asian-Style Stir-Fry Recipe:**\n\nIngredients:\n\n* 1 can LeSueur small peas\n* 1 can Shoe Peg white corn\n* 1 can French-cut green beans\n* 1 (16 oz.) can bean sprouts\n* 1 (6 oz.) jar sliced mushrooms\n* 1 (10 oz.) can water chestnuts\n* 1 large green pepper, chopped\n* 1 c. celery, chopped\n* 1 c. salad oil\n* 1/2 c. vinegar\n* 1 c. water\n* 3/4 c. sugar\n* Salt and pepper to taste\n* Additional ingredients:\n\t+ 2 cloves garlic, minced\n\t+ 1 tablespoon grated ginger\n\t+ 2 tablespoons soy sauce\n\nInstructions:\n\n1. Heat the salad oil in a large skillet or wok over medium-high heat.\n2. Add the garlic and ginger and stir-fry for 1 minute.\n3. Add the mushrooms, green pepper, onion, and celery and stir-fry for 3-4 minutes.\n4. Add the water chestnuts, bean sprouts, LeSueur small peas, Shoe Peg white corn, and French-cut green beans. Stir-fry for 2-3 minutes.\n5. In a small bowl, whisk together the vinegar, water, and sugar. Pour the mixture over the vegetables and stir-fry for 1 minute.\n6. Season with soy sauce, salt, and pepper to taste.\n7. Serve hot and enjoy!",
+        "evaluation": {
+            "BLEU": 0.010032216207038116,
+            "ROUGE-1": 0.10278372591006422,
+            "ROUGE-2": 0.043010752688172046,
+            "ROUGE-L": 0.07708779443254818
+        }
+    },
+    {
+        "recipe_name": "Pecan Pie Bars",
+        "ingredients": [
+            "2 1/2 c. flour",
+            "1 c. (2 sticks) cold butter or margarine",
+            "1/2 c. sugar",
+            "1/2 tsp. salt",
+            "4 eggs",
+            "1 1/2 c. Karo light or dark corn syrup",
+            "1 1/2 c. sugar",
+            "3 Tbsp. butter or margarine, melted",
+            "1 1/2 tsp. vanilla",
+            "2 1/2 c. pecan halves or coarsely chopped pecans"
+        ],
+        "instructions": [
+            "Cookie Crust:",
+            "Spray a 15 x 10 x 1-inch pan with cooking spray.",
+            "In a large bowl with mixer at medium speed, beat the flour, butter or margarine (cut in pieces), sugar and salt until mixture resembles fine crumbs.",
+            "Press firmly into prepared pan. Bake 20 to 23 minutes or until golden brown.",
+            "Top with filling and complete baking."
+        ],
+        "response": "Considering the ingredients, I'll break down the decision-making process into several branches:\n\n**Branch 1: Cuisine**\n\n* Option 1: Southern American (pecan pie is a classic Southern dessert)\n* Option 2: French (considering the use of butter and sugar, a French-inspired dessert could be a good fit)\n* Option 3: Other (considering the use of corn syrup, a dessert with a more modern or experimental twist could be interesting)\n\n**Branch 2: Cooking Method**\n\n* Option 1: Baked (traditional method for pecan pie)\n* Option 2: Stovetop (considering a sauce or syrup-based dessert)\n* Option 3: No-Cook (considering a dessert that doesn't require baking, such as a fudge or a no-bake pie)\n\n**Branch 3: Complementary Flavors**\n\n* Option 1: Classic (using traditional flavors like vanilla and sugar)\n* Option 2: Spicy (adding a pinch of cayenne pepper or red pepper flakes for a spicy kick)\n* Option 3: Fruity (considering the addition of dried cranberries or cherries for a fruity twist)\n\n**Branch 4: Texture**\n\n* Option 1: Smooth (using a blender or food processor to create a smooth filling)\n* Option 2: Chunky (leaving the pecans in larger pieces for a chunky texture)\n* Option 3: Crispy (adding a crunchy topping, such as chopped pecans or a streusel topping)\n\nConsidering these branches, I'll choose the following options:\n\n* Cuisine: Southern American (pecan pie is a classic Southern dessert)\n* Cooking Method: Baked (traditional method for pecan pie)\n* Complementary Flavors: Classic (using traditional flavors like vanilla and sugar)\n* Texture: Chunky (leaving the pecans in larger pieces for a chunky texture)\n\n**Final Recipe:**\n\nPecan Pie\n\nIngredients:\n\n* 2 1/2 c. flour\n* 1 c. (2 sticks) cold butter or margarine\n* 1/2 c. sugar\n* 1/2 tsp. salt\n* 4 eggs\n* 1 1/2 c. Karo light or dark corn syrup\n* 1 1/2 c. sugar\n* 3 Tbsp. butter or margarine, melted\n* 1 1/2 tsp. vanilla\n* 2 1/2 c. pecan halves or coarsely chopped pecans\n\nInstructions:\n\n1. Preheat oven to 350\u00b0F.\n2. In a large bowl, whisk together flour, sugar, and salt.\n3. Add cold butter or margarine and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.\n4. Press mixture into the bottom and up the sides of a 9-inch pie dish.\n5. In a separate bowl, whisk together eggs, corn syrup, sugar, melted butter or margarine, and vanilla.\n6. Stir in pecan halves or coarsely chopped pecans.\n7. Pour filling into the pie crust.\n8. Bake for 45-50 minutes or until the filling is set and the crust is golden brown.\n9. Let cool before serving.\n\nThis classic Southern dessert is a staple for a reason \u2013 the combination of gooey pecans, sweet corn syrup, and flaky crust is a match made in heaven.",
+        "evaluation": {
+            "BLEU": 6.049249447277199e-79,
+            "ROUGE-1": 0.14285714285714285,
+            "ROUGE-2": 0.04263565891472868,
+            "ROUGE-L": 0.10038610038610038
+        }
+    },
+    {
+        "recipe_name": "Catskinner Cake",
+        "ingredients": [
+            "2 c. flour",
+            "2 tsp. baking soda",
+            "1/2 tsp. salt",
+            "2 c. sugar",
+            "1 c. flaked coconut",
+            "3/4 c. buttermilk",
+            "3/4 c. oil",
+            "3 large eggs",
+            "2 tsp. vanilla",
+            "1 (8 oz.) crushed pineapple, drained",
+            "1 c. chopped nuts",
+            "1 c. sugar",
+            "1/2 c. butter",
+            "1/2 c. buttermilk",
+            "3 Tbsp. light corn syrup",
+            "1/2 tsp. vanilla"
+        ],
+        "instructions": [
+            "Combine first 9 ingredients in a large mixing bowl; beat at medium speed 5 minutes. Stir in pineapple and nuts. Pour batter into a greased and floured 9 x 13-inch pan. Bake at 350\u00b0 for 40 to 45 minutes. Set pan on wire rack."
+        ],
+        "response": "Considering the ingredients and the various options, I would propose the following recipe:\n\n**Caribbean Pineapple Upside-Down Cake with Coconut and Pecans**\n\nThis recipe combines elements of Caribbean cuisine, with the use of coconut, pineapple, and a hint of tropical flavors. The addition of chopped nuts and a crunchy pecan topping adds texture and depth to the dish.\n\n**Method:**\n\n1. Preheat the oven to 350\u00b0F (180\u00b0C). Grease a 10-inch tube pan or Bundt pan and set it aside.\n2. In a medium bowl, whisk together the flour, baking soda, and salt. Set aside.\n3. In a large bowl, use an electric mixer to cream together the sugar, oil, eggs, and vanilla extract until light and fluffy.\n4. Add the flour mixture to the wet ingredients and mix until just combined.\n5. Stir in the crushed pineapple, chopped nuts, and flaked coconut.\n6. Pour the batter into the prepared pan and smooth the top.\n7. To make the topping, melt the butter and sugar in a small saucepan over low heat, stirring until the sugar dissolves.\n8. Stir in the buttermilk, corn syrup, and vanilla extract.\n9. Pour the topping mixture evenly over the batter in the pan.\n10. Bake for 45-50 minutes or until a toothpick inserted into the center comes out clean.\n11. Remove the cake from the oven and let it cool in the pan for 10 minutes.\n12. Transfer the cake to a wire rack to cool completely.\n\n**Why this recipe?**\n\nThis recipe stands out for several reasons:\n\n* The combination of coconut, pineapple, and chopped nuts creates a unique and delicious flavor profile that is reminiscent of Caribbean cuisine.\n* The use of buttermilk and corn syrup adds a rich and creamy texture to the cake.\n* The crunchy pecan topping adds a satisfying texture and flavor contrast to the moist and fluffy cake.\n* The recipe is relatively easy to make and requires minimal special equipment.\n\nOverall, this recipe offers a unique and delicious twist on a classic cake recipe, making it a great choice for special occasions or everyday baking.",
+        "evaluation": {
+            "BLEU": 2.4614924007392317e-155,
+            "ROUGE-1": 0.18414322250639387,
+            "ROUGE-2": 0.030848329048843184,
+            "ROUGE-L": 0.1227621483375959
+        }
+    },
+    {
+        "recipe_name": "Chocolate Delight",
+        "ingredients": [
+            "1 stick butter",
+            "1 c. plain flour",
+            "1/2 c. nuts",
+            "8 oz. cream cheese",
+            "1 c. powdered sugar",
+            "2 (9 oz.) Cool Whip",
+            "2 pkg. chocolate instant pudding",
+            "3 c. milk"
+        ],
+        "instructions": [
+            "Mix butter, flour and nuts.",
+            "Grease pan with butter and bake 10 to 15 minutes at 300\u00b0.",
+            "Cool."
+        ],
+        "response": "Let's break down the ingredients and consider different cuisines, cooking methods, and complementary flavors.\n\n**Initial Considerations:**\n\n1. The presence of nuts and chocolate pudding suggests a dessert.\n2. The combination of cream cheese, powdered sugar, and Cool Whip indicates a cheesecake or a dessert with a creamy texture.\n3. The use of flour and milk suggests a baked good.\n\n**Cuisine Options:**\n\n1. **American Desserts:** Consider a classic cheesecake or a dessert with a creamy texture, such as a cream cheese frosting.\n2. **European Pastries:** Think of a French or German-inspired dessert, like a cheesecake or a creamy tart.\n3. **Asian-Inspired Desserts:** Consider a Japanese-style cheesecake or a creamy dessert with a nutty flavor.\n\n**Cooking Methods:**\n\n1. **Baking:** Use the flour, milk, and chocolate pudding to create a baked dessert, such as a cheesecake or a creamy tart.\n2. **No-Bake:** Utilize the Cool Whip, cream cheese, and powdered sugar to create a no-bake dessert, like a cheesecake or a creamy mousse.\n\n**Complementary Flavors:**\n\n1. **Nutty Flavors:** Pair the nuts with a chocolate or caramel flavor to create a rich and indulgent dessert.\n2. **Fruity Flavors:** Consider adding a fruit component, like strawberries or blueberries, to balance the sweetness of the dessert.\n\n**Final Recipe:**\n\nAfter considering the ingredients, cuisines, cooking methods, and complementary flavors, I propose the following recipe:\n\n**Chocolate Nut Cheesecake Bars**\n\nIngredients:\n\n* 1 stick butter\n* 1 c. plain flour\n* 1/2 c. nuts\n* 8 oz. cream cheese\n* 1 c. powdered sugar\n* 2 (9 oz.) Cool Whip\n* 2 pkg. chocolate instant pudding\n* 3 c. milk\n\nInstructions:\n\n1. Preheat the oven to 350\u00b0F (180\u00b0C).\n2. Prepare a 9x13-inch baking dish with parchment paper.\n3. Mix the flour, nuts, and melted butter to create a crust.\n4. Press the crust into the prepared baking dish.\n5. In a separate bowl, mix the cream cheese, powdered sugar, and chocolate pudding.\n6. Fold in the Cool Whip and milk.\n7. Pour the cheesecake mixture over the crust.\n8. Bake for 35-40 minutes or until the edges are set.\n9. Allow the cheesecake to cool completely before cutting into bars.\n\nThis recipe combines the best of the ingredients, with a nutty crust, a creamy cheesecake filling, and a rich chocolate flavor. The no-bake method allows for a smooth and creamy texture, while the baking method provides a crispy crust. The chocolate and nut flavors complement each other perfectly, creating a decadent and indulgent dessert.",
+        "evaluation": {
+            "BLEU": 1.2473421993032878e-155,
+            "ROUGE-1": 0.05620608899297424,
+            "ROUGE-2": 0.009411764705882354,
+            "ROUGE-L": 0.04215456674473068
+        }
+    },
+    {
+        "recipe_name": "Beef Pastichio(Greek)  ",
+        "ingredients": [
+            "1 1/2 lb. ground beef",
+            "1 (7 oz.) pkg. elbow macaroni",
+            "2 Tbsp. butter or margarine",
+            "1/4 c. flour",
+            "3 c. milk",
+            "1 large onion, finely chopped",
+            "1 tsp. salt",
+            "1/4 tsp. pepper",
+            "1/2 tsp. cinnamon",
+            "1/8 tsp. oregano leaves",
+            "1 (10 3/4 oz.) can tomato puree",
+            "3 eggs",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Prepare macaroni per package directions; drain.",
+            "Rinse with cold water; drain.",
+            "Stir flour into melted butter or margarine in heavy saucepan.",
+            "Gradually stir in milk and cook until thick, stirring occasionally.",
+            "Cover and cool.",
+            "Brown onion and ground beef in large frying pan.",
+            "Pour off drippings.",
+            "Sprinkle salt, pepper, cinnamon and oregano over beef.",
+            "Stir in tomato puree; cook slowly for 10 minutes."
+        ],
+        "response": "Considering the ingredients, I will evaluate different cuisines, cooking methods, and complementary flavors to select the best option.\n\n**Option 1: Italian-American Mac and Cheese**\n\n* Cuisine: Italian-American\n* Cooking Method: Baked Macaroni and Cheese\n* Complementary Flavors: Parmesan cheese, tomato puree, and cinnamon add a rich and savory flavor profile.\n* Recipe: Cook the elbow macaroni, mix it with ground beef, chopped onion, tomato puree, and spices. Top with a creamy bechamel sauce made with butter, flour, and milk, and finish with grated Parmesan cheese.\n\n**Option 2: Greek-Style Stuffed Macaroni**\n\n* Cuisine: Greek\n* Cooking Method: Stuffed Macaroni with Ground Beef and Tomato Sauce\n* Complementary Flavors: Oregano leaves and cinnamon add a Mediterranean twist to the dish.\n* Recipe: Cook the elbow macaroni, mix it with ground beef, chopped onion, tomato puree, and spices. Stuff the macaroni with a mixture of ground beef, chopped onion, and spices, and top with a tomato sauce made with tomato puree and spices.\n\n**Option 3: Creamy Beef and Macaroni Casserole**\n\n* Cuisine: American Comfort Food\n* Cooking Method: Baked Casserole\n* Complementary Flavors: The combination of ground beef, chopped onion, and spices creates a hearty and comforting flavor profile.\n* Recipe: Cook the elbow macaroni, mix it with ground beef, chopped onion, and spices. Top with a creamy sauce made with butter, flour, and milk, and finish with grated Parmesan cheese.\n\n**Option 4: Spicy Beef and Macaroni Skillet**\n\n* Cuisine: Mexican-Inspired\n* Cooking Method: Skillet\n* Complementary Flavors: The addition of eggs and spices creates a spicy and savory flavor profile.\n* Recipe: Cook the ground beef and chopped onion in a skillet, add the elbow macaroni, tomato puree, and spices. Crack in eggs and scramble them with the macaroni and beef mixture.\n\nAfter considering these options, I will choose **Option 1: Italian-American Mac and Cheese** as the final recipe. This dish combines the comforting flavors of macaroni and cheese with the savory flavors of ground beef and tomato puree, creating a rich and satisfying meal.",
+        "evaluation": {
+            "BLEU": 1.5533255093944055e-155,
+            "ROUGE-1": 0.10909090909090909,
+            "ROUGE-2": 0.020887728459530023,
+            "ROUGE-L": 0.08311688311688312
+        }
+    },
+    {
+        "recipe_name": "Shrimp Pasta Salad",
+        "ingredients": [
+            "1 box twisted pasta (8 oz.), cooked, drained and cooled",
+            "2 to 3 tomatoes, chopped or salad tomatoes, halved",
+            "2 large cucumbers, sliced",
+            "1/2 yellow or red bell pepper",
+            "2 to 3 fresh green onions (optional)",
+            "1/2 bottle McCormick Salad Supreme seasoning",
+            "1 (8 oz.) bottle Italian dressing or make your own with canola oil and rice vinegar (excellent)",
+            "1 lb. shrimp, boiled and deveined (may cut in half, if preferred)",
+            "1/2 green bell pepper, cut in small strips",
+            "1 purple onion, cut in small strips"
+        ],
+        "instructions": [
+            "Prepare all ingredients and mix together.",
+            "Chill 1 to 2 hours before serving.",
+            "Better prepared the day before.",
+            "Makes 8 or more servings."
+        ],
+        "response": "To create the final recipe, I'll consider multiple approaches and evaluate the options based on flavor, texture, and overall appeal.\n\n**Option 1: Italian Pasta Salad**\n\n* Combine cooked pasta, chopped tomatoes, sliced cucumbers, and bell peppers in a large bowl.\n* Add the boiled and deveined shrimp, cut in half if preferred.\n* Sprinkle McCormick Salad Supreme seasoning over the top and toss to coat.\n* Drizzle Italian dressing over the salad and toss again to combine.\n* Garnish with chopped green onions, if desired.\n\n**Option 2: Asian-Style Pasta Salad**\n\n* Combine cooked pasta, chopped tomatoes, sliced cucumbers, and bell peppers in a large bowl.\n* Add the boiled and deveined shrimp, cut in half if preferred.\n* Mix in a homemade Asian-inspired dressing made with canola oil, rice vinegar, soy sauce, and a hint of sesame oil.\n* Sprinkle toasted sesame seeds and chopped green onions over the top for added texture and flavor.\n\n**Option 3: Mediterranean Pasta Salad**\n\n* Combine cooked pasta, chopped tomatoes, sliced cucumbers, and bell peppers in a large bowl.\n* Add the boiled and deveined shrimp, cut in half if preferred.\n* Mix in a homemade Mediterranean-inspired dressing made with canola oil, lemon juice, and a hint of oregano.\n* Sprinkle crumbled feta cheese and chopped fresh parsley over the top for added flavor and texture.\n\n**Option 4: Grilled Shrimp and Vegetable Pasta Salad**\n\n* Grill the shrimp and purple onion strips until slightly charred.\n* Combine cooked pasta, chopped tomatoes, sliced cucumbers, and bell peppers in a large bowl.\n* Add the grilled shrimp and purple onion strips to the bowl.\n* Mix in a homemade vinaigrette made with canola oil, rice vinegar, and a hint of garlic.\n* Sprinkle chopped green onions over the top for added flavor and texture.\n\nAfter considering these options, I'll choose the **Grilled Shrimp and Vegetable Pasta Salad** as the final recipe. This option combines the flavors of grilled shrimp and vegetables with a light and refreshing vinaigrette, making it a perfect summer salad.\n\n**Final Recipe: Grilled Shrimp and Vegetable Pasta Salad**\n\nIngredients:\n\n* 1 box twisted pasta (8 oz.), cooked, drained, and cooled\n* 2 to 3 tomatoes, chopped\n* 2 large cucumbers, sliced\n* 1/2 yellow or red bell pepper, sliced\n* 1 lb. shrimp, boiled and deveined (cut in half if preferred)\n* 1/2 green bell pepper, cut in small strips\n* 1 purple onion, cut in small strips\n* 1/2 bottle canola oil\n* 2 tablespoons rice vinegar\n* 1 clove garlic, minced\n* Salt and pepper to taste\n* Chopped green onions for garnish\n\nInstructions:\n\n1. Grill the shrimp and purple onion strips until slightly charred.\n2. Combine cooked pasta, chopped tomatoes, sliced cucumbers, and bell peppers in a large bowl.\n3. Add the grilled shrimp and purple onion strips to the bowl.\n4. Mix in a homemade vinaigrette made with canola oil, rice vinegar, and a hint of garlic.\n5. Sprinkle chopped green onions over the top for added flavor and texture.\n6. Serve immediately and enjoy!",
+        "evaluation": {
+            "BLEU": 6.0118551336772754e-232,
+            "ROUGE-1": 0.043392504930966476,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.03550295857988166
+        }
+    },
+    {
+        "recipe_name": "Apricot Delight",
+        "ingredients": [
+            "1 large box apricot or mixed fruit jello",
+            "2 c. boiling water",
+            "2 c. cold water",
+            "1 c. miniature marshmallows",
+            "1 can drained pineapple",
+            "2 large bananas",
+            "2 Tbsp. butter",
+            "2 Tbsp. flour",
+            "1 egg, well beaten",
+            "1/2 c. sugar",
+            "1/2 c. pineapple juice",
+            "8 oz. cream cheese",
+            "1 pkg. Dream Whip"
+        ],
+        "instructions": [
+            "Mix jello, water (hot and cold), marshmallows, pineapple and bananas together and let chill.",
+            "Cook together butter, flour, egg, sugar and pineapple juice.",
+            "Let cook, then spread on top of chilled jello.",
+            "Beat together cream cheese and Dream Whip as directed. Spread as topping."
+        ],
+        "response": "Considering the given ingredients, I will evaluate multiple options before finalizing the best recipe.\n\n**Option 1: Fruit Salad with Marshmallow Topping (American Dessert)**\n\n* Use the apricot or mixed fruit jello to create a fruit salad base with the pineapple, bananas, and a splash of pineapple juice.\n* Mix the miniature marshmallows with a bit of sugar and butter to create a marshmallow topping.\n* Serve the fruit salad with the marshmallow topping on top.\n\n**Option 2: Cream Cheese Pineapple Upside-Down Cake (American Cake)**\n\n* Use the pineapple, bananas, and pineapple juice to create a caramelized topping for a cake.\n* Mix the cream cheese with the sugar, egg, and flour to create a cheesecake-like filling.\n* Add the Dream Whip to the filling to give it a light and airy texture.\n* Bake the cake in a skillet with the caramelized topping on top.\n\n**Option 3: Jello Mold with Pineapple-Banana Cream Cheese Filling (American Dessert)**\n\n* Use the apricot or mixed fruit jello to create a mold with the pineapple, bananas, and pineapple juice.\n* Mix the cream cheese with the sugar, egg, and flour to create a cheesecake-like filling.\n* Add the Dream Whip to the filling to give it a light and airy texture.\n* Pour the filling into the jello mold and refrigerate until set.\n\n**Option 4: Banana-Pineapple Cream Cheese Panna Cotta (Italian Dessert)**\n\n* Use the bananas, pineapple, and pineapple juice to create a creamy panna cotta base.\n* Mix the cream cheese with the sugar, egg, and flour to create a cheesecake-like filling.\n* Add the Dream Whip to the filling to give it a light and airy texture.\n* Pour the filling into individual cups and refrigerate until set.\n\n**Option 5: Miniature Marshmallow Fruit Pies (American Dessert)**\n\n* Use the apricot or mixed fruit jello to create a fruit filling with the pineapple, bananas, and pineapple juice.\n* Mix the miniature marshmallows with a bit of sugar and butter to create a marshmallow topping.\n* Add the Dream Whip to the filling to give it a light and airy texture.\n* Pour the filling into pre-made pie crusts and top with the marshmallow topping.\n\nAfter considering multiple options, I will choose the best recipe:\n\n**Final Recipe: Banana-Pineapple Cream Cheese Panna Cotta (Italian Dessert)**\n\nThis recipe combines the creamy texture of panna cotta with the sweetness of bananas and pineapple, and the tanginess of cream cheese. The Dream Whip adds a light and airy texture to the filling, making it a perfect dessert for warm weather.",
+        "evaluation": {
+            "BLEU": 4.155517815500776e-79,
+            "ROUGE-1": 0.10989010989010989,
+            "ROUGE-2": 0.03090507726269316,
+            "ROUGE-L": 0.08351648351648351
+        }
+    },
+    {
+        "recipe_name": "Nut Goodie Bars",
+        "ingredients": [
+            "1 (12 oz.) pkg. chocolate chips",
+            "1 (12 oz.) pkg. butterscotch chips",
+            "2 c. peanut butter",
+            "1 c. butter",
+            "1/2 c. evaporated milk",
+            "1/2 c. vanilla pudding mix",
+            "1 tsp. maple flavoring",
+            "2 lb. powdered sugar",
+            "1 lb. Spanish peanuts"
+        ],
+        "instructions": [
+            "Mix ingredients together over hot water.",
+            "Spread half of mixture on a jelly roll pan, 17 x 11 1/2-inch.",
+            "Chill until firm. Melt butter.",
+            "Add milk and pudding mix.",
+            "Bring to boil and boil for 1 minute.",
+            "Remove from heat and add maple flavoring.",
+            "Add sugar and blend until smooth.",
+            "Spread this mixture on cooled first layer.",
+            "Cool.",
+            "Mix peanuts into remaining half of chocolate mixture and spread on top of cooled second layer.",
+            "Chill; cut into small squares as this bar is very rich."
+        ],
+        "response": "Considering the ingredients, I'll break down the decision-making process into several branches:\n\n**Cuisine:**\n\n1. **American**: Given the presence of peanut butter, chocolate chips, and butterscotch chips, an American dessert seems like a natural fit.\n2. **Asian**: The combination of peanut butter and Spanish peanuts could work well in an Asian-inspired dessert, such as a Southeast Asian-style peanut brittle.\n3. **European**: The use of evaporated milk and vanilla pudding mix suggests a European-style dessert, possibly a creamy, sweet treat.\n\n**Cooking Method:**\n\n1. **Baking**: The presence of powdered sugar and the need for a stable structure suggest a baked dessert.\n2. **Candy Making**: The use of chocolate chips, butterscotch chips, and peanut butter could be used to create a variety of candies.\n3. **Frying**: The Spanish peanuts and peanut butter could be used to create a crispy, fried dessert.\n\n**Complementary Flavors:**\n\n1. **Nutty**: The Spanish peanuts and peanut butter provide a strong nutty flavor, which could be complemented by other nutty flavors, such as hazelnut or almond.\n2. **Sweet**: The powdered sugar and evaporated milk suggest a sweet dessert, which could be balanced by a tangy or salty flavor.\n3. **Rich**: The use of chocolate chips and butterscotch chips suggests a rich, indulgent dessert.\n\nConsidering these branches, I'll select the best option:\n\n**Final Recipe:** Peanut Butter Chocolate Chip Brittle with Butterscotch Glaze\n\nThis recipe combines the nutty flavor of peanut butter and Spanish peanuts with the richness of chocolate chips and butterscotch chips. The brittle texture is achieved through a combination of baking and frying, while the butterscotch glaze adds a sweet and tangy flavor.\n\n**Recipe:**\n\nIngredients:\n\n* 1 (12 oz.) pkg. chocolate chips\n* 1 (12 oz.) pkg. butterscotch chips\n* 2 c. peanut butter\n* 1 c. butter\n* 1/2 c. evaporated milk\n* 1/2 c. vanilla pudding mix\n* 1 tsp. maple flavoring\n* 2 lb. powdered sugar\n* 1 lb. Spanish peanuts\n\nInstructions:\n\n1. Preheat the oven to 350\u00b0F (180\u00b0C).\n2. In a large bowl, combine the peanut butter, butter, and evaporated milk. Mix until smooth.\n3. Stir in the vanilla pudding mix and maple flavoring.\n4. Gradually add the powdered sugar, mixing until a dough forms.\n5. Fold in the Spanish peanuts and chocolate chips.\n6. Roll out the dough to a thickness of about 1/4 inch (6 mm).\n7. Cut into desired shapes and bake for 15-20 minutes, or until lightly golden.\n8. Allow the brittle to cool completely before glazing with a butterscotch glaze made from the butterscotch chips and evaporated milk.\n\nThis recipe combines the best of American cuisine, baking, and complementary flavors to create a unique and delicious dessert.",
+        "evaluation": {
+            "BLEU": 2.480391758753689e-155,
+            "ROUGE-1": 0.16730038022813687,
+            "ROUGE-2": 0.030534351145038167,
+            "ROUGE-L": 0.10266159695817491
+        }
+    },
+    {
+        "recipe_name": "Milk Chocolate Pie",
+        "ingredients": [
+            "3 slightly heaping Tbsp. cocoa",
+            "1 1/2 c. sugar",
+            "pinch of salt",
+            "3 Tbsp. cornstarch",
+            "3 eggs, separated",
+            "1/4 stick margarine",
+            "1 large can Pet or Carnation milk",
+            "regular milk",
+            "6 heaping tsp. sugar",
+            "1/4 tsp. cream of tartar",
+            "1 baked pie shell"
+        ],
+        "instructions": [
+            "Mix first four ingredients.",
+            "Add well beaten egg yolks and mix (reserve whites for meringue and set aside).",
+            "Add margarine and canned milk with enough regular milk to make 3 cups.",
+            "Place in heavy saucepan and cook thick.",
+            "A heavy pan is very important. Beat with electric mixer and pour into a baked pie shell.",
+            "Top with meringue."
+        ],
+        "response": "Let's break down the ingredients and consider different options.\n\n**Option 1: Classic American Chocolate Cream Pie**\n\n* Use the cocoa, sugar, and cornstarch to make a rich chocolate custard.\n* Whip the egg whites with the cream of tartar and a pinch of salt to create a stable meringue topping.\n* Combine the egg yolks with the sugar, cornstarch, and milk to create a creamy base.\n* Add the melted margarine and cocoa to the egg yolk mixture for a deep chocolate flavor.\n* Pour the chocolate custard into the baked pie shell and top with the meringue.\n* Bake until the meringue is golden brown.\n\n**Option 2: French-Inspired Chocolate Cream Pie**\n\n* Use the cocoa and sugar to make a French-style chocolate ganache.\n* Whip the egg whites with the cream of tartar and a pinch of salt to create a light and airy meringue topping.\n* Combine the egg yolks with the sugar, cornstarch, and milk to create a creamy base.\n* Add the melted margarine and cocoa to the egg yolk mixture for a deep chocolate flavor.\n* Pour the chocolate custard into the baked pie shell and top with the meringue.\n* Bake until the meringue is golden brown.\n\n**Option 3: Japanese-Style Mochi Cream Pie**\n\n* Use the cornstarch and sugar to make a sweet and chewy mochi dough.\n* Whip the egg whites with the cream of tartar and a pinch of salt to create a light and airy meringue topping.\n* Combine the egg yolks with the sugar, cornstarch, and milk to create a creamy base.\n* Add the melted margarine and cocoa to the egg yolk mixture for a deep chocolate flavor.\n* Pour the chocolate custard into the baked pie shell and top with the mochi dough.\n* Bake until the mochi is golden brown.\n\n**Option 4: Italian-Style Panna Cotta Cream Pie**\n\n* Use the cocoa and sugar to make a rich and creamy panna cotta base.\n* Whip the egg whites with the cream of tartar and a pinch of salt to create a light and airy meringue topping.\n* Combine the egg yolks with the sugar, cornstarch, and milk to create a creamy base.\n* Add the melted margarine and cocoa to the egg yolk mixture for a deep chocolate flavor.\n* Pour the chocolate panna cotta into the baked pie shell and top with the meringue.\n* Chill until set.\n\nAfter considering these options, I would recommend the **Classic American Chocolate Cream Pie**. This option allows for a rich and creamy chocolate custard, a stable meringue topping, and a deep chocolate flavor. The combination of the cocoa, sugar, and cornstarch creates a smooth and velvety texture, while the egg whites add a light and airy element to the meringue topping.\n\n**Final Recipe:**\n\nIngredients:\n\n* 3 slightly heaping Tbsp. cocoa\n* 1 1/2 c. sugar\n* Pinch of salt\n* 3 Tbsp. cornstarch\n* 3 eggs, separated\n* 1/4 stick margarine\n* 1 large can Pet or Carnation milk\n* 6 heaping tsp. sugar\n* 1/4 tsp. cream of tartar\n* 1 baked pie shell\n\nInstructions:\n\n1. Preheat the oven to 375\u00b0F (190\u00b0C).\n2. In a medium saucepan, combine the cocoa, sugar, and cornstarch. Whisk until smooth.\n3. In a separate bowl, whisk together the egg yolks and sugar.\n4. Add the melted margarine and cocoa to the egg yolk mixture and whisk until smooth.\n5. Pour the chocolate custard into the baked pie shell.\n6. In a separate bowl, whip the egg whites with the cream of tartar and a pinch of salt until stiff peaks form.\n7. Spread the meringue topping over the chocolate custard.\n8. Bake until the meringue is golden brown.\n9. Serve chilled.",
+        "evaluation": {
+            "BLEU": 4.389792950971713e-79,
+            "ROUGE-1": 0.11042944785276072,
+            "ROUGE-2": 0.024615384615384615,
+            "ROUGE-L": 0.08588957055214724
+        }
+    },
+    {
+        "recipe_name": "Salmon Casserole Special",
+        "ingredients": [
+            "1 medium onion, minced",
+            "1 clove garlic, minced",
+            "1/4 c. olive oil",
+            "2 (1 lb.) cans tomatoes, chopped",
+            "1 (6 oz.) can tomato paste",
+            "1 tsp. salt",
+            "1/2 tsp. pepper",
+            "1 tsp. basil",
+            "1/2 tsp. oregano",
+            "1/4 c. chopped parsley",
+            "1 lb. broad green noodles",
+            "8 oz. Mozzarella, sliced",
+            "1 lb. Ricotta or creamed cottage cheese",
+            "1 (1 lb.) can salmon, drained and flaked",
+            "1/2 c. grated Parmesan cheese"
+        ],
+        "instructions": [
+            "Cook onion and garlic in hot olive oil until soft.",
+            "Add next 7 ingredients and simmer 30 minutes, stirring frequently."
+        ],
+        "response": "Considering the ingredients, I will evaluate multiple options before finalizing the best recipe.\n\n**Option 1: Italian-Style Pasta Bake**\n\n* Cooking method: Baking\n* Cuisine: Italian\n* Description: A classic Italian-inspired pasta bake featuring broad green noodles, tomato sauce, and a blend of cheeses.\n* Complementary flavors: The sweetness of the tomatoes pairs well with the savory flavors of the cheese and the fishy taste of the salmon is balanced by the herbs.\n\n**Option 2: Mediterranean Salmon Pasta**\n\n* Cooking method: Pan-searing and baking\n* Cuisine: Mediterranean\n* Description: A flavorful and healthy pasta dish featuring pan-seared salmon, broad green noodles, and a tangy tomato sauce.\n* Complementary flavors: The smokiness of the salmon is complemented by the brightness of the herbs and the creaminess of the cheese.\n\n**Option 3: Creamy Salmon Pasta with Tomato Sauce**\n\n* Cooking method: Pan-searing and cream sauce\n* Cuisine: Italian-American\n* Description: A rich and creamy pasta dish featuring pan-seared salmon, broad green noodles, and a decadent tomato sauce.\n* Complementary flavors: The creaminess of the cheese and the sauce balances the fishy taste of the salmon, while the herbs add a fresh and herbaceous note.\n\n**Option 4: Greek-Style Salmon Pasta**\n\n* Cooking method: Baking\n* Cuisine: Greek\n* Description: A hearty and flavorful pasta dish featuring broad green noodles, pan-seared salmon, and a tangy tomato sauce.\n* Complementary flavors: The feta-like flavor of the ricotta cheese pairs well with the brininess of the salmon and the herbs add a bright and herbaceous note.\n\nAfter considering these options, I will choose the **Option 2: Mediterranean Salmon Pasta** as the final recipe. This dish offers a perfect balance of flavors and textures, with the pan-seared salmon providing a nice smokiness, the broad green noodles adding a satisfying chew, and the tangy tomato sauce bringing everything together. The herbs and cheese add a bright and creamy note to the dish, making it a well-rounded and delicious option.",
+        "evaluation": {
+            "BLEU": 5.1224570760947575e-232,
+            "ROUGE-1": 0.029761904761904767,
+            "ROUGE-2": 0.0,
+            "ROUGE-L": 0.023809523809523808
+        }
+    },
+    {
+        "recipe_name": "Crock-Pot Meatballs",
+        "ingredients": [
+            "2 lb. ground meat",
+            "2 onions, minced",
+            "3/4 c. milk",
+            "2 c. breadcrumbs",
+            "4 eggs",
+            "1/2 tsp. garlic powder",
+            "1 Tbsp. dill weed",
+            "2 Tbsp. dill weed",
+            "3 cans cream of mushroom soup"
+        ],
+        "instructions": [
+            "Mix first 7 ingredients together.",
+            "Make into balls and put on cookie sheets; close together.",
+            "Put in 350\u00b0 oven for 15 minutes. Bump the pan and bake for 5 more minutes.",
+            "Refrigerate until ready to heat in crock-pot.",
+            "Add cream sauce (3 cans of cream of mushroom soup and 2 tablespoons dill weed).",
+            "Heat until warmed.",
+            "Great for parties.",
+            "Makes a big batch."
+        ],
+        "response": "Let's break down the ingredients and consider different cuisines, cooking methods, and complementary flavors.\n\n**Initial Considerations:**\n\n1. The presence of ground meat, breadcrumbs, and cream of mushroom soup suggests a meatball or meatloaf dish.\n2. The use of dill weed and milk indicates a potential Eastern European or Scandinavian influence.\n3. The combination of eggs, breadcrumbs, and cream of mushroom soup could also suggest a creamy, comforting casserole.\n\n**Cuisine Options:**\n\n1. **Scandinavian Meatballs:** Inspired by Swedish and Norwegian cuisine, this dish would feature meatballs made with ground meat, breadcrumbs, and dill weed, served with a creamy bechamel sauce (made with milk, cream of mushroom soup, and dill weed).\n2. **Eastern European Meatloaf:** Drawing from Polish and Russian traditions, this dish would feature a meatloaf made with ground meat, breadcrumbs, and dill weed, topped with a creamy mushroom sauce (made with cream of mushroom soup, milk, and dill weed).\n3. **American-Style Meatball Casserole:** This dish would feature meatballs made with ground meat, breadcrumbs, and dill weed, baked in a creamy casserole with cream of mushroom soup, milk, and eggs.\n\n**Cooking Method Options:**\n\n1. **Baked Meatballs:** Meatballs could be baked in the oven for a crispy exterior and a tender interior.\n2. **Pan-Fried Meatballs:** Meatballs could be pan-fried for a crispy exterior and a juicy interior.\n3. **Slow Cooker Meatballs:** Meatballs could be cooked in a slow cooker for a hands-off, comforting meal.\n\n**Complementary Flavors:**\n\n1. **Garlic and Onion:** The minced onions and garlic powder could add a savory flavor to the dish.\n2. **Mushroom Flavor:** The cream of mushroom soup would add a rich, earthy flavor to the dish.\n3. **Dill and Cream:** The dill weed and milk would add a bright, creamy flavor to the dish.\n\n**Final Recipe:**\n\nAfter considering the ingredients, cuisines, cooking methods, and complementary flavors, I propose the following recipe:\n\n**Scandinavian Meatball Casserole**\n\nIngredients:\n\n* 2 lb. ground meat\n* 2 onions, minced\n* 3/4 c. milk\n* 2 c. breadcrumbs\n* 4 eggs\n* 1/2 tsp. garlic powder\n* 2 Tbsp. dill weed\n* 3 cans cream of mushroom soup\n\nInstructions:\n\n1. Preheat the oven to 375\u00b0F (190\u00b0C).\n2. In a large bowl, combine the ground meat, minced onions, breadcrumbs, eggs, garlic powder, and dill weed. Mix well.\n3. Use your hands to shape the mixture into meatballs, about 1 1/2 inches (3.8 cm) in diameter.\n4. In a separate bowl, whisk together the milk, cream of mushroom soup, and dill weed.\n5. In a 9x13-inch baking dish, create a layer of the milk mixture. Arrange the meatballs on top of the layer.\n6. Pour the remaining milk mixture over the meatballs.\n7. Bake the casserole in the preheated oven for 25-30 minutes, or until the meatballs are cooked through and the casserole is hot and bubbly.\n8. Serve the Scandinavian Meatball Casserole hot, garnished with chopped fresh dill and a side of steamed vegetables.\n\nThis recipe combines the best of Scandinavian and American cuisines, with a creamy, comforting casserole that's perfect for a weeknight dinner or a special occasion.",
+        "evaluation": {
+            "BLEU": 0.00814056440665418,
+            "ROUGE-1": 0.1254355400696864,
+            "ROUGE-2": 0.024475524475524476,
+            "ROUGE-L": 0.08362369337979093
+        }
+    },
+    {
+        "recipe_name": "Wild Rice Casserole",
+        "ingredients": [
+            "1 lb. sausage",
+            "1 medium onion, chopped",
+            "1 medium green pepper, chopped",
+            "1/2 c. celery, chopped",
+            "1 (6 oz.) pkg. long grain and wild rice mix",
+            "1 can cream chicken soup",
+            "1 can cream mushroom soup",
+            "1 c. shredded Cheddar cheese",
+            "1 (4 oz.) can sliced mushrooms, drained"
+        ],
+        "instructions": [
+            "Brown sausage in skillet, reserving drippings. Saute onion, green pepper and celery in drippings. Combine sausage, sauted vegetables, long grain and wild rice mix (including seasoning packet), soups, cheese and mushrooms. Spoon into a shallow 2-quart casserole dish. Cover and bake at 325\u00b0 for 1 hour or until done."
+        ],
+        "response": "Let's break down the decision-making process into a tree of options:\n\n**Root Decision: Cuisine**\n\n1. **Option 1: American Comfort Food**\n\t* Consider the use of sausage, cream soups, and Cheddar cheese, which are common in American comfort food.\n\t* Possible dish: Sausage and Rice Casserole\n2. **Option 2: French-inspired**\n\t* Think about the use of mushrooms, which are a staple in French cuisine.\n\t* Possible dish: Sausage and Mushroom Bourguignon\n3. **Option 3: Southern-style**\n\t* Consider the use of sausage, which is a common ingredient in Southern cuisine.\n\t* Possible dish: Sausage and Rice Jambalaya\n\n**Decision 1: Cooking Method**\n\n1. **Option 1: One-pot dish**\n\t* Consider cooking the sausage, vegetables, and rice in one pot.\n\t* Possible dish: Sausage and Rice Skillet\n2. **Option 2: Casserole**\n\t* Think about layering the ingredients in a baking dish.\n\t* Possible dish: Sausage and Rice Casserole (from Option 1)\n3. **Option 3: Stovetop and oven**\n\t* Consider cooking the sausage and vegetables on the stovetop and then finishing the dish in the oven.\n\t* Possible dish: Sausage and Mushroom Bourguignon (from Option 2)\n\n**Decision 2: Flavor Profile**\n\n1. **Option 1: Spicy**\n\t* Add some heat to the dish with red pepper flakes or hot sauce.\n\t* Possible dish: Spicy Sausage and Rice Jambalaya (from Option 3)\n2. **Option 2: Earthy**\n\t* Emphasize the earthy flavors of the mushrooms and sausage.\n\t* Possible dish: Sausage and Mushroom Bourguignon (from Option 2)\n3. **Option 3: Creamy**\n\t* Use the cream soups to create a rich and creamy sauce.\n\t* Possible dish: Sausage and Rice Casserole (from Option 1)\n\n**Final Decision**\n\nAfter considering the options, I choose:\n\n**Sausage and Mushroom Bourguignon (from Option 2 and Option 3)**\n\nThis dish combines the flavors of sausage, mushrooms, and cream soups in a French-inspired stew. The long grain and wild rice mix adds a nice texture to the dish. The Cheddar cheese can be sprinkled on top of the dish before serving, adding a creamy and rich element to the flavor profile.\n\n**Final Recipe:**\n\nIngredients:\n\n* 1 lb. sausage\n* 1 medium onion, chopped\n* 1 medium green pepper, chopped\n* 1/2 c. celery, chopped\n* 1 (6 oz.) pkg. long grain and wild rice mix\n* 1 can cream chicken soup\n* 1 can cream mushroom soup\n* 1 c. shredded Cheddar cheese\n* 1 (4 oz.) can sliced mushrooms, drained\n\nInstructions:\n\n1. Cook the sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.\n2. Add the chopped onion, green pepper, and celery to the skillet and cook until the vegetables are tender.\n3. Add the sliced mushrooms to the skillet and cook until they are tender.\n4. Stir in the cream chicken and mushroom soups and bring the mixture to a simmer.\n5. Add the long grain and wild rice mix to the skillet and stir to combine.\n6. Transfer the skillet to the oven and bake at 350\u00b0F for 25-30 minutes, or until the rice is tender and the liquid has been absorbed.\n7. Sprinkle the shredded Cheddar cheese on top of the dish and return it to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.\n8. Serve the Sausage and Mushroom Bourguignon hot, garnished with chopped fresh herbs if desired.",
+        "evaluation": {
+            "BLEU": 0.015496795287835544,
+            "ROUGE-1": 0.11986301369863012,
+            "ROUGE-2": 0.05154639175257732,
+            "ROUGE-L": 0.0821917808219178
+        }
+    },
+    {
+        "recipe_name": "Spiced Apple Muffins",
+        "ingredients": [
+            "3 c. flour",
+            "4 tsp. baking powder",
+            "2 tsp. salt",
+            "3 Tbsp. sugar",
+            "1/2 c. shortening",
+            "2 eggs, well beaten",
+            "1 1/4 c. milk",
+            "1 c. chopped apples",
+            "2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon"
+        ],
+        "instructions": [
+            "Combine dry ingredients and cut in shortening.",
+            "Mix eggs and milk and add to flour mixture.",
+            "Fold in apples.",
+            "Put batter in greased muffin tins and sprinkle with sugar and cinnamon mix. Bake at 425\u00b0 for 25 minutes."
+        ],
+        "response": "Considering the ingredients, I'll break down the decision-making process into a tree of options:\n\n1. **Cuisine**:\n\t* Option 1: American (e.g., apple pie, muffins)\n\t* Option 2: European (e.g., German apple strudel, French apple tart)\n\t* Option 3: Other (e.g., Asian-inspired, Indian-style)\n\n2. **Cooking Method**:\n\t* Option 1: Baked goods (e.g., muffins, cakes)\n\t* Option 2: Savory dishes (e.g., stews, casseroles)\n\t* Option 3: Fried or deep-fried (e.g., doughnuts, fritters)\n\n3. **Complementary Flavors**:\n\t* Option 1: Cinnamon and nutmeg (classic apple pie spices)\n\t* Option 2: Vanilla and caramel (sweet and creamy)\n\t* Option 3: Citrus and ginger (bright and zesty)\n\nConsidering these options, I'll evaluate the ingredients and choose the best approach:\n\n* The presence of chopped apples and cinnamon suggests a classic American dessert, such as an apple pie or muffin.\n* The use of shortening and sugar indicates a baked good, rather than a savory dish.\n* The combination of cinnamon and sugar is a classic pairing, but I'll also consider the option of adding a hint of citrus or ginger to balance the sweetness.\n\nBased on these considerations, I'll choose the following recipe:\n\n**Apple Cinnamon Muffins**\n\nIngredients:\n\n* 3 c. flour\n* 4 tsp. baking powder\n* 2 tsp. salt\n* 3 Tbsp. sugar\n* 1/2 c. shortening\n* 2 eggs, well beaten\n* 1 1/4 c. milk\n* 1 c. chopped apples\n* 2 Tbsp. sugar, mixed with 1/4 tsp. cinnamon\n\nInstructions:\n\n1. Preheat the oven to 375\u00b0F (190\u00b0C).\n2. In a large bowl, whisk together the flour, baking powder, salt, and sugar.\n3. Add the shortening and mix until the mixture resembles coarse crumbs.\n4. In a separate bowl, whisk together the eggs, milk, and chopped apples.\n5. Add the wet ingredients to the dry ingredients and mix until just combined.\n6. Fold in the cinnamon-sugar mixture.\n7. Divide the batter evenly among 12 muffin cups.\n8. Bake for 20-25 minutes, or until the muffins are golden brown.\n\nThese apple cinnamon muffins will be a delicious and moist breakfast or snack option, with the perfect balance of sweet and spicy flavors.",
+        "evaluation": {
+            "BLEU": 4.608926286211778e-79,
+            "ROUGE-1": 0.16103896103896104,
+            "ROUGE-2": 0.031331592689295036,
+            "ROUGE-L": 0.09350649350649351
+        }
+    },
+    {
+        "recipe_name": "Burritos",
+        "ingredients": [
+            "1 lb. ground beef",
+            "1 large can refried beans",
+            "1 small can refried beans",
+            "8 oz. Mozzarella cheese, grated",
+            "8 oz. mild Cheddar cheese, grated",
+            "8 to 10 oz. picante sauce",
+            "1 large onion, chopped",
+            "sour cream",
+            "flour tortillas"
+        ],
+        "instructions": [
+            "Brown ground beef; drain off grease.",
+            "Add refried beans and picante sauce.",
+            "Heat thoroughly.",
+            "Add cheeses.",
+            "Cook until cheese melts."
+        ],
+        "response": "Let's break down the decision-making process into a tree of options:\n\n1. **Cuisine**:\n\t* Option 1: Mexican\n\t\t+ Option 1.1: Tacos\n\t\t\t- Use ground beef, refried beans, picante sauce, and cheese to create a taco filling.\n\t\t\t- Serve in flour tortillas with additional toppings like chopped onion, sour cream, and more cheese.\n\t\t+ Option 1.2: Quesadillas\n\t\t\t- Use ground beef, refried beans, and cheese to create a quesadilla filling.\n\t\t\t- Place the filling inside a flour tortilla and cook until the cheese is melted and the tortilla is crispy.\n\t* Option 2: Tex-Mex\n\t\t+ Option 2.1: Beef and Bean Casserole\n\t\t\t- Use ground beef, refried beans, and cheese to create a casserole.\n\t\t\t- Add chopped onion and picante sauce for extra flavor.\n\t\t\t- Bake in the oven until the cheese is melted and bubbly.\n\t\t+ Option 2.2: Beef and Bean Burritos\n\t\t\t- Use ground beef, refried beans, and cheese to create a burrito filling.\n\t\t\t- Add chopped onion and picante sauce for extra flavor.\n\t\t\t- Serve in flour tortillas with additional toppings like sour cream and more cheese.\n\n2. **Cooking Method**:\n\t* Option 1: Stovetop\n\t\t+ Option 1.1: Skillet Tacos\n\t\t\t- Cook the ground beef and chopped onion in a skillet until the beef is browned.\n\t\t\t- Add refried beans, picante sauce, and cheese to the skillet and stir until the cheese is melted.\n\t\t\t- Serve in flour tortillas.\n\t\t+ Option 1.2: Quesadilla Skillet\n\t\t\t- Cook the ground beef and chopped onion in a skillet until the beef is browned.\n\t\t\t- Place a tortilla in the skillet and sprinkle with cheese, ground beef, and refried beans.\n\t\t\t- Fold the tortilla in half and cook until the cheese is melted and the tortilla is crispy.\n\t* Option 2: Oven\n\t\t+ Option 2.1: Beef and Bean Casserole\n\t\t\t- Mix the ground beef, refried beans, chopped onion, and picante sauce in a bowl.\n\t\t\t- Add cheese to the mixture and stir until combined.\n\t\t\t- Pour the mixture into a baking dish and bake in the oven until the cheese is melted and bubbly.\n\t\t+ Option 2.2: Beef and Bean Burritos\n\t\t\t- Mix the ground beef, refried beans, chopped onion, and picante sauce in a bowl.\n\t\t\t- Add cheese to the mixture and stir until combined.\n\t\t\t- Spoon the mixture onto a flour tortilla and roll up the burrito.\n\t\t\t- Bake in the oven until the cheese is melted and the tortilla is crispy.\n\n3. **Complementary Flavors**:\n\t* Option 1: Add a spicy kick\n\t\t+ Option 1.1: Add diced jalapenos to the ground beef mixture.\n\t\t+ Option 1.2: Add a sprinkle of cumin to the refried beans.\n\t* Option 2: Add a tangy flavor\n\t\t+ Option 2.1: Add a dollop of sour cream to the top of the tacos or burritos.\n\t\t+ Option 2.2: Add a sprinkle of chopped cilantro to the refried beans.\n\nAfter considering these options, I would recommend the following recipe:\n\n**Final Recipe: Beef and Bean Quesadillas**\n\n* Use ground beef, refried beans, and cheese to create a quesadilla filling.\n* Add chopped onion and picante sauce for extra flavor.\n* Place the filling inside a flour tortilla and cook until the cheese is melted and the tortilla is crispy.\n* Serve with additional toppings like sour cream, chopped cilantro, and more cheese.\n\nThis recipe combines the flavors of Mexican cuisine with the convenience of a quesadilla. The ground beef and refried beans provide a hearty filling, while the cheese and picante sauce add a creamy and spicy kick. The addition of chopped onion and sour cream adds a tangy and fresh flavor to the dish.",
+        "evaluation": {
+            "BLEU": 1.4317812695348282e-155,
+            "ROUGE-1": 0.05128205128205128,
+            "ROUGE-2": 0.027444253859348195,
+            "ROUGE-L": 0.05128205128205128
+        }
+    },
+    {
+        "recipe_name": "Toll House Pie",
+        "ingredients": [
+            "2 eggs",
+            "1/2 c. all-purpose flour",
+            "1/2 c. sugar",
+            "1/2 c. firmly packed brown sugar",
+            "1 c. butter, melted and cooled to room temperature",
+            "1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels",
+            "1 c. chopped walnuts",
+            "1 (9-inch) unbaked pie shell",
+            "whipped cream or ice cream (optional)"
+        ],
+        "instructions": [
+            "Preheat oven to 325\u00b0.",
+            "In large bowl, beat eggs until foamy; beat in flour, sugar and brown sugar until well blended.",
+            "Blend in melted butter.",
+            "Stir in chocolate morsels and walnuts.",
+            "Pour into pie shell.",
+            "Bake for 1 hour.",
+            "Remove from oven.",
+            "Serve warm with whipped cream or ice cream.",
+            "(This recipe may be doubled.",
+            "Bake 2 pies, freeze one for later use.)"
+        ],
+        "response": "Considering the ingredients, I'll break down the decision-making process into a tree of options:\n\n1. **Cuisine**:\n\t* Option 1: **American Classic**\n\t\t+ Sub-option 1: **Chocolate Chip Cookie Pie**\n\t\t\t- This option combines the chocolate morsels, walnuts, and sugar to create a sweet and crunchy filling.\n\t\t\t- The melted butter and eggs will help bind the mixture together.\n\t\t\t- The pie shell will provide a flaky crust.\n\t\t+ Sub-option 2: **Walnut Chocolate Chip Bars**\n\t\t\t- This option uses the same ingredients but in a bar form, with a shortbread crust.\n\t\t\t- The brown sugar will add a deeper flavor to the bars.\n\t* Option 2: **European-Inspired**\n\t\t+ Sub-option 1: **French Chocolate Tart**\n\t\t\t- This option uses the chocolate morsels and walnuts to create a rich and decadent filling.\n\t\t\t- The pie shell will be used as a crust, and the filling will be topped with whipped cream or ice cream.\n\t\t\t- The brown sugar will add a caramel-like flavor to the filling.\n\t\t+ Sub-option 2: **German Chocolate Walnut Cake**\n\t\t\t- This option uses the chocolate morsels and walnuts to create a moist and flavorful cake.\n\t\t\t- The brown sugar will add a deeper flavor to the cake.\n\t\t\t- The pie shell will be used as a crust, and the cake will be topped with whipped cream or ice cream.\n\n2. **Cooking Method**:\n\t* Option 1: **Baked**\n\t\t+ This option uses the oven to cook the filling and crust.\n\t\t+ The baking time will depend on the chosen sub-option.\n\t* Option 2: **No-Bake**\n\t\t+ This option uses the refrigerator to chill the filling and crust.\n\t\t+ The no-bake option will be chosen if the chosen sub-option requires a shorter preparation time.\n\n3. **Complementary Flavors**:\n\t* Option 1: **Vanilla**\n\t\t+ This option uses vanilla extract to complement the chocolate and walnuts.\n\t\t+ The vanilla will add a creamy and sweet flavor to the filling.\n\t* Option 2: **Caramel**\n\t\t+ This option uses caramel sauce to complement the chocolate and walnuts.\n\t\t+ The caramel will add a rich and sweet flavor to the filling.\n\nConsidering the options, I choose the **American Classic** option, specifically the **Chocolate Chip Cookie Pie** sub-option. This option combines the chocolate morsels, walnuts, and sugar to create a sweet and crunchy filling, which will be baked in the pie shell. The melted butter and eggs will help bind the mixture together, and the whipped cream or ice cream will be used as a topping.\n\n**Final Recipe:**\n\n**Chocolate Chip Cookie Pie**\n\nIngredients:\n\n* 2 eggs\n* 1/2 c. all-purpose flour\n* 1/2 c. sugar\n* 1/2 c. firmly packed brown sugar\n* 1 c. butter, melted and cooled to room temperature\n* 1 c. (6 oz.) Nestle Toll House semi-sweet chocolate morsels\n* 1 c. chopped walnuts\n* 1 (9-inch) unbaked pie shell\n* Whipped cream or ice cream (optional)\n\nInstructions:\n\n1. Preheat the oven to 350\u00b0F (180\u00b0C).\n2. In a large bowl, whisk together the flour, sugar, and brown sugar.\n3. Add the melted butter, eggs, chocolate morsels, and walnuts to the bowl. Mix until well combined.\n4. Pour the mixture into the pie shell.\n5. Bake for 35-40 minutes or until the filling is set and the crust is golden brown.\n6. Let the pie cool before serving. Top with whipped cream or ice cream, if desired.",
+        "evaluation": {
+            "BLEU": 0.017478606419245153,
+            "ROUGE-1": 0.15126050420168066,
+            "ROUGE-2": 0.06070826306913996,
+            "ROUGE-L": 0.10084033613445378
+        }
+    },
+    {
+        "recipe_name": "Creamy Potato-Onion Soup",
+        "ingredients": [
+            "2 Tbsp. butter or margarine",
+            "2 Tbsp. flour",
+            "1 c. finely chopped onion (use processor)",
+            "1 large clove garlic or garlic powder",
+            "2 (14 1/2 oz.) cans (defatted) chicken broth",
+            "4 c. peeled and cubed potatoes",
+            "1/2 c. finely sliced green onion tops",
+            "1/8 tsp. salt",
+            "1/4 tsp. pepper",
+            "1 qt. milk (whole)"
+        ],
+        "instructions": [
+            "Melt butter or margarine in Dutch oven over low heat.",
+            "Add flour to make a paste.",
+            "Cook 1 minute, stirring constantly.",
+            "Add onions and garlic.",
+            "Cook until onions are tender.",
+            "Add broth, milk and potatoes.",
+            "Add seasoning to suit taste.",
+            "Bring to boil; turn heat down low and cook until potatoes are tender.",
+            "Mash with potato masher or put potatoes in food processor until smooth. Serve with grated sharp cheese and green onion tops.",
+            "Good with corn muffins."
+        ],
+        "response": "Let's break down the decision-making process into a tree of options:\n\n**Root Decision: Cuisine**\n\n1. **French Cuisine**\n\t* Consider: Creamy sauces, rich flavors, and tender potatoes\n\t* Options:\n\t\t+ **Potato Gratin**: Thinly slice potatoes, layer in a baking dish, and top with a creamy sauce made from butter, flour, and milk\n\t\t+ **Creamy Potato Soup**: Blend cooked potatoes, chicken broth, and milk for a smooth soup\n2. **Irish Cuisine**\n\t* Consider: Hearty, comforting dishes with a focus on potatoes and vegetables\n\t* Options:\n\t\t+ **Colcannon**: Boil potatoes, mash with butter and milk, and mix in chopped green onions and garlic\n\t\t+ **Potato and Leek Soup**: Saut\u00e9 chopped leeks and garlic, then add potatoes, chicken broth, and milk for a creamy soup\n3. **Other Cuisines**\n\t* Consider: Global flavors and cooking techniques\n\t* Options:\n\t\t+ **Indian-Style Potato Curry**: Saut\u00e9 onions, garlic, and ginger, then add potatoes, chicken broth, and a blend of spices\n\t\t+ **Mexican Potato Tacos**: Saut\u00e9 diced potatoes with onions and garlic, then serve in tacos with a creamy sauce made from milk and spices\n\n**Branch Decision: Cooking Method**\n\n1. **Baking**\n\t* Consider: Even cooking, caramelized flavors, and a crispy crust\n\t* Options:\n\t\t+ **Potato Gratin** (French Cuisine)\n\t\t+ **Roasted Potatoes**: Toss diced potatoes with oil, salt, and pepper, then roast in the oven until crispy\n2. **Boiling/Sauteing**\n\t* Consider: Quick cooking, tender potatoes, and a variety of flavors\n\t* Options:\n\t\t+ **Colcannon** (Irish Cuisine)\n\t\t+ **Potato and Leek Soup** (Irish Cuisine)\n3. **Blending**\n\t* Consider: Smooth textures, creamy sauces, and a focus on flavor\n\t* Options:\n\t\t+ **Creamy Potato Soup** (French Cuisine)\n\t\t+ **Indian-Style Potato Curry** (Other Cuisines)\n\n**Leaf Decision: Final Recipe**\n\nBased on the options above, I recommend the **Creamy Potato Soup** (French Cuisine) with a **Blending** cooking method. This recipe combines the richness of French cuisine with the smooth texture of a blended soup. The creamy sauce is made from butter, flour, and milk, which complements the tender potatoes and chicken broth. The addition of garlic and green onions adds a depth of flavor and a pop of color to the dish.\n\n**Final Recipe: Creamy Potato Soup**\n\nIngredients:\n\n* 2 Tbsp. butter or margarine\n* 2 Tbsp. flour\n* 1 c. finely chopped onion\n* 1 large clove garlic or garlic powder\n* 2 (14 1/2 oz.) cans (defatted) chicken broth\n* 4 c. peeled and cubed potatoes\n* 1/2 c. finely sliced green onion tops\n* 1/8 tsp. salt\n* 1/4 tsp. pepper\n* 1 qt. milk (whole)\n\nInstructions:\n\n1. Saut\u00e9 the chopped onion and garlic in butter until softened.\n2. Add the flour and cook for 1-2 minutes, stirring constantly.\n3. Gradually add the chicken broth, whisking continuously to avoid lumps.\n4. Bring the mixture to a boil, then reduce the heat and simmer for 10-15 minutes.\n5. Add the cubed potatoes and cook until tender.\n6. Use an immersion blender to puree the soup until smooth.\n7. Stir in the milk and cook for an additional 2-3 minutes, or until heated through.\n8. Season with salt and pepper to taste.\n9. Serve hot, garnished with chopped green onions and a dollop of sour cream (optional).",
+        "evaluation": {
+            "BLEU": 6.065028251300271e-79,
+            "ROUGE-1": 0.20069204152249134,
+            "ROUGE-2": 0.04861111111111111,
+            "ROUGE-L": 0.11072664359861592
+        }
+    }
+]
