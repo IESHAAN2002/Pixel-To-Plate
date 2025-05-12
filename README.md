@@ -20,8 +20,15 @@
 - **Gemini 2.0**: Advanced dietary planning via Google's Gemini AI  
 - **DeepSeek-R1**: Recipe generation using DeepSeek's 70B parameter model  
 - **Google Translate API**: For translating recipes to Hindi  
-- **DuckDuckGo Search**: For retrieving up-to-date nutritional information  
+- **DuckDuckGo Search**: For retrieving up-to-date nutritional information
+- **YOLO Varients**: For Identifying the ingredients best was YOLOv8_x 
+- **facebook/nllb-200-distilled-600M**: For transalating the recipe instructions and it is a distilled version of Meta’s No Language Left Behind (NLLB) model
+- **facebook/m2m100-418M**: For transalating the recipe instructions which is a fully multilingual model trained on 100 languages
+- **Helsinki-NLP/opus-mt-en-hi (MarianMT)**: Specifically tailored for the English–Hindi language, Based on the MarianMT architecture, developed by the Helsinki-NLP group
 
+**🔍 Note:**  
+> We explored the use of advanced vision-based and multilingual models as part of the project.  
+> However, due to limitations in Streamlit's support for certain heavy-weight or multi-modal models, we were unable to integrate them directly into the Streamlit application.
 ---
 
 ## 📋 Prerequisites
