@@ -100,7 +100,8 @@ streamlit run Pixel_to_plate.py
 ---
 
 ## 📄 Input File Format
-Visual where user will add personal details, ![User Input](visuals/User Inputs.png)
+Visual where user will add personal details:
+![User Input](visuals/User Inputs.png)
 Create a simple text file (`ingredients.txt`) with your available ingredients, one line:
 > tomatoes,
 > onions,
@@ -114,7 +115,7 @@ Create a simple text file (`ingredients.txt`) with your available ingredients, o
 ![Recipe in English](visuals/English_generation.png)
 
 ### 🧾 Recipe Instruction Generated in Hindi
-![Recipe in Hindi](visuals/Hindi_result.png)
+![Recipe in Hindi](visuals/Hindi result.png)
 
 ### 🧠 Prompt Tuning (Chain of Thought)
 ![Chain of Thought](visuals/Thought_process.png)
@@ -122,13 +123,13 @@ Create a simple text file (`ingredients.txt`) with your available ingredients, o
 ### 🍽️ Personalized Dietary Guidance
 
 #### Part 1
-![Dietary Guidance 1](visuals/Dietary_Part_1.png)
+![Dietary Guidance 1](visuals/Dietary Part - 1.png)
 
 #### Part 2
-![Dietary Guidance 2](visuals/Dietary_Part_2.png)
+![Dietary Guidance 2](visuals/Dietary Part -2.png)
 
 #### Part 3
-![Dietary Guidance 3](visuals/Dietary_Part_3.png)
+![Dietary Guidance 3](visuals/Dietary Part - 3.png)
 
 
 ---
