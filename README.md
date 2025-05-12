@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Personalized Recipe Generation**: Create recipes tailored to your specific health profile and goals  
 - **Ingredient-Based Recommendations**: Upload a list of available ingredients and get recipes you can make now  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🔧 Technologies
+## Technologies
 
 - **Streamlit**: Interactive web interface  
 - **Gemini 2.0**: Advanced dietary planning via Google's Gemini AI  
@@ -112,18 +112,18 @@ Create a simple text file (`ingredients.txt`) with your available ingredients, o
 > chicken breast
 
 ---
-## 🖼️ Output
+## Output
 
-### 🧾 Recipe Instruction Generated in English
+### Recipe Instruction Generated in English
 ![Recipe in English](visuals/English_generation.png)
 
-### 🧾 Recipe Instruction Generated in Hindi
+### Recipe Instruction Generated in Hindi
 ![Recipe in Hindi](visuals/Hindi_result.png)
 
-### 🧠 Prompt Tuning (Chain of Thought)
+### Prompt Tuning (Chain of Thought)
 ![Chain of Thought](visuals/Thought_process.png)
 
-### 🍽️ Personalized Dietary Guidance
+### Personalized Dietary Guidance
 
 #### Part 1
 ![Dietary Guidance 1](visuals/Dietary_Part_1.png)
@@ -137,7 +137,7 @@ Create a simple text file (`ingredients.txt`) with your available ingredients, o
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 - Complex System Lab, IIIT Delhi for providing the platform
 - Together AI for providing access to DeepSeek models  
 - Agno AI for agent capabilities  
