@@ -22,8 +22,8 @@
 - **Google Translate API**: For translating recipes to Hindi  
 - **DuckDuckGo Search**: For retrieving up-to-date nutritional information
 - **YOLO Varients**: For Identifying the ingredients best was YOLOv8_x 
-- **facebook/nllb-200-distilled-600M**: It is a distilled version of Meta’s No Language Left Behind (NLLB) model
-- **facebook/m2m100-418M**: For transalating the recipe instructions which is a fully multilingual model trained on 100 languages
+- **Facebook/nllb-200-distilled-600M**: It is a distilled version of Meta’s No Language Left Behind (NLLB) model
+- **Facebook/m2m100-418M**: For transalating the recipe instructions which is a fully multilingual model trained on 100 languages
 - **Helsinki-NLP/opus-mt-en-hi (MarianMT)**: Known for its lightweight architecture, tailored for the English–Hindi language
 
 **🔍 Note:**  
