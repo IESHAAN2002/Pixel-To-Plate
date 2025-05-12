@@ -25,6 +25,7 @@
 - **Facebook/nllb-200-distilled-600M**: It is a distilled version of Meta’s No Language Left Behind (NLLB) model
 - **Facebook/m2m100-418M**: Fully multilingual model trained on 100 languages
 - **Helsinki-NLP/opus-mt-en-hi (MarianMT)**: Lightweight architecture, tailored for the English–Hindi language
+- **Fine Tune LLMs & SLMs**: Models that we tried to fine tuned Llama 3.1, Gemma, Phi-2, T5-small, GPT-2   
 
 **Note:**  
 > We explored the use of advanced vision-based and multilingual models as part of the project.  
