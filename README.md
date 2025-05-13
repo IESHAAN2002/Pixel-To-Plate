@@ -10,7 +10,8 @@
 - **Ingredient-Based Recommendations**: Upload a list of available ingredients and get recipes you can make now  
 - **Multilingual Support**: Translate recipes to Hindi with one click  
 - **Comprehensive Dietary Guidance**: Get nutritional advice aligned with your fitness goals using agentic AI
-- **AI-Powered Customization**: Fine-tune recipes with custom preferences and constraints  
+- **AI-Powered Customization**: Fine-tune recipes with custom preferences and constraints
+- **Object Detection**: Deceting the indigrendts that are present in the fridge
 
 ---
 
